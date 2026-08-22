@@ -1,0 +1,201 @@
+Product_ID,Product_Name,Category,Brand,Cost_Price,Selling_Price
+1,Smartphone Model 1,Electronics,HomeEase,30106.77,40696.64
+2,Smartphone Model 2,Electronics,UrbanCart,28954.02,40309.91
+3,Smartphone Model 3,Electronics,Nova,16734.04,23359.03
+4,Smartphone Model 4,Electronics,Nova,30739.68,41885.03
+5,Smartphone Model 5,Electronics,StyleHub,3397.67,4803.48
+6,Smartphone Model 6,Electronics,GlowCare,18944.12,21794.83
+7,Smartphone Model 7,Electronics,TechPro,22775.73,30948.06
+8,Smartphone Model 8,Electronics,HomeEase,30637.63,43782.92
+9,Smartphone Model 9,Electronics,HomeEase,8147.6,11984.47
+10,Smartphone Model 10,Electronics,GlowCare,12365.55,18200.22
+11,Laptop Model 1,Electronics,TechPro,20227.81,26704.67
+12,Laptop Model 2,Electronics,Nova,16778.37,20855.6
+13,Laptop Model 3,Electronics,HomeEase,10021.84,15039.84
+14,Laptop Model 4,Electronics,GlowCare,9134.5,10524.66
+15,Laptop Model 5,Electronics,Nova,27661.37,38205.74
+16,Laptop Model 6,Electronics,UrbanCart,18263.7,23743.03
+17,Laptop Model 7,Electronics,TechPro,24118.67,30784.12
+18,Laptop Model 8,Electronics,StyleHub,3864.43,5102.7
+19,Laptop Model 9,Electronics,HomeEase,8989.1,13411.65
+20,Laptop Model 10,Electronics,GlowCare,19828.76,27656.21
+21,Headphones Model 1,Electronics,StyleHub,14001.28,17242.26
+22,Headphones Model 2,Electronics,TechPro,27465.03,36885.18
+23,Headphones Model 3,Electronics,TechPro,19634.42,26378.92
+24,Headphones Model 4,Electronics,HomeEase,20281.14,29603.93
+25,Headphones Model 5,Electronics,GlowCare,25792.02,38481.68
+26,Headphones Model 6,Electronics,GlowCare,4300.14,5340.38
+27,Headphones Model 7,Electronics,StyleHub,33231.19,39548.82
+28,Headphones Model 8,Electronics,StyleHub,14109.55,18136.06
+29,Headphones Model 9,Electronics,Nova,21548.78,30681.71
+30,Headphones Model 10,Electronics,Nova,5751.72,8833.65
+31,Smartwatch Model 1,Electronics,HomeEase,28182.27,41690.09
+32,Smartwatch Model 2,Electronics,Nova,32416.28,42924.05
+33,Smartwatch Model 3,Electronics,StyleHub,9318.76,12098.86
+34,Smartwatch Model 4,Electronics,HomeEase,1465.77,1910.97
+35,Smartwatch Model 5,Electronics,GlowCare,21546.7,29269.09
+36,Smartwatch Model 6,Electronics,UrbanCart,33729.01,39563.63
+37,Smartwatch Model 7,Electronics,UrbanCart,22464.15,29778.23
+38,Smartwatch Model 8,Electronics,StyleHub,29792.28,45352.89
+39,Smartwatch Model 9,Electronics,StyleHub,10117.33,11770.94
+40,Smartwatch Model 10,Electronics,StyleHub,17942.59,25646.78
+41,Mixer Model 1,Home & Kitchen,UrbanCart,6056.48,7052.31
+42,Mixer Model 2,Home & Kitchen,Nova,22977.42,35391.16
+43,Mixer Model 3,Home & Kitchen,TechPro,34889.08,51003.27
+44,Mixer Model 4,Home & Kitchen,UrbanCart,23487.72,30820.13
+45,Mixer Model 5,Home & Kitchen,Nova,18193.33,26285.18
+46,Mixer Model 6,Home & Kitchen,GlowCare,32183.33,44085.92
+47,Mixer Model 7,Home & Kitchen,TechPro,29067.3,44066.13
+48,Mixer Model 8,Home & Kitchen,UrbanCart,12259.51,18097.56
+49,Mixer Model 9,Home & Kitchen,HomeEase,21281.76,26129.96
+50,Mixer Model 10,Home & Kitchen,HomeEase,20185.5,25321.56
+51,Air Fryer Model 1,Home & Kitchen,StyleHub,17792.4,24437.01
+52,Air Fryer Model 2,Home & Kitchen,StyleHub,10404.68,15906.74
+53,Air Fryer Model 3,Home & Kitchen,StyleHub,33491.32,50251.89
+54,Air Fryer Model 4,Home & Kitchen,HomeEase,8867.43,11768.03
+55,Air Fryer Model 5,Home & Kitchen,TechPro,19776.43,28833.78
+56,Air Fryer Model 6,Home & Kitchen,HomeEase,33649.17,44872.49
+57,Air Fryer Model 7,Home & Kitchen,HomeEase,31393.86,46927.83
+58,Air Fryer Model 8,Home & Kitchen,GlowCare,4201.95,4945.79
+59,Air Fryer Model 9,Home & Kitchen,GlowCare,27634.66,34215.94
+60,Air Fryer Model 10,Home & Kitchen,TechPro,8163.07,10418.46
+61,Cookware Model 1,Home & Kitchen,TechPro,18150.17,20943.29
+62,Cookware Model 2,Home & Kitchen,GlowCare,8801.78,10449.51
+63,Cookware Model 3,Home & Kitchen,StyleHub,26245.27,33772.34
+64,Cookware Model 4,Home & Kitchen,TechPro,32609.16,43716.56
+65,Cookware Model 5,Home & Kitchen,UrbanCart,7767.03,10714.5
+66,Cookware Model 6,Home & Kitchen,UrbanCart,33157.07,47190.57
+67,Cookware Model 7,Home & Kitchen,GlowCare,17540.13,21572.02
+68,Cookware Model 8,Home & Kitchen,UrbanCart,8585.67,10784.99
+69,Cookware Model 9,Home & Kitchen,StyleHub,7216.41,9019.63
+70,Cookware Model 10,Home & Kitchen,Nova,12557.55,18353.81
+71,Vacuum Cleaner Model 1,Home & Kitchen,GlowCare,32218.56,45760.82
+72,Vacuum Cleaner Model 2,Home & Kitchen,StyleHub,17319.37,19963.16
+73,Vacuum Cleaner Model 3,Home & Kitchen,TechPro,33536.06,49942.04
+74,Vacuum Cleaner Model 4,Home & Kitchen,StyleHub,21780.26,29336.62
+75,Vacuum Cleaner Model 5,Home & Kitchen,StyleHub,30426.59,40963.99
+76,Vacuum Cleaner Model 6,Home & Kitchen,StyleHub,9917.29,12285.91
+77,Vacuum Cleaner Model 7,Home & Kitchen,HomeEase,4619.37,6283.7
+78,Vacuum Cleaner Model 8,Home & Kitchen,StyleHub,16819.45,22980.54
+79,Vacuum Cleaner Model 9,Home & Kitchen,UrbanCart,12253.02,18307.97
+80,Vacuum Cleaner Model 10,Home & Kitchen,StyleHub,16083.28,19270.14
+81,T-Shirt Model 1,Fashion,Nova,16183.46,23072.5
+82,T-Shirt Model 2,Fashion,Nova,23642.49,30777.11
+83,T-Shirt Model 3,Fashion,TechPro,11491.45,16031.85
+84,T-Shirt Model 4,Fashion,TechPro,6672.26,8374.62
+85,T-Shirt Model 5,Fashion,TechPro,16576.39,23127.94
+86,T-Shirt Model 6,Fashion,HomeEase,6559.39,8655.62
+87,T-Shirt Model 7,Fashion,HomeEase,24569.84,31914.35
+88,T-Shirt Model 8,Fashion,UrbanCart,9895.09,12091.36
+89,T-Shirt Model 9,Fashion,Nova,34277.64,48825.23
+90,T-Shirt Model 10,Fashion,StyleHub,25270.42,37188.84
+91,Jeans Model 1,Fashion,UrbanCart,15212.82,19812.47
+92,Jeans Model 2,Fashion,HomeEase,28031.31,40516.93
+93,Jeans Model 3,Fashion,HomeEase,28227.54,34455.75
+94,Jeans Model 4,Fashion,GlowCare,4836.34,7289.85
+95,Jeans Model 5,Fashion,HomeEase,18167.69,26129.21
+96,Jeans Model 6,Fashion,StyleHub,10606.19,14581.98
+97,Jeans Model 7,Fashion,UrbanCart,1812.67,2156.33
+98,Jeans Model 8,Fashion,HomeEase,2242.27,3308.53
+99,Jeans Model 9,Fashion,GlowCare,29388.16,34928.44
+100,Jeans Model 10,Fashion,StyleHub,11812.78,15290.28
+101,Sneakers Model 1,Fashion,TechPro,19578.58,28858.95
+102,Sneakers Model 2,Fashion,GlowCare,841.26,1008.25
+103,Sneakers Model 3,Fashion,StyleHub,33714.61,41454.92
+104,Sneakers Model 4,Fashion,TechPro,22797.81,31127.57
+105,Sneakers Model 5,Fashion,HomeEase,12525.55,17777.23
+106,Sneakers Model 6,Fashion,Nova,27149.84,36075.95
+107,Sneakers Model 7,Fashion,GlowCare,13430.32,16984.11
+108,Sneakers Model 8,Fashion,GlowCare,33487.32,50140.67
+109,Sneakers Model 9,Fashion,GlowCare,28298.94,36362.87
+110,Sneakers Model 10,Fashion,Nova,21489.01,28191.63
+111,Jacket Model 1,Fashion,TechPro,2907.05,3742.68
+112,Jacket Model 2,Fashion,TechPro,11193.21,14176.68
+113,Jacket Model 3,Fashion,HomeEase,21247.67,27795.82
+114,Jacket Model 4,Fashion,GlowCare,27366.95,41748.5
+115,Jacket Model 5,Fashion,HomeEase,20604.15,31652.31
+116,Jacket Model 6,Fashion,UrbanCart,5981.04,8921.83
+117,Jacket Model 7,Fashion,GlowCare,25512.87,36095.84
+118,Jacket Model 8,Fashion,UrbanCart,24569.29,29041.54
+119,Jacket Model 9,Fashion,HomeEase,13987.04,16619.7
+120,Jacket Model 10,Fashion,HomeEase,19262.92,22355.5
+121,Face Wash Model 1,Beauty,Nova,18410.8,28507.38
+122,Face Wash Model 2,Beauty,GlowCare,9296.46,11268.33
+123,Face Wash Model 3,Beauty,UrbanCart,32615.9,42594.36
+124,Face Wash Model 4,Beauty,GlowCare,8771.77,11084.62
+125,Face Wash Model 5,Beauty,UrbanCart,4555.45,6198.59
+126,Face Wash Model 6,Beauty,TechPro,1145.71,1621.66
+127,Face Wash Model 7,Beauty,StyleHub,30268.8,40465.67
+128,Face Wash Model 8,Beauty,UrbanCart,32729.79,44820.77
+129,Face Wash Model 9,Beauty,UrbanCart,33938.55,48499.86
+130,Face Wash Model 10,Beauty,GlowCare,20740.46,27639.1
+131,Serum Model 1,Beauty,StyleHub,22309.41,30688.69
+132,Serum Model 2,Beauty,TechPro,22446.56,30606.19
+133,Serum Model 3,Beauty,Nova,16935.56,21014.51
+134,Serum Model 4,Beauty,TechPro,15548.83,20156.16
+135,Serum Model 5,Beauty,StyleHub,5576.76,6436.82
+136,Serum Model 6,Beauty,TechPro,28565.99,42539.86
+137,Serum Model 7,Beauty,GlowCare,10143.66,13836.35
+138,Serum Model 8,Beauty,HomeEase,32284.78,49356.42
+139,Serum Model 9,Beauty,TechPro,10591.43,15424.8
+140,Serum Model 10,Beauty,StyleHub,20955.58,30777.61
+141,Moisturizer Model 1,Beauty,StyleHub,13171.49,17316.48
+142,Moisturizer Model 2,Beauty,GlowCare,15383.16,19228.31
+143,Moisturizer Model 3,Beauty,HomeEase,25838.56,33742.3
+144,Moisturizer Model 4,Beauty,GlowCare,7837.65,9261.62
+145,Moisturizer Model 5,Beauty,StyleHub,8498.73,12372.58
+146,Moisturizer Model 6,Beauty,TechPro,28293.99,40286.57
+147,Moisturizer Model 7,Beauty,TechPro,22748.73,31001.46
+148,Moisturizer Model 8,Beauty,UrbanCart,14539.7,21684.4
+149,Moisturizer Model 9,Beauty,HomeEase,4911.35,5864.85
+150,Moisturizer Model 10,Beauty,StyleHub,21677.87,27289.27
+151,Shampoo Model 1,Beauty,UrbanCart,17296.06,22108.82
+152,Shampoo Model 2,Beauty,UrbanCart,1879.68,2563.86
+153,Shampoo Model 3,Beauty,UrbanCart,34035.79,42981.95
+154,Shampoo Model 4,Beauty,UrbanCart,25074.58,36128.53
+155,Shampoo Model 5,Beauty,UrbanCart,3293.36,3806.76
+156,Shampoo Model 6,Beauty,HomeEase,12065.66,15379.26
+157,Shampoo Model 7,Beauty,Nova,34929.03,46646.8
+158,Shampoo Model 8,Beauty,UrbanCart,11659.17,17342.07
+159,Shampoo Model 9,Beauty,Nova,2102.94,3070.84
+160,Shampoo Model 10,Beauty,TechPro,19080.24,23328.29
+161,Fiction Model 1,Books,Nova,28631.19,42411.41
+162,Fiction Model 2,Books,HomeEase,34114.76,48984.46
+163,Fiction Model 3,Books,GlowCare,27027.2,35870.08
+164,Fiction Model 4,Books,GlowCare,34809.56,42804.34
+165,Fiction Model 5,Books,UrbanCart,27019.21,36704.4
+166,Fiction Model 6,Books,TechPro,16627.97,23654.57
+167,Fiction Model 7,Books,GlowCare,32777.1,39773.19
+168,Fiction Model 8,Books,StyleHub,1620.18,2470.72
+169,Fiction Model 9,Books,TechPro,4406.63,5915.86
+170,Fiction Model 10,Books,GlowCare,7075.52,10648.71
+171,Self Help Model 1,Books,GlowCare,7739.92,9250.53
+172,Self Help Model 2,Books,TechPro,15280.53,17664.71
+173,Self Help Model 3,Books,UrbanCart,20526.69,26855.55
+174,Self Help Model 4,Books,GlowCare,461.21,538.14
+175,Self Help Model 5,Books,TechPro,16713.18,23206.0
+176,Self Help Model 6,Books,HomeEase,27012.28,33751.54
+177,Self Help Model 7,Books,GlowCare,3335.34,4661.0
+178,Self Help Model 8,Books,UrbanCart,2242.82,2898.19
+179,Self Help Model 9,Books,UrbanCart,24591.29,36065.25
+180,Self Help Model 10,Books,StyleHub,17151.32,21897.02
+181,Technology Model 1,Books,HomeEase,27631.38,40139.53
+182,Technology Model 2,Books,HomeEase,25701.63,29776.4
+183,Technology Model 3,Books,Nova,12632.14,15207.74
+184,Technology Model 4,Books,TechPro,17062.78,22608.18
+185,Technology Model 5,Books,StyleHub,19064.28,25661.22
+186,Technology Model 6,Books,GlowCare,6653.94,8577.37
+187,Technology Model 7,Books,StyleHub,16473.56,24661.99
+188,Technology Model 8,Books,Nova,32019.42,43924.5
+189,Technology Model 9,Books,TechPro,18660.14,24813.39
+190,Technology Model 10,Books,GlowCare,19024.97,25334.25
+191,Education Model 1,Books,Nova,17782.63,25668.57
+192,Education Model 2,Books,StyleHub,21747.75,28177.04
+193,Education Model 3,Books,GlowCare,8471.71,12185.72
+194,Education Model 4,Books,UrbanCart,33855.64,50025.77
+195,Education Model 5,Books,StyleHub,18413.83,24840.62
+196,Education Model 6,Books,HomeEase,5521.48,6975.02
+197,Education Model 7,Books,StyleHub,22485.5,26851.86
+198,Education Model 8,Books,UrbanCart,23112.35,26983.92
+199,Education Model 9,Books,Nova,6375.56,7411.65
+200,Education Model 10,Books,StyleHub,17065.15,20299.02

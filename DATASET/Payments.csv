@@ -1,0 +1,5001 @@
+Payment_ID,Order_ID,Payment_Method,Amount,Payment_Status
+1,1,UPI,49140.44,Successful
+2,2,Credit Card,80429.77,Successful
+3,3,Net Banking,52307.59,Successful
+4,4,Wallet,99485.72,Successful
+5,5,Net Banking,27071.71,Successful
+6,6,COD,58180.59,Successful
+7,7,UPI,13123.78,Successful
+8,8,Credit Card,78510.12,Successful
+9,9,Credit Card,95263.1,Successful
+10,10,COD,25668.57,Successful
+11,11,UPI,75065.25,Successful
+12,12,UPI,91919.16,Successful
+13,13,Net Banking,56983.27,Successful
+14,14,UPI,11069.08,Successful
+15,15,Credit Card,98357.18,Successful
+16,16,UPI,14126.75,Successful
+17,17,Net Banking,29019.26,Successful
+18,18,Net Banking,6286.21,Successful
+19,19,Credit Card,142739.19,Successful
+20,20,Debit Card,15849.98,Successful
+21,21,UPI,108836.76,Successful
+22,22,Net Banking,24371.44,Successful
+23,23,Wallet,77831.58,Successful
+24,24,COD,14714.55,Successful
+25,25,Debit Card,17665.98,Successful
+26,26,Credit Card,7508.6,Successful
+27,27,Net Banking,69261.48,Successful
+28,28,Net Banking,83416.91,Failed
+29,29,Credit Card,88132.26,Successful
+30,30,Wallet,259714.08,Successful
+31,31,COD,17132.74,Successful
+32,32,COD,125438.65,Successful
+33,33,Debit Card,146901.34,Successful
+34,34,COD,9706.49,Successful
+35,35,UPI,102066.94,Successful
+36,36,Credit Card,50622.99,Successful
+37,37,Credit Card,87807.27,Failed
+38,38,Wallet,58244.45,Successful
+39,39,COD,121238.6,Failed
+40,40,UPI,138910.63,Failed
+41,41,COD,66327.87,Successful
+42,42,COD,40817.15,Successful
+43,43,Net Banking,47911.58,Successful
+44,44,Wallet,33036.86,Successful
+45,45,Credit Card,36125.58,Successful
+46,46,Credit Card,30681.46,Successful
+47,47,COD,9019.63,Successful
+48,48,Wallet,125432.67,Successful
+49,49,Net Banking,61731.92,Successful
+50,50,Wallet,151238.72,Successful
+51,51,Credit Card,107387.61,Successful
+52,52,UPI,135397.23,Successful
+53,53,Net Banking,146700.42,Successful
+54,54,UPI,119376.91,Successful
+55,55,COD,101883.92,Successful
+56,56,Net Banking,95729.21,Successful
+57,57,UPI,26342.18,Successful
+58,58,UPI,78474.09,Successful
+59,59,COD,57114.7,Successful
+60,60,UPI,16239.22,Successful
+61,61,Net Banking,84645.43,Successful
+62,62,Credit Card,195509.03,Successful
+63,63,UPI,46203.43,Failed
+64,64,Credit Card,146608.04,Failed
+65,65,Credit Card,133035.18,Successful
+66,66,Net Banking,4272.3,Successful
+67,67,Debit Card,38592.55,Successful
+68,68,Credit Card,8855.9,Successful
+69,69,COD,33508.02,Successful
+70,70,COD,8259.84,Successful
+71,71,UPI,11770.94,Successful
+72,72,Credit Card,94196.71,Successful
+73,73,Credit Card,29287.39,Successful
+74,74,Net Banking,163162.49,Failed
+75,75,Net Banking,38442.39,Successful
+76,76,Net Banking,12372.58,Successful
+77,77,Credit Card,107087.05,Failed
+78,78,Wallet,59133.06,Successful
+79,79,Wallet,83103.53,Successful
+80,80,Credit Card,67266.08,Successful
+81,81,COD,50619.88,Successful
+82,82,UPI,207372.29,Successful
+83,83,Net Banking,72557.84,Successful
+84,84,Wallet,16888.37,Successful
+85,85,COD,67879.66,Successful
+86,86,Credit Card,47309.14,Successful
+87,87,Net Banking,35252.9,Successful
+88,88,Wallet,36885.18,Successful
+89,89,Credit Card,52657.66,Successful
+90,90,Debit Card,82512.81,Successful
+91,91,UPI,4203.92,Successful
+92,92,COD,63637.1,Successful
+93,93,Debit Card,85114.3,Failed
+94,94,Debit Card,132591.59,Failed
+95,95,Net Banking,14508.85,Successful
+96,96,Wallet,134284.29,Successful
+97,97,COD,84044.44,Successful
+98,98,Credit Card,175899.59,Successful
+99,99,Debit Card,80978.98,Successful
+100,100,COD,18994.42,Failed
+101,101,UPI,34686.25,Successful
+102,102,Wallet,23950.48,Successful
+103,103,COD,180363.66,Successful
+104,104,Credit Card,8751.89,Successful
+105,105,Debit Card,6283.7,Successful
+106,106,COD,59552.14,Successful
+107,107,Credit Card,116816.92,Successful
+108,108,Net Banking,55239.64,Successful
+109,109,Credit Card,76108.31,Successful
+110,110,Debit Card,79053.72,Successful
+111,111,Debit Card,3555.55,Successful
+112,112,Net Banking,48388.19,Failed
+113,113,Net Banking,113807.49,Failed
+114,114,Credit Card,164515.04,Successful
+115,115,UPI,104458.17,Failed
+116,116,COD,2051.09,Failed
+117,117,Debit Card,50434.82,Successful
+118,118,COD,61421.25,Successful
+119,119,COD,35240.43,Failed
+120,120,UPI,129173.36,Successful
+121,121,UPI,120851.56,Successful
+122,122,Credit Card,63069.38,Successful
+123,123,Net Banking,94057.21,Successful
+124,124,Credit Card,40986.84,Successful
+125,125,UPI,52307.59,Successful
+126,126,COD,32063.96,Successful
+127,127,Wallet,109672.79,Failed
+128,128,Debit Card,118403.64,Successful
+129,129,Debit Card,110652.09,Successful
+130,130,UPI,150995.85,Failed
+131,131,Net Banking,53808.93,Successful
+132,132,COD,158872.73,Successful
+133,133,COD,22608.18,Successful
+134,134,Debit Card,79127.26,Successful
+135,135,UPI,185180.0,Successful
+136,136,Net Banking,112756.35,Successful
+137,137,UPI,85963.9,Failed
+138,138,COD,28858.95,Successful
+139,139,UPI,41224.88,Successful
+140,140,Wallet,7118.43,Successful
+141,141,Credit Card,115473.25,Successful
+142,142,Credit Card,6347.08,Successful
+143,143,Credit Card,103581.82,Successful
+144,144,Debit Card,22525.81,Successful
+145,145,Wallet,291871.88,Successful
+146,146,Debit Card,10186.8,Successful
+147,147,Credit Card,156188.79,Successful
+148,148,UPI,34481.75,Successful
+149,149,Net Banking,29041.54,Successful
+150,150,Debit Card,24385.14,Successful
+151,151,Net Banking,244095.06,Successful
+152,152,Net Banking,85704.6,Successful
+153,153,Credit Card,7719.63,Successful
+154,154,UPI,131627.35,Successful
+155,155,Wallet,24758.45,Successful
+156,156,Wallet,18848.96,Successful
+157,157,Debit Card,73155.42,Successful
+158,158,Net Banking,62749.8,Failed
+159,159,Debit Card,50665.11,Successful
+160,160,Net Banking,29238.25,Failed
+161,161,Wallet,65282.91,Successful
+162,162,Debit Card,127858.71,Successful
+163,163,COD,109222.19,Successful
+164,164,UPI,182327.84,Successful
+165,165,Net Banking,95611.51,Successful
+166,166,Net Banking,213686.73,Successful
+167,167,Wallet,57961.43,Successful
+168,168,Wallet,30681.71,Successful
+169,169,UPI,77047.81,Successful
+170,170,Net Banking,75794.24,Successful
+171,171,Wallet,95879.24,Successful
+172,172,Debit Card,46379.86,Successful
+173,173,Net Banking,49140.44,Successful
+174,174,Wallet,103776.43,Successful
+175,175,COD,7913.26,Successful
+176,176,Credit Card,251305.79,Successful
+177,177,Wallet,150422.01,Successful
+178,178,Net Banking,95561.94,Successful
+179,179,Net Banking,15972.82,Successful
+180,180,Debit Card,8148.5,Failed
+181,181,Debit Card,191894.28,Successful
+182,182,Debit Card,118019.36,Failed
+183,183,UPI,36295.45,Successful
+184,184,Credit Card,36065.25,Successful
+185,185,Credit Card,44123.41,Successful
+186,186,Debit Card,45760.82,Successful
+187,187,COD,10704.91,Successful
+188,188,Wallet,9322.0,Successful
+189,189,Wallet,67603.24,Successful
+190,190,Net Banking,153517.89,Successful
+191,191,COD,206429.18,Failed
+192,192,Wallet,136052.7,Successful
+193,193,Wallet,40139.53,Successful
+194,194,Wallet,122407.85,Successful
+195,195,UPI,163542.2,Successful
+196,196,Debit Card,84003.34,Successful
+197,197,UPI,149267.4,Successful
+198,198,Debit Card,38176.18,Failed
+199,199,Wallet,208871.21,Successful
+200,200,Net Banking,29083.55,Successful
+201,201,Debit Card,159487.42,Failed
+202,202,Debit Card,31699.95,Successful
+203,203,Debit Card,83214.35,Failed
+204,204,Wallet,59782.58,Successful
+205,205,COD,68678.48,Successful
+206,206,Net Banking,89067.52,Successful
+207,207,Credit Card,79699.14,Successful
+208,208,Wallet,141275.89,Successful
+209,209,Credit Card,20776.07,Successful
+210,210,COD,114617.22,Successful
+211,211,Debit Card,51117.36,Successful
+212,212,UPI,96179.03,Successful
+213,213,UPI,31501.02,Successful
+214,214,Debit Card,24679.68,Successful
+215,215,Wallet,27853.25,Failed
+216,216,Debit Card,128745.81,Failed
+217,217,Net Banking,22799.81,Successful
+218,218,COD,58847.2,Successful
+219,219,UPI,27017.87,Failed
+220,220,Net Banking,45078.07,Successful
+221,221,Net Banking,286517.5,Successful
+222,222,COD,175260.18,Successful
+223,223,Credit Card,22936.33,Successful
+224,224,Wallet,73877.5,Successful
+225,225,Net Banking,65465.92,Successful
+226,226,COD,34243.47,Successful
+227,227,Credit Card,87250.65,Failed
+228,228,Net Banking,20886.05,Failed
+229,229,Wallet,90292.32,Successful
+230,230,UPI,34439.39,Successful
+231,231,UPI,29041.54,Failed
+232,232,Credit Card,101224.38,Successful
+233,233,Net Banking,31198.74,Successful
+234,234,Net Banking,100952.06,Successful
+235,235,COD,147055.11,Failed
+236,236,COD,41478.61,Successful
+237,237,Wallet,19497.15,Successful
+238,238,Credit Card,86170.49,Successful
+239,239,Credit Card,48222.37,Successful
+240,240,COD,80713.39,Successful
+241,241,Credit Card,109218.6,Successful
+242,242,COD,96793.68,Successful
+243,243,Debit Card,68063.78,Successful
+244,244,Net Banking,47597.98,Successful
+245,245,UPI,93226.43,Successful
+246,246,UPI,82484.62,Successful
+247,247,Debit Card,24822.88,Successful
+248,248,Wallet,59016.29,Successful
+249,249,Credit Card,80443.78,Successful
+250,250,COD,27043.99,Successful
+251,251,Debit Card,131518.81,Successful
+252,252,Credit Card,128140.92,Successful
+253,253,Wallet,88713.57,Successful
+254,254,COD,50251.89,Failed
+255,255,COD,59046.8,Successful
+256,256,COD,84186.97,Successful
+257,257,Debit Card,1378.41,Failed
+258,258,Credit Card,38568.14,Successful
+259,259,Net Banking,51031.02,Successful
+260,260,COD,19228.31,Successful
+261,261,COD,63278.11,Successful
+262,262,COD,25924.81,Failed
+263,263,Net Banking,112368.63,Failed
+264,264,UPI,230387.74,Successful
+265,265,Net Banking,26305.85,Successful
+266,266,Credit Card,23598.59,Successful
+267,267,UPI,51965.35,Successful
+268,268,Debit Card,73071.53,Failed
+269,269,Wallet,26137.39,Successful
+270,270,COD,27588.24,Successful
+271,271,Wallet,31348.53,Successful
+272,272,Debit Card,10516.69,Successful
+273,273,Wallet,42471.12,Successful
+274,274,Debit Card,20552.88,Successful
+275,275,Debit Card,47366.15,Successful
+276,276,UPI,162847.83,Successful
+277,277,Debit Card,68809.0,Successful
+278,278,Debit Card,9543.83,Successful
+279,279,Net Banking,44943.68,Successful
+280,280,UPI,137708.83,Successful
+281,281,Debit Card,128142.32,Successful
+282,282,Wallet,67624.9,Successful
+283,283,Credit Card,26765.49,Failed
+284,284,Debit Card,55399.7,Successful
+285,285,Net Banking,146607.29,Successful
+286,286,UPI,30777.61,Successful
+287,287,Credit Card,72261.07,Successful
+288,288,Debit Card,83809.51,Successful
+289,289,UPI,54229.76,Successful
+290,290,COD,45902.94,Successful
+291,291,COD,46164.2,Successful
+292,292,UPI,18994.42,Successful
+293,293,Credit Card,156879.67,Failed
+294,294,COD,168730.43,Successful
+295,295,COD,51918.43,Successful
+296,296,Wallet,32009.88,Successful
+297,297,COD,79891.6,Successful
+298,298,Debit Card,111952.32,Successful
+299,299,Net Banking,36295.45,Successful
+300,300,Wallet,85159.46,Successful
+301,301,UPI,46466.46,Successful
+302,302,COD,7052.31,Successful
+303,303,COD,85963.9,Successful
+304,304,COD,129417.31,Successful
+305,305,Debit Card,30069.69,Successful
+306,306,Net Banking,12394.68,Successful
+307,307,Net Banking,61816.88,Successful
+308,308,Debit Card,23588.85,Successful
+309,309,Net Banking,39548.82,Successful
+310,310,UPI,159924.03,Successful
+311,311,Net Banking,44328.32,Failed
+312,312,UPI,40139.53,Successful
+313,313,Credit Card,61588.69,Successful
+314,314,Wallet,73115.19,Successful
+315,315,COD,128837.61,Successful
+316,316,Net Banking,79154.73,Successful
+317,317,Credit Card,101720.16,Successful
+318,318,Net Banking,283973.56,Successful
+319,319,COD,136005.81,Successful
+320,320,UPI,26222.16,Successful
+321,321,Credit Card,103187.46,Successful
+322,322,Net Banking,51458.43,Successful
+323,323,Wallet,200025.66,Successful
+324,324,COD,191791.55,Successful
+325,325,UPI,104813.49,Successful
+326,326,Net Banking,21028.14,Successful
+327,327,Debit Card,8867.7,Successful
+328,328,Net Banking,80441.69,Successful
+329,329,Debit Card,51849.61,Successful
+330,330,Debit Card,87823.26,Successful
+331,331,Credit Card,62888.07,Successful
+332,332,COD,11939.03,Successful
+333,333,Debit Card,115973.38,Successful
+334,334,UPI,29279.12,Successful
+335,335,Net Banking,195419.04,Successful
+336,336,COD,41852.5,Successful
+337,337,UPI,73253.95,Successful
+338,338,Wallet,23463.53,Failed
+339,339,COD,149826.12,Successful
+340,340,Debit Card,31255.38,Successful
+341,341,Credit Card,19872.5,Successful
+342,342,UPI,20903.37,Successful
+343,343,COD,85148.61,Successful
+344,344,UPI,262283.79,Successful
+345,345,Net Banking,5324.27,Successful
+346,346,Debit Card,35236.68,Successful
+347,347,Net Banking,92873.9,Successful
+348,348,COD,17379.41,Failed
+349,349,Net Banking,58902.77,Successful
+350,350,UPI,27041.46,Successful
+351,351,UPI,103634.18,Failed
+352,352,Credit Card,174113.46,Successful
+353,353,Debit Card,12926.58,Successful
+354,354,Debit Card,47720.22,Successful
+355,355,Debit Card,91521.64,Successful
+356,356,UPI,234630.83,Successful
+357,357,Wallet,42619.57,Successful
+358,358,COD,60974.25,Successful
+359,359,Wallet,42635.75,Successful
+360,360,Net Banking,42206.27,Successful
+361,361,Net Banking,74617.85,Successful
+362,362,UPI,84470.09,Failed
+363,363,Credit Card,7666.69,Successful
+364,364,Wallet,15333.37,Successful
+365,365,COD,121548.98,Successful
+366,366,Credit Card,179755.08,Successful
+367,367,Credit Card,61450.37,Successful
+368,368,Debit Card,8855.9,Successful
+369,369,COD,38277.04,Successful
+370,370,Credit Card,33508.02,Successful
+371,371,COD,87299.75,Successful
+372,372,Debit Card,9019.63,Successful
+373,373,Net Banking,17966.84,Successful
+374,374,Wallet,7128.37,Successful
+375,375,Credit Card,27501.72,Successful
+376,376,Wallet,4135.23,Successful
+377,377,UPI,146362.6,Successful
+378,378,Debit Card,24685.31,Successful
+379,379,Credit Card,94157.96,Successful
+380,380,Debit Card,46017.33,Successful
+381,381,Wallet,71134.52,Successful
+382,382,Net Banking,73910.33,Successful
+383,383,Wallet,129558.68,Successful
+384,384,Credit Card,97143.46,Failed
+385,385,Debit Card,24371.44,Successful
+386,386,Credit Card,17290.21,Successful
+387,387,Debit Card,87270.89,Failed
+388,388,Net Banking,52611.7,Successful
+389,389,Debit Card,65530.51,Successful
+390,390,Wallet,27805.64,Successful
+391,391,Wallet,30424.49,Successful
+392,392,Credit Card,55750.63,Successful
+393,393,COD,121155.72,Successful
+394,394,Net Banking,78615.85,Successful
+395,395,Credit Card,18564.8,Successful
+396,396,Debit Card,127472.96,Successful
+397,397,UPI,84214.68,Successful
+398,398,COD,106309.73,Successful
+399,399,Wallet,60319.15,Successful
+400,400,COD,88309.64,Failed
+401,401,UPI,27416.0,Failed
+402,402,Wallet,28560.64,Successful
+403,403,Debit Card,16714.82,Successful
+404,404,Debit Card,73975.85,Failed
+405,405,Wallet,7872.38,Successful
+406,406,Credit Card,65538.19,Successful
+407,407,Wallet,109915.98,Successful
+408,408,Net Banking,42006.76,Failed
+409,409,Credit Card,54259.63,Failed
+410,410,COD,9250.53,Successful
+411,411,Net Banking,58633.12,Successful
+412,412,Wallet,97240.63,Successful
+413,413,Wallet,137046.87,Successful
+414,414,UPI,43830.89,Failed
+415,415,Credit Card,88046.44,Successful
+416,416,COD,9555.59,Successful
+417,417,Wallet,85522.14,Successful
+418,418,Debit Card,5822.09,Successful
+419,419,Credit Card,27361.97,Successful
+420,420,Debit Card,63637.1,Successful
+421,421,Net Banking,79404.15,Successful
+422,422,COD,16645.0,Successful
+423,423,Wallet,50691.28,Successful
+424,424,Debit Card,75880.98,Successful
+425,425,COD,34031.89,Successful
+426,426,Credit Card,141912.84,Successful
+427,427,UPI,50434.82,Successful
+428,428,Wallet,117117.89,Successful
+429,429,Debit Card,65114.62,Successful
+430,430,Debit Card,82031.69,Successful
+431,431,UPI,1528.78,Successful
+432,432,UPI,27805.64,Successful
+433,433,Wallet,175464.05,Successful
+434,434,UPI,52432.54,Successful
+435,435,Wallet,35795.87,Successful
+436,436,COD,51398.21,Successful
+437,437,Wallet,216581.13,Successful
+438,438,Debit Card,59229.16,Successful
+439,439,UPI,21799.76,Successful
+440,440,Debit Card,18687.22,Successful
+441,441,Net Banking,180914.04,Successful
+442,442,COD,95048.96,Successful
+443,443,Debit Card,79026.54,Successful
+444,444,Credit Card,16840.6,Successful
+445,445,COD,9748.58,Failed
+446,446,Debit Card,69512.59,Successful
+447,447,UPI,79928.18,Successful
+448,448,Credit Card,162581.51,Successful
+449,449,Wallet,23215.16,Failed
+450,450,UPI,5624.5,Successful
+451,451,UPI,169610.5,Successful
+452,452,COD,9383.76,Successful
+453,453,UPI,59192.37,Successful
+454,454,Debit Card,56430.88,Successful
+455,455,COD,59378.35,Successful
+456,456,UPI,86630.02,Successful
+457,457,Credit Card,44420.93,Failed
+458,458,Wallet,94015.47,Successful
+459,459,Wallet,69434.64,Successful
+460,460,Credit Card,191752.91,Successful
+461,461,Credit Card,30765.85,Successful
+462,462,Credit Card,38631.65,Successful
+463,463,Debit Card,40607.57,Successful
+464,464,Wallet,169769.9,Successful
+465,465,Debit Card,24197.72,Successful
+466,466,Wallet,9184.86,Successful
+467,467,Net Banking,15085.44,Failed
+468,468,COD,176728.24,Successful
+469,469,Net Banking,24546.97,Successful
+470,470,Debit Card,39031.92,Successful
+471,471,Net Banking,91468.7,Successful
+472,472,Credit Card,6153.26,Successful
+473,473,Credit Card,21355.28,Successful
+474,474,COD,73155.42,Successful
+475,475,Debit Card,37374.45,Successful
+476,476,UPI,162153.18,Successful
+477,477,Debit Card,32471.05,Successful
+478,478,COD,128550.1,Successful
+479,479,COD,1910.97,Failed
+480,480,Net Banking,7289.85,Successful
+481,481,COD,35554.46,Successful
+482,482,COD,98605.09,Successful
+483,483,UPI,32954.35,Successful
+484,484,COD,67243.2,Successful
+485,485,Credit Card,68329.34,Successful
+486,486,COD,3081.15,Successful
+487,487,Net Banking,64920.95,Successful
+488,488,UPI,61800.54,Successful
+489,489,UPI,142210.02,Successful
+490,490,COD,21523.33,Successful
+491,491,Debit Card,17908.54,Successful
+492,492,COD,144512.22,Successful
+493,493,Wallet,31201.48,Successful
+494,494,Net Banking,71851.45,Successful
+495,495,Wallet,61553.91,Successful
+496,496,Wallet,150077.31,Failed
+497,497,Net Banking,141531.64,Successful
+498,498,Debit Card,29781.1,Successful
+499,499,Credit Card,131867.4,Successful
+500,500,Wallet,51826.71,Successful
+501,501,Wallet,25334.25,Successful
+502,502,Credit Card,16059.29,Successful
+503,503,Credit Card,31378.43,Failed
+504,504,COD,32650.72,Successful
+505,505,COD,66573.24,Successful
+506,506,COD,132019.88,Successful
+507,507,Debit Card,137506.4,Successful
+508,508,COD,106173.48,Successful
+509,509,UPI,34996.75,Successful
+510,510,UPI,59889.48,Successful
+511,511,Wallet,40909.17,Successful
+512,512,UPI,72130.5,Successful
+513,513,Debit Card,87745.61,Failed
+514,514,COD,30564.59,Successful
+515,515,Net Banking,171021.11,Successful
+516,516,Credit Card,155650.52,Failed
+517,517,Wallet,76427.52,Successful
+518,518,Debit Card,19725.1,Successful
+519,519,Debit Card,61570.69,Successful
+520,520,Net Banking,95743.05,Successful
+521,521,Credit Card,39382.17,Successful
+522,522,Debit Card,116922.12,Successful
+523,523,Debit Card,143065.36,Successful
+524,524,Debit Card,114910.97,Successful
+525,525,Net Banking,156674.23,Successful
+526,526,UPI,91185.32,Successful
+527,527,UPI,10537.6,Successful
+528,528,Wallet,16888.37,Successful
+529,529,COD,63343.58,Failed
+530,530,UPI,98301.2,Successful
+531,531,Credit Card,15806.4,Successful
+532,532,Credit Card,38990.21,Successful
+533,533,Net Banking,19996.85,Successful
+534,534,COD,857.01,Successful
+535,535,Wallet,83470.17,Successful
+536,536,Net Banking,44200.42,Successful
+537,537,Wallet,134617.47,Successful
+538,538,Credit Card,216588.41,Successful
+539,539,UPI,23415.27,Successful
+540,540,Net Banking,20099.08,Failed
+541,541,Net Banking,126507.7,Successful
+542,542,UPI,87442.87,Successful
+543,543,UPI,113999.93,Failed
+544,544,COD,72838.21,Successful
+545,545,Credit Card,44049.14,Successful
+546,546,Net Banking,212360.51,Successful
+547,547,Wallet,52124.73,Successful
+548,548,COD,103588.16,Successful
+549,549,Wallet,153973.17,Successful
+550,550,Credit Card,103187.46,Successful
+551,551,UPI,37224.93,Successful
+552,552,UPI,15110.65,Failed
+553,553,UPI,69389.88,Successful
+554,554,COD,36383.69,Successful
+555,555,UPI,37497.56,Successful
+556,556,Debit Card,14581.98,Failed
+557,557,COD,102647.82,Successful
+558,558,UPI,65418.86,Successful
+559,559,Net Banking,10298.91,Successful
+560,560,Wallet,1719.87,Successful
+561,561,Net Banking,9414.42,Successful
+562,562,Debit Card,112720.95,Successful
+563,563,UPI,3881.39,Successful
+564,564,UPI,39450.2,Successful
+565,565,Credit Card,87286.33,Successful
+566,566,Wallet,88215.75,Successful
+567,567,Net Banking,120858.41,Successful
+568,568,Credit Card,89629.07,Successful
+569,569,Debit Card,40955.98,Successful
+570,570,Wallet,83096.84,Successful
+571,571,Debit Card,144975.07,Successful
+572,572,Net Banking,14971.42,Failed
+573,573,Net Banking,1540.58,Successful
+574,574,Net Banking,71467.75,Successful
+575,575,Net Banking,86567.39,Successful
+576,576,Credit Card,21363.74,Successful
+577,577,Net Banking,48131.29,Successful
+578,578,COD,77475.05,Successful
+579,579,Debit Card,57514.9,Successful
+580,580,UPI,35252.9,Successful
+581,581,Net Banking,4661.0,Successful
+582,582,COD,24823.46,Successful
+583,583,Wallet,11671.61,Successful
+584,584,COD,154212.76,Successful
+585,585,COD,63799.53,Successful
+586,586,Wallet,36277.51,Successful
+587,587,UPI,81095.92,Failed
+588,588,Net Banking,103776.43,Successful
+589,589,Debit Card,120759.88,Successful
+590,590,Net Banking,70556.29,Failed
+591,591,Wallet,94398.2,Successful
+592,592,Net Banking,67484.6,Successful
+593,593,COD,19175.15,Successful
+594,594,Net Banking,62986.38,Successful
+595,595,Debit Card,29336.62,Failed
+596,596,UPI,94670.35,Successful
+597,597,Wallet,68481.65,Successful
+598,598,Wallet,39744.99,Successful
+599,599,Net Banking,68582.1,Failed
+600,600,Debit Card,77323.62,Successful
+601,601,Wallet,22698.97,Successful
+602,602,Net Banking,82859.46,Successful
+603,603,UPI,79511.12,Successful
+604,604,UPI,58834.88,Failed
+605,605,COD,128456.05,Successful
+606,606,COD,141131.21,Successful
+607,607,Credit Card,102355.8,Successful
+608,608,Net Banking,68402.48,Successful
+609,609,COD,161823.07,Successful
+610,610,Net Banking,25139.46,Successful
+611,611,Credit Card,71321.34,Successful
+612,612,COD,169227.25,Successful
+613,613,Debit Card,4803.48,Successful
+614,614,Credit Card,16951.48,Successful
+615,615,Credit Card,60771.74,Successful
+616,616,COD,171402.22,Successful
+617,617,Credit Card,36173.09,Successful
+618,618,Net Banking,102957.77,Successful
+619,619,UPI,15448.37,Successful
+620,620,Net Banking,137949.66,Successful
+621,621,Net Banking,30079.68,Successful
+622,622,Debit Card,234846.81,Successful
+623,623,Credit Card,234964.61,Successful
+624,624,COD,62018.23,Successful
+625,625,Debit Card,116739.82,Successful
+626,626,UPI,132026.18,Successful
+627,627,Credit Card,78481.63,Successful
+628,628,Debit Card,78132.88,Successful
+629,629,Net Banking,54970.53,Successful
+630,630,Credit Card,45760.82,Successful
+631,631,Wallet,11586.28,Failed
+632,632,Credit Card,48404.71,Successful
+633,633,Debit Card,76411.48,Failed
+634,634,UPI,35662.45,Successful
+635,635,Credit Card,47313.32,Successful
+636,636,Credit Card,64761.41,Failed
+637,637,UPI,43919.54,Successful
+638,638,COD,27672.7,Failed
+639,639,UPI,17711.38,Successful
+640,640,Wallet,89056.18,Successful
+641,641,COD,8568.65,Successful
+642,642,Wallet,34272.15,Successful
+643,643,Wallet,5796.38,Failed
+644,644,Wallet,70718.16,Successful
+645,645,Net Banking,30758.52,Successful
+646,646,UPI,52994.13,Successful
+647,647,Debit Card,71481.09,Successful
+648,648,Debit Card,41200.36,Successful
+649,649,Debit Card,110533.19,Failed
+650,650,Credit Card,74634.88,Successful
+651,651,Debit Card,26160.54,Successful
+652,652,Net Banking,20715.72,Successful
+653,653,Credit Card,24550.95,Successful
+654,654,Credit Card,121992.37,Successful
+655,655,Wallet,12389.38,Successful
+656,656,UPI,11831.72,Successful
+657,657,COD,31215.73,Successful
+658,658,UPI,20855.6,Failed
+659,659,Wallet,121238.6,Failed
+660,660,Net Banking,59889.48,Successful
+661,661,Credit Card,19270.14,Successful
+662,662,Credit Card,31550.08,Successful
+663,663,Credit Card,125499.74,Successful
+664,664,Net Banking,32752.74,Successful
+665,665,Wallet,116348.05,Successful
+666,666,UPI,142573.44,Successful
+667,667,UPI,166572.19,Successful
+668,668,COD,133919.35,Successful
+669,669,Wallet,177070.01,Successful
+670,670,Net Banking,25039.04,Successful
+671,671,Debit Card,17735.39,Failed
+672,672,Net Banking,41748.5,Successful
+673,673,Debit Card,125588.47,Successful
+674,674,Debit Card,51598.76,Successful
+675,675,COD,62385.76,Successful
+676,676,Wallet,50249.5,Successful
+677,677,Credit Card,63324.66,Successful
+678,678,Debit Card,97808.81,Failed
+679,679,Net Banking,5571.61,Successful
+680,680,Net Banking,127847.75,Successful
+681,681,COD,123218.97,Successful
+682,682,Net Banking,121748.04,Successful
+683,683,Credit Card,73866.26,Successful
+684,684,COD,92114.68,Successful
+685,685,Net Banking,52333.0,Successful
+686,686,Net Banking,74811.78,Successful
+687,687,Wallet,79627.0,Successful
+688,688,Wallet,44157.02,Successful
+689,689,Wallet,6114.98,Successful
+690,690,UPI,149049.29,Successful
+691,691,Wallet,117562.7,Successful
+692,692,COD,25966.86,Successful
+693,693,Debit Card,29238.73,Failed
+694,694,UPI,164038.61,Successful
+695,695,Wallet,129510.54,Successful
+696,696,Debit Card,72102.3,Successful
+697,697,Wallet,8867.7,Failed
+698,698,UPI,60882.78,Failed
+699,699,Net Banking,123481.52,Successful
+700,700,Wallet,117765.15,Successful
+701,701,Credit Card,64355.37,Successful
+702,702,Wallet,98177.33,Successful
+703,703,Net Banking,86094.76,Successful
+704,704,Wallet,120005.78,Successful
+705,705,UPI,29363.52,Successful
+706,706,Debit Card,10849.27,Successful
+707,707,Wallet,53597.52,Successful
+708,708,Wallet,62710.1,Successful
+709,709,Wallet,55312.42,Successful
+710,710,Credit Card,11084.62,Successful
+711,711,COD,88538.26,Successful
+712,712,UPI,37573.65,Successful
+713,713,Wallet,76673.13,Successful
+714,714,Wallet,97644.83,Successful
+715,715,UPI,186883.91,Failed
+716,716,COD,30424.49,Successful
+717,717,Wallet,21114.53,Failed
+718,718,UPI,40130.66,Successful
+719,719,Wallet,165699.47,Successful
+720,720,Net Banking,105935.54,Successful
+721,721,Credit Card,139281.21,Successful
+722,722,COD,59748.15,Successful
+723,723,COD,105356.59,Failed
+724,724,UPI,49626.78,Successful
+725,725,Credit Card,114510.81,Successful
+726,726,Debit Card,46391.76,Failed
+727,727,Debit Card,20119.95,Successful
+728,728,Credit Card,62871.19,Successful
+729,729,Debit Card,22195.79,Successful
+730,730,UPI,205254.73,Successful
+731,731,COD,87303.53,Successful
+732,732,COD,35391.16,Successful
+733,733,Credit Card,61570.69,Successful
+734,734,Credit Card,75277.76,Successful
+735,735,Wallet,85647.15,Successful
+736,736,Wallet,11157.46,Successful
+737,737,Net Banking,34481.75,Successful
+738,738,COD,83609.37,Successful
+739,739,Debit Card,301545.05,Successful
+740,740,COD,44420.93,Successful
+741,741,Net Banking,109456.33,Successful
+742,742,COD,134206.12,Successful
+743,743,Credit Card,11493.92,Successful
+744,744,Credit Card,66326.46,Successful
+745,745,COD,30008.48,Successful
+746,746,Net Banking,224086.1,Failed
+747,747,Wallet,31781.54,Successful
+748,748,Credit Card,28014.81,Successful
+749,749,Debit Card,16474.97,Successful
+750,750,Wallet,31610.51,Successful
+751,751,Wallet,1714.02,Successful
+752,752,COD,55744.78,Successful
+753,753,Debit Card,12246.48,Successful
+754,754,Credit Card,170314.32,Successful
+755,755,Net Banking,23598.59,Successful
+756,756,Net Banking,50032.48,Failed
+757,757,Credit Card,18587.11,Successful
+758,758,Credit Card,119031.98,Successful
+759,759,UPI,70286.67,Successful
+760,760,COD,84799.36,Successful
+761,761,Net Banking,105758.71,Successful
+762,762,Credit Card,69184.29,Failed
+763,763,Debit Card,71086.23,Successful
+764,764,COD,120327.21,Successful
+765,765,Wallet,76598.03,Successful
+766,766,Net Banking,33623.22,Successful
+767,767,Wallet,90402.02,Successful
+768,768,Credit Card,135991.72,Failed
+769,769,Credit Card,30606.19,Successful
+770,770,COD,53381.87,Successful
+771,771,Debit Card,30395.11,Successful
+772,772,UPI,73770.36,Successful
+773,773,Credit Card,93381.53,Successful
+774,774,Debit Card,59758.39,Successful
+775,775,UPI,95503.54,Successful
+776,776,Wallet,30681.46,Successful
+777,777,Wallet,149792.64,Successful
+778,778,Debit Card,23095.1,Successful
+779,779,Net Banking,148750.12,Successful
+780,780,Wallet,46148.78,Successful
+781,781,Debit Card,91771.25,Failed
+782,782,UPI,34633.51,Successful
+783,783,Net Banking,83739.27,Successful
+784,784,Debit Card,75504.91,Failed
+785,785,Wallet,44723.51,Successful
+786,786,UPI,46764.19,Successful
+787,787,Net Banking,24621.69,Successful
+788,788,Net Banking,9250.53,Successful
+789,789,UPI,118690.89,Successful
+790,790,Wallet,25556.9,Successful
+791,791,Credit Card,48741.44,Successful
+792,792,UPI,20600.18,Successful
+793,793,Credit Card,49941.84,Successful
+794,794,COD,8391.97,Successful
+795,795,Credit Card,65031.35,Successful
+796,796,Credit Card,65447.94,Successful
+797,797,Debit Card,87299.75,Failed
+798,798,Debit Card,54996.75,Successful
+799,799,COD,52030.52,Successful
+800,800,Net Banking,78855.54,Successful
+801,801,Wallet,92074.66,Successful
+802,802,Debit Card,204607.83,Successful
+803,803,Debit Card,25656.64,Successful
+804,804,Net Banking,6670.48,Successful
+805,805,Debit Card,156253.9,Successful
+806,806,UPI,13252.54,Successful
+807,807,UPI,104919.74,Successful
+808,808,COD,30571.4,Successful
+809,809,UPI,21409.83,Successful
+810,810,Debit Card,15835.1,Successful
+811,811,Net Banking,70972.45,Successful
+812,812,Credit Card,87714.76,Failed
+813,813,Wallet,23617.13,Successful
+814,814,UPI,86088.19,Successful
+815,815,COD,206048.45,Successful
+816,816,Wallet,67232.99,Successful
+817,817,Debit Card,62397.48,Successful
+818,818,Debit Card,150437.89,Successful
+819,819,Wallet,58976.25,Successful
+820,820,UPI,18431.74,Successful
+821,821,Credit Card,152527.21,Failed
+822,822,UPI,34243.47,Successful
+823,823,Net Banking,136077.08,Successful
+824,824,Wallet,11869.9,Failed
+825,825,Debit Card,82248.01,Successful
+826,826,COD,109566.47,Successful
+827,827,Credit Card,2812.25,Failed
+828,828,COD,50585.92,Successful
+829,829,COD,88054.54,Successful
+830,830,Net Banking,130418.34,Successful
+831,831,Net Banking,72970.89,Successful
+832,832,Debit Card,55377.1,Successful
+833,833,COD,15970.53,Successful
+834,834,Credit Card,192317.05,Successful
+835,835,COD,73681.03,Successful
+836,836,Credit Card,2722.28,Successful
+837,837,Credit Card,9250.53,Failed
+838,838,UPI,91993.67,Successful
+839,839,Debit Card,81599.87,Successful
+840,840,COD,184879.44,Successful
+841,841,Net Banking,186593.48,Successful
+842,842,Wallet,96789.71,Successful
+843,843,Credit Card,34872.24,Successful
+844,844,Credit Card,15725.9,Successful
+845,845,Debit Card,110779.41,Successful
+846,846,Net Banking,33405.97,Successful
+847,847,COD,20181.58,Successful
+848,848,Net Banking,44872.49,Failed
+849,849,COD,258850.66,Failed
+850,850,Credit Card,87285.97,Successful
+851,851,Net Banking,68864.67,Successful
+852,852,Credit Card,102548.78,Successful
+853,853,UPI,102308.39,Failed
+854,854,COD,60544.73,Failed
+855,855,COD,64821.13,Successful
+856,856,COD,63852.05,Failed
+857,857,UPI,87807.27,Failed
+858,858,UPI,26950.09,Successful
+859,859,COD,60468.48,Successful
+860,860,UPI,33352.07,Successful
+861,861,UPI,88172.03,Successful
+862,862,Credit Card,18595.77,Successful
+863,863,Credit Card,103995.95,Successful
+864,864,Net Banking,23343.23,Successful
+865,865,Wallet,59481.7,Successful
+866,866,Credit Card,78238.36,Successful
+867,867,Wallet,41200.36,Successful
+868,868,Credit Card,10593.85,Successful
+869,869,Credit Card,14287.85,Successful
+870,870,UPI,7790.06,Successful
+871,871,UPI,109603.97,Failed
+872,872,COD,66173.73,Failed
+873,873,Net Banking,199414.71,Successful
+874,874,COD,120717.95,Failed
+875,875,Credit Card,157819.69,Successful
+876,876,Wallet,119058.0,Successful
+877,877,Net Banking,6922.42,Successful
+878,878,Net Banking,94831.54,Successful
+879,879,Credit Card,19682.6,Failed
+880,880,Debit Card,187199.45,Successful
+881,881,Wallet,4200.22,Successful
+882,882,COD,43144.04,Successful
+883,883,UPI,10648.71,Failed
+884,884,Wallet,4941.44,Successful
+885,885,Net Banking,104730.97,Successful
+886,886,Wallet,55837.4,Failed
+887,887,Wallet,98112.35,Successful
+888,888,Credit Card,37510.27,Failed
+889,889,Wallet,54164.02,Successful
+890,890,Credit Card,25661.22,Successful
+891,891,Net Banking,5620.07,Successful
+892,892,COD,18266.89,Successful
+893,893,Credit Card,51293.56,Successful
+894,894,Credit Card,54164.02,Successful
+895,895,Net Banking,97240.63,Successful
+896,896,COD,56526.25,Successful
+897,897,Wallet,3616.42,Successful
+898,898,COD,118646.46,Failed
+899,899,Wallet,150087.61,Successful
+900,900,Debit Card,47154.81,Successful
+901,901,UPI,59121.95,Successful
+902,902,UPI,109595.17,Failed
+903,903,Wallet,12070.49,Successful
+904,904,Credit Card,79208.87,Successful
+905,905,COD,74671.77,Successful
+906,906,Net Banking,101002.67,Successful
+907,907,Credit Card,215382.87,Successful
+908,908,Wallet,88090.56,Successful
+909,909,Net Banking,144108.26,Successful
+910,910,Wallet,97906.97,Successful
+911,911,COD,27154.21,Successful
+912,912,Net Banking,26646.25,Successful
+913,913,COD,122414.85,Successful
+914,914,Debit Card,60887.55,Successful
+915,915,COD,225814.89,Failed
+916,916,Credit Card,61552.27,Successful
+917,917,Wallet,182038.35,Successful
+918,918,Net Banking,95267.27,Successful
+919,919,Wallet,90046.39,Successful
+920,920,Wallet,17727.26,Successful
+921,921,Wallet,83497.0,Successful
+922,922,COD,79482.05,Successful
+923,923,Net Banking,28696.06,Successful
+924,924,Debit Card,108615.62,Successful
+925,925,Credit Card,167295.27,Successful
+926,926,Credit Card,14082.13,Successful
+927,927,COD,63069.38,Successful
+928,928,Wallet,33789.7,Successful
+929,929,Debit Card,36278.92,Successful
+930,930,Debit Card,26798.76,Failed
+931,931,Debit Card,43943.09,Failed
+932,932,UPI,99289.46,Successful
+933,933,COD,121902.29,Successful
+934,934,UPI,139746.53,Successful
+935,935,Credit Card,6626.27,Successful
+936,936,Debit Card,64815.85,Successful
+937,937,Debit Card,42235.05,Successful
+938,938,COD,80964.04,Failed
+939,939,Debit Card,100887.26,Successful
+940,940,UPI,11186.4,Successful
+941,941,COD,5994.46,Successful
+942,942,Net Banking,20099.08,Successful
+943,943,Credit Card,63074.71,Failed
+944,944,COD,313340.41,Failed
+945,945,COD,57688.75,Successful
+946,946,Debit Card,70237.23,Failed
+947,947,UPI,27672.7,Successful
+948,948,Net Banking,41711.2,Failed
+949,949,UPI,94551.32,Successful
+950,950,COD,2610.21,Successful
+951,951,Wallet,40691.94,Failed
+952,952,Debit Card,15835.1,Successful
+953,953,UPI,2048.51,Successful
+954,954,Net Banking,63472.95,Successful
+955,955,Credit Card,45601.65,Successful
+956,956,Wallet,171479.64,Failed
+957,957,Debit Card,38568.14,Successful
+958,958,Net Banking,8855.69,Failed
+959,959,Credit Card,43641.74,Successful
+960,960,COD,83456.55,Successful
+961,961,Debit Card,20267.4,Successful
+962,962,Wallet,95048.96,Failed
+963,963,Wallet,85845.46,Successful
+964,964,Net Banking,68482.82,Failed
+965,965,Wallet,88201.97,Successful
+966,966,Debit Card,108188.64,Successful
+967,967,COD,32187.96,Successful
+968,968,UPI,1910.97,Successful
+969,969,Wallet,177877.1,Successful
+970,970,UPI,83273.58,Successful
+971,971,Credit Card,32083.72,Failed
+972,972,Net Banking,4958.87,Successful
+973,973,Debit Card,24364.44,Successful
+974,974,Debit Card,96849.22,Successful
+975,975,Wallet,39193.94,Successful
+976,976,Debit Card,31781.54,Failed
+977,977,Wallet,25369.44,Successful
+978,978,Credit Card,25531.48,Successful
+979,979,Debit Card,119949.7,Failed
+980,980,UPI,38829.64,Failed
+981,981,UPI,210324.0,Successful
+982,982,Wallet,115004.77,Successful
+983,983,Credit Card,16860.2,Successful
+984,984,Debit Card,104181.59,Successful
+985,985,UPI,133632.49,Successful
+986,986,COD,50744.93,Failed
+987,987,Net Banking,37573.65,Successful
+988,988,Wallet,56578.64,Failed
+989,989,Credit Card,357289.38,Successful
+990,990,COD,223216.67,Successful
+991,991,Debit Card,132988.42,Successful
+992,992,Credit Card,102816.46,Successful
+993,993,UPI,198541.79,Successful
+994,994,COD,168623.18,Successful
+995,995,Net Banking,79367.7,Successful
+996,996,COD,36110.41,Successful
+997,997,COD,41542.92,Successful
+998,998,Wallet,13983.0,Successful
+999,999,Wallet,78120.37,Successful
+1000,1000,Net Banking,79127.26,Successful
+1001,1001,Wallet,71057.95,Successful
+1002,1002,Wallet,50326.68,Successful
+1003,1003,UPI,42371.45,Successful
+1004,1004,COD,180904.24,Failed
+1005,1005,Debit Card,6982.83,Successful
+1006,1006,Credit Card,46535.24,Successful
+1007,1007,UPI,48347.79,Failed
+1008,1008,Credit Card,152533.04,Successful
+1009,1009,Debit Card,114666.94,Successful
+1010,1010,COD,61736.9,Successful
+1011,1011,Debit Card,158907.81,Successful
+1012,1012,Credit Card,23370.17,Successful
+1013,1013,Net Banking,94950.71,Failed
+1014,1014,Wallet,178780.54,Failed
+1015,1015,COD,176271.16,Successful
+1016,1016,Net Banking,18029.33,Successful
+1017,1017,Net Banking,58690.3,Successful
+1018,1018,Debit Card,252066.34,Successful
+1019,1019,Debit Card,45111.76,Successful
+1020,1020,COD,49804.11,Successful
+1021,1021,Debit Card,30376.39,Failed
+1022,1022,COD,107610.24,Successful
+1023,1023,Wallet,20106.38,Successful
+1024,1024,Net Banking,49243.38,Successful
+1025,1025,COD,80114.01,Successful
+1026,1026,Net Banking,84044.44,Failed
+1027,1027,COD,26904.46,Failed
+1028,1028,Net Banking,31696.84,Successful
+1029,1029,COD,49859.1,Successful
+1030,1030,Credit Card,36910.22,Successful
+1031,1031,UPI,172924.91,Successful
+1032,1032,Debit Card,35724.67,Successful
+1033,1033,Debit Card,256003.21,Failed
+1034,1034,Debit Card,20771.46,Successful
+1035,1035,Credit Card,72102.61,Successful
+1036,1036,Net Banking,133530.51,Successful
+1037,1037,Debit Card,66939.91,Successful
+1038,1038,Debit Card,31781.54,Successful
+1039,1039,COD,8359.61,Successful
+1040,1040,Net Banking,124101.35,Successful
+1041,1041,UPI,5915.86,Successful
+1042,1042,Wallet,18899.71,Failed
+1043,1043,Debit Card,18770.04,Successful
+1044,1044,Wallet,15333.37,Successful
+1045,1045,Credit Card,3806.76,Successful
+1046,1046,Net Banking,49989.27,Successful
+1047,1047,COD,14126.75,Successful
+1048,1048,Wallet,15281.59,Successful
+1049,1049,UPI,78387.63,Successful
+1050,1050,COD,32666.92,Successful
+1051,1051,UPI,65371.43,Successful
+1052,1052,Wallet,107044.84,Successful
+1053,1053,Debit Card,125192.99,Successful
+1054,1054,Debit Card,7390.38,Successful
+1055,1055,Debit Card,36669.23,Successful
+1056,1056,COD,36885.18,Successful
+1057,1057,UPI,80401.22,Successful
+1058,1058,Credit Card,33171.96,Successful
+1059,1059,Wallet,484.33,Successful
+1060,1060,UPI,34062.16,Successful
+1061,1061,COD,84054.85,Successful
+1062,1062,Net Banking,17495.64,Failed
+1063,1063,Net Banking,45872.66,Successful
+1064,1064,UPI,45550.85,Successful
+1065,1065,UPI,18848.96,Successful
+1066,1066,Wallet,29444.36,Failed
+1067,1067,Net Banking,200063.08,Successful
+1068,1068,Net Banking,234322.98,Successful
+1069,1069,Credit Card,93030.53,Successful
+1070,1070,Net Banking,67544.68,Failed
+1071,1071,Debit Card,61239.16,Successful
+1072,1072,UPI,136354.32,Successful
+1073,1073,COD,131348.76,Successful
+1074,1074,Credit Card,89253.22,Successful
+1075,1075,Debit Card,86805.13,Successful
+1076,1076,Credit Card,266468.43,Failed
+1077,1077,COD,142979.68,Successful
+1078,1078,Net Banking,141241.23,Successful
+1079,1079,Debit Card,82486.64,Failed
+1080,1080,Credit Card,137410.92,Failed
+1081,1081,Debit Card,88841.56,Failed
+1082,1082,Net Banking,132539.09,Successful
+1083,1083,COD,92202.6,Successful
+1084,1084,Credit Card,13535.86,Successful
+1085,1085,Net Banking,18723.1,Successful
+1086,1086,Wallet,70244.95,Successful
+1087,1087,Wallet,39773.19,Successful
+1088,1088,Wallet,87854.94,Successful
+1089,1089,Net Banking,57791.77,Failed
+1090,1090,Net Banking,52730.5,Successful
+1091,1091,Wallet,26500.95,Successful
+1092,1092,Wallet,57740.23,Successful
+1093,1093,Debit Card,17966.84,Successful
+1094,1094,Credit Card,28902.82,Failed
+1095,1095,COD,71463.36,Successful
+1096,1096,Debit Card,77951.78,Successful
+1097,1097,UPI,29363.52,Successful
+1098,1098,Net Banking,150043.29,Successful
+1099,1099,Wallet,67069.67,Successful
+1100,1100,UPI,161792.58,Successful
+1101,1101,Credit Card,23741.03,Successful
+1102,1102,Credit Card,103660.71,Successful
+1103,1103,UPI,40562.19,Failed
+1104,1104,Debit Card,151462.08,Failed
+1105,1105,Debit Card,71164.76,Failed
+1106,1106,Net Banking,372213.81,Successful
+1107,1107,Credit Card,80929.28,Successful
+1108,1108,COD,101103.1,Successful
+1109,1109,Debit Card,24976.43,Successful
+1110,1110,COD,62888.07,Successful
+1111,1111,Net Banking,206878.36,Successful
+1112,1112,Debit Card,100196.4,Successful
+1113,1113,UPI,62406.51,Successful
+1114,1114,Wallet,857.01,Failed
+1115,1115,COD,179529.74,Successful
+1116,1116,UPI,54317.08,Successful
+1117,1117,Credit Card,39658.09,Successful
+1118,1118,Credit Card,22682.69,Successful
+1119,1119,COD,12475.55,Successful
+1120,1120,Credit Card,76002.75,Successful
+1121,1121,Debit Card,36211.46,Successful
+1122,1122,Wallet,23626.45,Successful
+1123,1123,Wallet,54800.68,Successful
+1124,1124,Debit Card,72385.89,Failed
+1125,1125,Wallet,27795.82,Successful
+1126,1126,Credit Card,42409.08,Successful
+1127,1127,Wallet,155577.97,Successful
+1128,1128,Wallet,221519.7,Successful
+1129,1129,Debit Card,15788.72,Successful
+1130,1130,Net Banking,50901.43,Successful
+1131,1131,UPI,23541.88,Successful
+1132,1132,Credit Card,55278.2,Successful
+1133,1133,Net Banking,92460.39,Successful
+1134,1134,Credit Card,99101.88,Successful
+1135,1135,Debit Card,41862.82,Successful
+1136,1136,COD,29225.56,Successful
+1137,1137,Credit Card,127739.19,Successful
+1138,1138,Wallet,55611.27,Successful
+1139,1139,Credit Card,172712.4,Successful
+1140,1140,Debit Card,66996.15,Successful
+1141,1141,UPI,151736.89,Successful
+1142,1142,Wallet,154731.77,Successful
+1143,1143,Net Banking,106964.03,Successful
+1144,1144,Wallet,7719.63,Successful
+1145,1145,Net Banking,67659.91,Successful
+1146,1146,Debit Card,196394.58,Successful
+1147,1147,Credit Card,35014.84,Successful
+1148,1148,Net Banking,57563.35,Successful
+1149,1149,Wallet,207461.77,Successful
+1150,1150,Wallet,18102.81,Failed
+1151,1151,Credit Card,22805.9,Successful
+1152,1152,Debit Card,191858.87,Successful
+1153,1153,UPI,39459.18,Successful
+1154,1154,Wallet,131070.91,Successful
+1155,1155,COD,47486.06,Successful
+1156,1156,Net Banking,32541.42,Successful
+1157,1157,Credit Card,46430.32,Successful
+1158,1158,UPI,130659.42,Successful
+1159,1159,Wallet,91011.79,Successful
+1160,1160,Debit Card,37215.48,Successful
+1161,1161,Wallet,18523.24,Successful
+1162,1162,Debit Card,538.14,Successful
+1163,1163,UPI,11486.79,Successful
+1164,1164,Wallet,110250.67,Successful
+1165,1165,Net Banking,96191.89,Successful
+1166,1166,Debit Card,34523.1,Successful
+1167,1167,Wallet,12954.84,Successful
+1168,1168,Wallet,125722.26,Successful
+1169,1169,Debit Card,37316.08,Successful
+1170,1170,UPI,28416.58,Successful
+1171,1171,Credit Card,34031.89,Successful
+1172,1172,Credit Card,144016.46,Successful
+1173,1173,Wallet,125994.25,Successful
+1174,1174,Credit Card,28688.81,Successful
+1175,1175,Debit Card,19516.06,Successful
+1176,1176,Debit Card,81107.42,Successful
+1177,1177,Credit Card,35607.27,Successful
+1178,1178,Net Banking,107011.81,Successful
+1179,1179,UPI,69615.59,Successful
+1180,1180,COD,180448.71,Failed
+1181,1181,Debit Card,28634.37,Successful
+1182,1182,COD,22799.81,Successful
+1183,1183,COD,101565.59,Failed
+1184,1184,Debit Card,30852.09,Successful
+1185,1185,Credit Card,511.23,Successful
+1186,1186,UPI,222328.96,Successful
+1187,1187,UPI,79930.61,Successful
+1188,1188,Net Banking,99679.14,Successful
+1189,1189,Wallet,59438.46,Successful
+1190,1190,Debit Card,64170.41,Successful
+1191,1191,Debit Card,45648.16,Successful
+1192,1192,COD,43434.14,Successful
+1193,1193,COD,40694.72,Successful
+1194,1194,Credit Card,105414.63,Successful
+1195,1195,Credit Card,26798.76,Successful
+1196,1196,Net Banking,32949.93,Successful
+1197,1197,Net Banking,206180.91,Successful
+1198,1198,UPI,33033.96,Successful
+1199,1199,UPI,108846.94,Failed
+1200,1200,Wallet,42968.88,Successful
+1201,1201,Debit Card,27127.2,Failed
+1202,1202,Credit Card,106173.48,Successful
+1203,1203,Credit Card,190589.31,Failed
+1204,1204,UPI,38837.67,Successful
+1205,1205,Wallet,132863.7,Successful
+1206,1206,Net Banking,49370.62,Failed
+1207,1207,UPI,58801.31,Successful
+1208,1208,Debit Card,62471.29,Successful
+1209,1209,Debit Card,103156.68,Successful
+1210,1210,Debit Card,43489.82,Successful
+1211,1211,Net Banking,23359.03,Successful
+1212,1212,UPI,37847.31,Successful
+1213,1213,Wallet,97117.61,Successful
+1214,1214,Debit Card,77851.21,Successful
+1215,1215,COD,181746.83,Successful
+1216,1216,COD,957.84,Successful
+1217,1217,Wallet,64340.23,Successful
+1218,1218,Net Banking,86066.43,Successful
+1219,1219,Net Banking,125899.48,Successful
+1220,1220,Net Banking,87270.89,Successful
+1221,1221,Wallet,22124.97,Successful
+1222,1222,Credit Card,84222.67,Successful
+1223,1223,Credit Card,39926.32,Successful
+1224,1224,UPI,18306.63,Successful
+1225,1225,UPI,50263.9,Successful
+1226,1226,Credit Card,20943.29,Successful
+1227,1227,COD,138317.13,Successful
+1228,1228,UPI,21872.29,Successful
+1229,1229,Net Banking,18687.22,Failed
+1230,1230,Net Banking,27588.05,Successful
+1231,1231,UPI,129731.21,Failed
+1232,1232,Credit Card,39276.25,Successful
+1233,1233,Credit Card,34484.52,Successful
+1234,1234,UPI,66918.82,Successful
+1235,1235,UPI,5831.88,Successful
+1236,1236,Wallet,94327.9,Successful
+1237,1237,UPI,13793.81,Successful
+1238,1238,Credit Card,82399.36,Failed
+1239,1239,UPI,116257.75,Successful
+1240,1240,Credit Card,97613.62,Successful
+1241,1241,Credit Card,94956.93,Failed
+1242,1242,Net Banking,109706.53,Successful
+1243,1243,UPI,39624.94,Successful
+1244,1244,Wallet,70473.36,Successful
+1245,1245,Wallet,55706.51,Successful
+1246,1246,Debit Card,27589.46,Successful
+1247,1247,Credit Card,11586.28,Successful
+1248,1248,COD,105341.4,Successful
+1249,1249,Debit Card,52337.62,Successful
+1250,1250,Credit Card,143217.89,Successful
+1251,1251,Credit Card,23206.0,Successful
+1252,1252,UPI,35584.72,Successful
+1253,1253,UPI,35014.84,Successful
+1254,1254,Net Banking,2571.04,Successful
+1255,1255,COD,28872.99,Failed
+1256,1256,Credit Card,19286.1,Successful
+1257,1257,Wallet,19796.13,Successful
+1258,1258,Wallet,10530.39,Successful
+1259,1259,UPI,9261.62,Successful
+1260,1260,Net Banking,13111.08,Successful
+1261,1261,Wallet,172386.18,Successful
+1262,1262,Debit Card,167559.25,Successful
+1263,1263,Credit Card,31198.74,Successful
+1264,1264,Net Banking,126820.6,Successful
+1265,1265,Net Banking,27001.23,Successful
+1266,1266,Credit Card,58477.46,Failed
+1267,1267,Wallet,11988.93,Successful
+1268,1268,Debit Card,25321.56,Successful
+1269,1269,Net Banking,75965.54,Successful
+1270,1270,Debit Card,102851.1,Successful
+1271,1271,COD,59188.78,Successful
+1272,1272,COD,143310.66,Successful
+1273,1273,Net Banking,55907.08,Successful
+1274,1274,Debit Card,50906.06,Successful
+1275,1275,UPI,148192.96,Successful
+1276,1276,UPI,33616.5,Successful
+1277,1277,UPI,77851.21,Successful
+1278,1278,UPI,28706.49,Successful
+1279,1279,Net Banking,30785.34,Successful
+1280,1280,Credit Card,12392.75,Successful
+1281,1281,Credit Card,70834.29,Successful
+1282,1282,Credit Card,30664.56,Successful
+1283,1283,Wallet,174268.8,Successful
+1284,1284,Debit Card,165560.24,Failed
+1285,1285,Wallet,50744.93,Successful
+1286,1286,UPI,66137.1,Successful
+1287,1287,Credit Card,133744.32,Successful
+1288,1288,COD,41690.09,Successful
+1289,1289,Debit Card,11586.28,Successful
+1290,1290,Wallet,99854.05,Successful
+1291,1291,Net Banking,95556.13,Successful
+1292,1292,Net Banking,42244.23,Successful
+1293,1293,Wallet,119881.9,Successful
+1294,1294,Wallet,56895.01,Successful
+1295,1295,COD,84714.16,Successful
+1296,1296,Debit Card,72348.34,Successful
+1297,1297,COD,125812.6,Successful
+1298,1298,Credit Card,59482.47,Successful
+1299,1299,COD,75557.58,Failed
+1300,1300,Credit Card,9376.61,Successful
+1301,1301,UPI,5929.32,Successful
+1302,1302,Debit Card,43174.27,Successful
+1303,1303,Credit Card,28751.52,Successful
+1304,1304,COD,93527.98,Successful
+1305,1305,Net Banking,14955.37,Failed
+1306,1306,Wallet,59889.48,Successful
+1307,1307,COD,220244.96,Successful
+1308,1308,Debit Card,32283.07,Successful
+1309,1309,UPI,131040.84,Successful
+1310,1310,Wallet,40201.51,Successful
+1311,1311,Debit Card,56383.26,Successful
+1312,1312,Credit Card,24878.73,Successful
+1313,1313,Credit Card,61475.78,Successful
+1314,1314,Credit Card,88523.44,Successful
+1315,1315,Debit Card,25661.22,Successful
+1316,1316,Wallet,32083.72,Successful
+1317,1317,Wallet,18307.97,Successful
+1318,1318,COD,97437.93,Successful
+1319,1319,Wallet,16781.47,Successful
+1320,1320,Wallet,187606.53,Successful
+1321,1321,UPI,72151.9,Successful
+1322,1322,Credit Card,63274.14,Successful
+1323,1323,COD,104590.56,Successful
+1324,1324,Credit Card,34686.25,Successful
+1325,1325,Net Banking,46274.4,Successful
+1326,1326,Debit Card,99857.53,Successful
+1327,1327,Debit Card,88171.84,Successful
+1328,1328,Wallet,42083.87,Successful
+1329,1329,Credit Card,7215.7,Successful
+1330,1330,COD,90382.95,Successful
+1331,1331,Wallet,5293.65,Successful
+1332,1332,Debit Card,132091.76,Successful
+1333,1333,UPI,98712.84,Successful
+1334,1334,COD,95676.73,Successful
+1335,1335,Credit Card,64118.82,Successful
+1336,1336,COD,4097.03,Successful
+1337,1337,Debit Card,44420.93,Successful
+1338,1338,Net Banking,15080.88,Successful
+1339,1339,Debit Card,30794.35,Successful
+1340,1340,UPI,20903.37,Failed
+1341,1341,Credit Card,93293.6,Successful
+1342,1342,Net Banking,13340.97,Successful
+1343,1343,Credit Card,104919.74,Successful
+1344,1344,Wallet,2456.67,Failed
+1345,1345,Credit Card,39230.69,Successful
+1346,1346,Net Banking,58846.04,Successful
+1347,1347,Net Banking,59617.49,Successful
+1348,1348,UPI,70927.15,Successful
+1349,1349,COD,71888.66,Successful
+1350,1350,COD,18828.85,Successful
+1351,1351,Net Banking,51313.28,Successful
+1352,1352,Debit Card,23233.23,Successful
+1353,1353,Net Banking,32247.93,Failed
+1354,1354,Debit Card,126363.18,Successful
+1355,1355,COD,73217.31,Successful
+1356,1356,COD,27254.61,Successful
+1357,1357,Debit Card,84284.68,Successful
+1358,1358,Net Banking,122159.85,Successful
+1359,1359,UPI,55008.65,Successful
+1360,1360,Net Banking,88762.07,Successful
+1361,1361,Wallet,68878.78,Successful
+1362,1362,Net Banking,87323.01,Successful
+1363,1363,Wallet,65384.49,Successful
+1364,1364,Credit Card,19167.68,Successful
+1365,1365,Credit Card,52239.9,Successful
+1366,1366,Debit Card,206277.0,Successful
+1367,1367,Wallet,12969.4,Failed
+1368,1368,Debit Card,104262.63,Successful
+1369,1369,UPI,79026.54,Successful
+1370,1370,Wallet,78021.93,Successful
+1371,1371,Debit Card,10786.02,Successful
+1372,1372,Net Banking,18564.8,Successful
+1373,1373,Debit Card,68237.2,Successful
+1374,1374,Credit Card,81874.11,Failed
+1375,1375,Net Banking,177926.07,Failed
+1376,1376,Net Banking,23446.1,Successful
+1377,1377,Wallet,46927.83,Successful
+1378,1378,Wallet,14655.92,Successful
+1379,1379,Debit Card,5822.09,Successful
+1380,1380,UPI,132943.38,Failed
+1381,1381,COD,29486.18,Successful
+1382,1382,Net Banking,160808.34,Successful
+1383,1383,UPI,37694.41,Failed
+1384,1384,Net Banking,39953.63,Successful
+1385,1385,Credit Card,78256.16,Successful
+1386,1386,Debit Card,123925.2,Successful
+1387,1387,Wallet,52136.76,Successful
+1388,1388,Net Banking,45623.22,Successful
+1389,1389,Debit Card,39888.66,Failed
+1390,1390,Wallet,68878.78,Successful
+1391,1391,Credit Card,102891.14,Successful
+1392,1392,Wallet,64091.21,Failed
+1393,1393,Credit Card,45841.61,Successful
+1394,1394,UPI,91850.78,Successful
+1395,1395,Credit Card,16840.6,Successful
+1396,1396,Debit Card,83538.29,Successful
+1397,1397,Wallet,22536.66,Successful
+1398,1398,UPI,10005.3,Successful
+1399,1399,UPI,17831.22,Successful
+1400,1400,Net Banking,88693.75,Successful
+1401,1401,Wallet,85942.22,Successful
+1402,1402,COD,135055.29,Successful
+1403,1403,Wallet,66995.77,Successful
+1404,1404,Wallet,46203.43,Successful
+1405,1405,UPI,10942.59,Failed
+1406,1406,Credit Card,11486.79,Successful
+1407,1407,Debit Card,41864.68,Successful
+1408,1408,Net Banking,129307.24,Successful
+1409,1409,Net Banking,280955.17,Successful
+1410,1410,COD,122949.86,Successful
+1411,1411,Net Banking,50718.67,Successful
+1412,1412,Wallet,49781.18,Successful
+1413,1413,Debit Card,29090.3,Successful
+1414,1414,COD,113650.84,Successful
+1415,1415,Credit Card,39887.28,Successful
+1416,1416,Wallet,45045.01,Successful
+1417,1417,Net Banking,108846.94,Successful
+1418,1418,Wallet,41558.64,Successful
+1419,1419,UPI,29019.26,Successful
+1420,1420,UPI,15448.37,Successful
+1421,1421,Debit Card,21477.77,Successful
+1422,1422,UPI,102843.98,Successful
+1423,1423,Debit Card,26402.96,Failed
+1424,1424,Wallet,31591.17,Successful
+1425,1425,Credit Card,88933.23,Successful
+1426,1426,Wallet,35897.99,Successful
+1427,1427,Debit Card,20373.6,Successful
+1428,1428,Wallet,27017.87,Successful
+1429,1429,Debit Card,67723.84,Successful
+1430,1430,UPI,11939.03,Successful
+1431,1431,Wallet,22611.47,Successful
+1432,1432,Wallet,13689.92,Failed
+1433,1433,Credit Card,97639.48,Successful
+1434,1434,Wallet,80677.39,Successful
+1435,1435,Debit Card,26643.54,Successful
+1436,1436,Credit Card,26855.55,Successful
+1437,1437,Debit Card,58151.76,Failed
+1438,1438,Credit Card,80225.07,Successful
+1439,1439,Net Banking,121026.9,Successful
+1440,1440,Debit Card,117200.35,Successful
+1441,1441,UPI,69984.87,Successful
+1442,1442,UPI,78852.91,Successful
+1443,1443,Debit Card,201853.36,Successful
+1444,1444,Credit Card,268680.64,Successful
+1445,1445,UPI,48282.37,Failed
+1446,1446,Debit Card,114397.66,Successful
+1447,1447,UPI,5641.85,Successful
+1448,1448,Debit Card,97212.07,Successful
+1449,1449,COD,48728.88,Successful
+1450,1450,Debit Card,44844.16,Successful
+1451,1451,Net Banking,39344.9,Successful
+1452,1452,Net Banking,129198.01,Successful
+1453,1453,Debit Card,36615.94,Successful
+1454,1454,Debit Card,13836.35,Successful
+1455,1455,COD,144148.31,Successful
+1456,1456,UPI,45331.94,Successful
+1457,1457,UPI,32954.35,Successful
+1458,1458,UPI,96165.56,Successful
+1459,1459,Credit Card,88945.83,Successful
+1460,1460,Net Banking,68770.33,Successful
+1461,1461,Credit Card,90919.84,Successful
+1462,1462,UPI,77755.31,Failed
+1463,1463,Credit Card,41150.98,Successful
+1464,1464,UPI,47645.17,Successful
+1465,1465,Debit Card,118745.92,Successful
+1466,1466,UPI,92783.7,Successful
+1467,1467,Net Banking,29366.1,Successful
+1468,1468,Wallet,113070.23,Successful
+1469,1469,UPI,127054.35,Successful
+1470,1470,Debit Card,159329.14,Successful
+1471,1471,Debit Card,37215.48,Successful
+1472,1472,Net Banking,110032.94,Successful
+1473,1473,Net Banking,156712.54,Successful
+1474,1474,UPI,20347.36,Failed
+1475,1475,Wallet,117166.44,Successful
+1476,1476,Credit Card,2977.68,Successful
+1477,1477,Debit Card,131889.39,Successful
+1478,1478,Wallet,98294.39,Successful
+1479,1479,Credit Card,56196.39,Successful
+1480,1480,Net Banking,25518.02,Failed
+1481,1481,Credit Card,69267.02,Successful
+1482,1482,Net Banking,27804.28,Successful
+1483,1483,Wallet,78256.16,Successful
+1484,1484,Wallet,144445.55,Successful
+1485,1485,Debit Card,45870.84,Failed
+1486,1486,Wallet,9679.09,Successful
+1487,1487,UPI,25059.97,Successful
+1488,1488,Net Banking,71311.82,Successful
+1489,1489,Wallet,82075.54,Failed
+1490,1490,Wallet,67069.67,Successful
+1491,1491,Wallet,118046.89,Successful
+1492,1492,Debit Card,40234.95,Successful
+1493,1493,Credit Card,37117.74,Successful
+1494,1494,Net Banking,78572.78,Successful
+1495,1495,Wallet,211642.78,Successful
+1496,1496,COD,41925.38,Successful
+1497,1497,COD,53987.68,Successful
+1498,1498,COD,151474.7,Failed
+1499,1499,UPI,16747.11,Successful
+1500,1500,COD,12078.67,Successful
+1501,1501,Wallet,23082.1,Failed
+1502,1502,Debit Card,34024.03,Failed
+1503,1503,UPI,133262.33,Successful
+1504,1504,COD,80412.65,Successful
+1505,1505,UPI,83296.56,Successful
+1506,1506,Wallet,186449.44,Successful
+1507,1507,Net Banking,76669.85,Successful
+1508,1508,UPI,140369.8,Successful
+1509,1509,COD,125858.87,Failed
+1510,1510,Wallet,245024.25,Successful
+1511,1511,Wallet,16031.85,Successful
+1512,1512,COD,82412.28,Successful
+1513,1513,Debit Card,31999.01,Successful
+1514,1514,Debit Card,103318.17,Successful
+1515,1515,Debit Card,78238.36,Successful
+1516,1516,Debit Card,68644.21,Successful
+1517,1517,Credit Card,69491.32,Successful
+1518,1518,Debit Card,69376.46,Successful
+1519,1519,UPI,119112.78,Failed
+1520,1520,Net Banking,56895.01,Successful
+1521,1521,Credit Card,30348.82,Successful
+1522,1522,COD,108227.85,Successful
+1523,1523,Net Banking,114821.05,Successful
+1524,1524,Net Banking,117172.46,Successful
+1525,1525,Debit Card,7357.28,Successful
+1526,1526,COD,41203.26,Failed
+1527,1527,UPI,87885.41,Successful
+1528,1528,UPI,9126.61,Successful
+1529,1529,Credit Card,121658.73,Successful
+1530,1530,Wallet,121450.47,Successful
+1531,1531,Net Banking,109808.95,Successful
+1532,1532,Debit Card,3728.8,Successful
+1533,1533,Wallet,118657.32,Successful
+1534,1534,Net Banking,160599.0,Successful
+1535,1535,COD,85391.2,Successful
+1536,1536,Net Banking,22422.08,Successful
+1537,1537,COD,17257.62,Successful
+1538,1538,Net Banking,102226.46,Successful
+1539,1539,Wallet,56354.08,Successful
+1540,1540,Debit Card,39649.78,Successful
+1541,1541,COD,95924.86,Failed
+1542,1542,COD,64972.51,Failed
+1543,1543,Wallet,69246.31,Successful
+1544,1544,Debit Card,52177.71,Failed
+1545,1545,Wallet,22827.22,Successful
+1546,1546,Credit Card,156205.06,Successful
+1547,1547,UPI,47252.89,Successful
+1548,1548,Net Banking,32478.43,Failed
+1549,1549,UPI,96946.59,Successful
+1550,1550,Wallet,109070.06,Successful
+1551,1551,Net Banking,102816.46,Successful
+1552,1552,Wallet,100165.55,Successful
+1553,1553,Credit Card,58295.25,Successful
+1554,1554,Net Banking,33239.4,Successful
+1555,1555,Credit Card,188243.88,Successful
+1556,1556,Debit Card,36211.46,Successful
+1557,1557,Wallet,59733.61,Successful
+1558,1558,Wallet,225273.44,Successful
+1559,1559,Net Banking,77919.17,Successful
+1560,1560,UPI,83676.1,Failed
+1561,1561,COD,23331.17,Successful
+1562,1562,Net Banking,17787.96,Successful
+1563,1563,Net Banking,127718.16,Successful
+1564,1564,UPI,41224.88,Successful
+1565,1565,UPI,69246.31,Successful
+1566,1566,UPI,42477.64,Successful
+1567,1567,COD,66996.15,Successful
+1568,1568,COD,5341.14,Successful
+1569,1569,Wallet,105710.05,Successful
+1570,1570,Net Banking,211385.65,Successful
+1571,1571,Net Banking,2608.37,Successful
+1572,1572,Net Banking,100409.87,Successful
+1573,1573,COD,113934.43,Successful
+1574,1574,Credit Card,53703.72,Successful
+1575,1575,COD,24758.45,Successful
+1576,1576,Debit Card,12224.89,Successful
+1577,1577,Net Banking,85142.49,Successful
+1578,1578,Wallet,133136.86,Successful
+1579,1579,Net Banking,206974.24,Failed
+1580,1580,Wallet,40139.53,Successful
+1581,1581,UPI,20787.25,Successful
+1582,1582,UPI,484.33,Successful
+1583,1583,Debit Card,139850.1,Successful
+1584,1584,UPI,9679.09,Successful
+1585,1585,UPI,17436.12,Successful
+1586,1586,UPI,46383.97,Successful
+1587,1587,COD,74458.43,Successful
+1588,1588,UPI,266180.34,Successful
+1589,1589,COD,89428.07,Successful
+1590,1590,COD,21794.83,Failed
+1591,1591,Debit Card,148527.58,Successful
+1592,1592,Debit Card,91616.56,Failed
+1593,1593,Debit Card,195837.62,Successful
+1594,1594,UPI,155340.39,Successful
+1595,1595,Wallet,219476.1,Successful
+1596,1596,UPI,166055.62,Successful
+1597,1597,Debit Card,42229.05,Successful
+1598,1598,UPI,115410.99,Successful
+1599,1599,Debit Card,22124.97,Successful
+1600,1600,Credit Card,64761.41,Successful
+1601,1601,COD,44605.5,Successful
+1602,1602,UPI,105082.37,Successful
+1603,1603,Net Banking,42474.6,Failed
+1604,1604,Net Banking,91838.6,Failed
+1605,1605,UPI,103126.31,Failed
+1606,1606,Wallet,44249.94,Successful
+1607,1607,Wallet,60790.21,Successful
+1608,1608,Debit Card,107456.28,Successful
+1609,1609,COD,36538.24,Successful
+1610,1610,Net Banking,8867.7,Successful
+1611,1611,COD,127858.71,Successful
+1612,1612,Credit Card,26160.97,Successful
+1613,1613,UPI,68402.48,Successful
+1614,1614,Net Banking,127858.71,Failed
+1615,1615,COD,88979.4,Successful
+1616,1616,Wallet,119860.9,Successful
+1617,1617,UPI,8316.72,Successful
+1618,1618,Net Banking,21684.4,Successful
+1619,1619,Debit Card,15015.0,Successful
+1620,1620,Wallet,63423.54,Successful
+1621,1621,UPI,43526.54,Failed
+1622,1622,Net Banking,34580.42,Successful
+1623,1623,Credit Card,47103.95,Successful
+1624,1624,UPI,42135.89,Successful
+1625,1625,Net Banking,8518.97,Successful
+1626,1626,Wallet,8419.73,Successful
+1627,1627,Credit Card,34996.75,Successful
+1628,1628,UPI,2873.51,Successful
+1629,1629,Credit Card,53274.49,Successful
+1630,1630,Net Banking,120345.98,Successful
+1631,1631,Credit Card,38661.81,Successful
+1632,1632,UPI,93004.38,Successful
+1633,1633,Net Banking,163527.16,Successful
+1634,1634,Net Banking,3616.42,Successful
+1635,1635,Debit Card,79380.83,Successful
+1636,1636,Net Banking,100376.1,Successful
+1637,1637,Credit Card,7118.43,Successful
+1638,1638,Debit Card,17143.2,Successful
+1639,1639,Debit Card,12584.7,Successful
+1640,1640,Credit Card,106173.48,Failed
+1641,1641,Wallet,6626.27,Successful
+1642,1642,Net Banking,196302.66,Failed
+1643,1643,COD,21137.71,Successful
+1644,1644,Net Banking,80931.34,Successful
+1645,1645,UPI,119867.33,Successful
+1646,1646,Credit Card,52761.73,Failed
+1647,1647,COD,25004.3,Successful
+1648,1648,Wallet,48219.33,Successful
+1649,1649,Net Banking,57361.91,Successful
+1650,1650,UPI,18501.06,Successful
+1651,1651,Credit Card,17966.84,Successful
+1652,1652,UPI,5929.73,Successful
+1653,1653,Credit Card,103330.56,Successful
+1654,1654,UPI,74558.32,Successful
+1655,1655,Net Banking,115475.53,Failed
+1656,1656,Wallet,68854.11,Successful
+1657,1657,COD,84643.16,Successful
+1658,1658,Net Banking,97650.46,Successful
+1659,1659,COD,137493.57,Successful
+1660,1660,Debit Card,55161.76,Successful
+1661,1661,Net Banking,36863.48,Successful
+1662,1662,COD,16059.29,Successful
+1663,1663,Net Banking,103333.56,Successful
+1664,1664,Debit Card,58931.72,Successful
+1665,1665,UPI,49750.38,Successful
+1666,1666,COD,110392.92,Successful
+1667,1667,Wallet,104097.78,Successful
+1668,1668,Net Banking,150153.16,Successful
+1669,1669,Net Banking,45331.94,Successful
+1670,1670,Credit Card,45648.16,Successful
+1671,1671,Credit Card,213086.95,Successful
+1672,1672,Wallet,64588.69,Failed
+1673,1673,Net Banking,31352.4,Successful
+1674,1674,UPI,141869.87,Successful
+1675,1675,Debit Card,9051.4,Successful
+1676,1676,UPI,2223.65,Successful
+1677,1677,Net Banking,9897.54,Successful
+1678,1678,Credit Card,23822.58,Successful
+1679,1679,Debit Card,67274.42,Successful
+1680,1680,Net Banking,124359.42,Successful
+1681,1681,Debit Card,228027.45,Successful
+1682,1682,UPI,70879.34,Successful
+1683,1683,COD,106821.8,Successful
+1684,1684,COD,52514.29,Successful
+1685,1685,Net Banking,12783.86,Successful
+1686,1686,COD,122834.42,Successful
+1687,1687,Credit Card,21200.76,Successful
+1688,1688,Wallet,181849.24,Successful
+1689,1689,Debit Card,76588.83,Successful
+1690,1690,Debit Card,149237.94,Failed
+1691,1691,COD,151020.81,Successful
+1692,1692,COD,73134.48,Failed
+1693,1693,Credit Card,37159.08,Successful
+1694,1694,COD,79930.61,Successful
+1695,1695,UPI,74300.75,Successful
+1696,1696,Wallet,68417.71,Failed
+1697,1697,Debit Card,76442.92,Successful
+1698,1698,Wallet,11283.7,Successful
+1699,1699,Wallet,14221.78,Successful
+1700,1700,Net Banking,45385.2,Successful
+1701,1701,Net Banking,22191.08,Successful
+1702,1702,Wallet,113759.0,Successful
+1703,1703,UPI,51726.78,Successful
+1704,1704,Net Banking,11157.46,Successful
+1705,1705,Wallet,76566.88,Successful
+1706,1706,Debit Card,2918.99,Successful
+1707,1707,Credit Card,15600.74,Successful
+1708,1708,Wallet,127739.19,Successful
+1709,1709,Debit Card,41133.32,Successful
+1710,1710,COD,44711.0,Successful
+1711,1711,Credit Card,120303.32,Successful
+1712,1712,COD,8945.96,Successful
+1713,1713,Credit Card,24905.43,Failed
+1714,1714,COD,46354.75,Successful
+1715,1715,Debit Card,132360.22,Successful
+1716,1716,Credit Card,47482.06,Successful
+1717,1717,Wallet,40832.85,Successful
+1718,1718,UPI,5578.73,Successful
+1719,1719,Credit Card,72342.02,Successful
+1720,1720,Net Banking,7289.85,Successful
+1721,1721,Net Banking,97462.87,Failed
+1722,1722,UPI,38223.2,Successful
+1723,1723,COD,7409.3,Successful
+1724,1724,UPI,53303.6,Successful
+1725,1725,Net Banking,104973.25,Successful
+1726,1726,COD,63278.11,Successful
+1727,1727,Net Banking,117571.44,Successful
+1728,1728,Credit Card,36128.53,Successful
+1729,1729,Credit Card,107623.14,Successful
+1730,1730,Net Banking,91641.86,Successful
+1731,1731,Credit Card,41381.42,Successful
+1732,1732,Credit Card,4592.43,Successful
+1733,1733,Debit Card,117052.1,Successful
+1734,1734,Wallet,95887.01,Successful
+1735,1735,Wallet,168896.99,Successful
+1736,1736,Wallet,130058.34,Successful
+1737,1737,Debit Card,52158.91,Successful
+1738,1738,Credit Card,58880.54,Successful
+1739,1739,COD,58342.44,Successful
+1740,1740,COD,72693.82,Successful
+1741,1741,Credit Card,198478.63,Successful
+1742,1742,Net Banking,37643.69,Successful
+1743,1743,Net Banking,22987.83,Failed
+1744,1744,UPI,8259.84,Successful
+1745,1745,COD,61480.26,Failed
+1746,1746,Debit Card,252702.71,Successful
+1747,1747,COD,157780.0,Successful
+1748,1748,UPI,56463.65,Successful
+1749,1749,Wallet,37004.7,Successful
+1750,1750,Debit Card,180119.91,Successful
+1751,1751,Credit Card,55507.06,Failed
+1752,1752,Wallet,244571.11,Successful
+1753,1753,UPI,26857.16,Successful
+1754,1754,Credit Card,221530.74,Successful
+1755,1755,UPI,22191.08,Successful
+1756,1756,COD,9898.06,Successful
+1757,1757,UPI,30489.57,Successful
+1758,1758,Debit Card,72191.68,Successful
+1759,1759,Wallet,89927.73,Successful
+1760,1760,Net Banking,5324.27,Successful
+1761,1761,UPI,37159.08,Successful
+1762,1762,COD,184320.08,Successful
+1763,1763,Wallet,11663.76,Successful
+1764,1764,Credit Card,46430.32,Successful
+1765,1765,Debit Card,79316.19,Successful
+1766,1766,UPI,17949.33,Successful
+1767,1767,COD,2608.37,Successful
+1768,1768,Wallet,131149.68,Successful
+1769,1769,Debit Card,112346.25,Successful
+1770,1770,Debit Card,61588.69,Failed
+1771,1771,COD,39677.33,Successful
+1772,1772,Net Banking,84560.84,Successful
+1773,1773,UPI,29041.54,Successful
+1774,1774,Net Banking,43942.71,Successful
+1775,1775,Wallet,79745.88,Successful
+1776,1776,Debit Card,92697.62,Successful
+1777,1777,Debit Card,95212.04,Successful
+1778,1778,Credit Card,63867.34,Successful
+1779,1779,Credit Card,99405.84,Successful
+1780,1780,Wallet,39718.64,Successful
+1781,1781,Wallet,118034.71,Successful
+1782,1782,Net Banking,115046.9,Successful
+1783,1783,Net Banking,103689.62,Successful
+1784,1784,Debit Card,72970.89,Successful
+1785,1785,UPI,126943.29,Successful
+1786,1786,Credit Card,3181.28,Successful
+1787,1787,Debit Card,66374.9,Failed
+1788,1788,Wallet,24090.04,Successful
+1789,1789,Wallet,76941.04,Failed
+1790,1790,Net Banking,23617.13,Successful
+1791,1791,Wallet,103318.17,Successful
+1792,1792,Net Banking,133999.12,Successful
+1793,1793,Net Banking,183363.95,Successful
+1794,1794,Credit Card,18770.04,Successful
+1795,1795,Net Banking,142168.93,Failed
+1796,1796,Debit Card,106695.19,Failed
+1797,1797,Debit Card,10591.23,Successful
+1798,1798,UPI,29262.8,Successful
+1799,1799,Net Banking,45331.94,Failed
+1800,1800,Credit Card,88633.27,Successful
+1801,1801,Net Banking,245939.2,Successful
+1802,1802,UPI,185822.52,Successful
+1803,1803,COD,53552.52,Successful
+1804,1804,Wallet,41636.79,Successful
+1805,1805,Wallet,100281.34,Successful
+1806,1806,Credit Card,14837.37,Successful
+1807,1807,COD,163592.74,Successful
+1808,1808,Net Banking,62505.48,Successful
+1809,1809,Wallet,161832.89,Successful
+1810,1810,Debit Card,10516.69,Successful
+1811,1811,Net Banking,78045.78,Successful
+1812,1812,Net Banking,13777.29,Successful
+1813,1813,UPI,72317.49,Failed
+1814,1814,Net Banking,47694.72,Successful
+1815,1815,Net Banking,80709.65,Successful
+1816,1816,Wallet,45428.6,Failed
+1817,1817,UPI,87885.41,Successful
+1818,1818,COD,68871.49,Failed
+1819,1819,UPI,13520.73,Successful
+1820,1820,UPI,67484.6,Successful
+1821,1821,Wallet,59026.62,Successful
+1822,1822,Debit Card,25646.78,Successful
+1823,1823,COD,8788.0,Successful
+1824,1824,Wallet,146505.37,Successful
+1825,1825,COD,77005.71,Successful
+1826,1826,Net Banking,47125.07,Successful
+1827,1827,Net Banking,71545.93,Successful
+1828,1828,Wallet,28858.95,Successful
+1829,1829,COD,51269.45,Successful
+1830,1830,Net Banking,80951.76,Successful
+1831,1831,Debit Card,5278.37,Successful
+1832,1832,Credit Card,19041.24,Successful
+1833,1833,Debit Card,12985.38,Failed
+1834,1834,Net Banking,221191.78,Failed
+1835,1835,Debit Card,51398.21,Successful
+1836,1836,Credit Card,27127.2,Successful
+1837,1837,Wallet,78555.65,Successful
+1838,1838,Credit Card,1719.87,Successful
+1839,1839,Credit Card,8436.75,Successful
+1840,1840,Debit Card,35593.94,Successful
+1841,1841,Wallet,62710.1,Successful
+1842,1842,Debit Card,149383.68,Successful
+1843,1843,Credit Card,61329.11,Successful
+1844,1844,Net Banking,14653.56,Successful
+1845,1845,Net Banking,19358.18,Successful
+1846,1846,Debit Card,79782.93,Successful
+1847,1847,Debit Card,37225.9,Successful
+1848,1848,Debit Card,43286.0,Successful
+1849,1849,UPI,24364.44,Failed
+1850,1850,Debit Card,51772.85,Successful
+1851,1851,COD,125858.87,Successful
+1852,1852,COD,11399.9,Successful
+1853,1853,Net Banking,49781.18,Successful
+1854,1854,Debit Card,10729.32,Successful
+1855,1855,Net Banking,43599.53,Successful
+1856,1856,Wallet,42967.23,Successful
+1857,1857,Credit Card,34928.44,Successful
+1858,1858,COD,71049.43,Successful
+1859,1859,UPI,138611.66,Successful
+1860,1860,Debit Card,10499.47,Successful
+1861,1861,Net Banking,69188.35,Successful
+1862,1862,Wallet,156367.43,Successful
+1863,1863,Wallet,27784.86,Failed
+1864,1864,Credit Card,11486.79,Failed
+1865,1865,Wallet,30489.57,Successful
+1866,1866,UPI,95346.56,Successful
+1867,1867,COD,51337.14,Successful
+1868,1868,Net Banking,118065.61,Successful
+1869,1869,Wallet,28833.78,Successful
+1870,1870,Credit Card,18334.48,Successful
+1871,1871,UPI,10704.91,Successful
+1872,1872,Credit Card,17037.94,Successful
+1873,1873,Debit Card,18944.39,Successful
+1874,1874,Credit Card,51900.8,Successful
+1875,1875,COD,101787.38,Successful
+1876,1876,Debit Card,64144.21,Successful
+1877,1877,COD,34684.14,Successful
+1878,1878,Wallet,88172.03,Successful
+1879,1879,Wallet,33182.02,Failed
+1880,1880,Credit Card,44713.12,Successful
+1881,1881,UPI,73881.89,Failed
+1882,1882,COD,3081.15,Successful
+1883,1883,Wallet,18200.22,Successful
+1884,1884,Wallet,123092.28,Successful
+1885,1885,Debit Card,29336.62,Successful
+1886,1886,Credit Card,104458.17,Successful
+1887,1887,UPI,16023.43,Successful
+1888,1888,Debit Card,129751.02,Successful
+1889,1889,COD,10205.4,Successful
+1890,1890,Debit Card,114769.49,Successful
+1891,1891,Wallet,5928.77,Failed
+1892,1892,COD,54919.9,Successful
+1893,1893,Wallet,96349.16,Successful
+1894,1894,Wallet,79053.72,Failed
+1895,1895,COD,74563.82,Successful
+1896,1896,UPI,11057.32,Successful
+1897,1897,Net Banking,4358.56,Successful
+1898,1898,Debit Card,8334.77,Successful
+1899,1899,Credit Card,31550.08,Successful
+1900,1900,Net Banking,164069.93,Failed
+1901,1901,Net Banking,261707.45,Successful
+1902,1902,UPI,144575.08,Successful
+1903,1903,Net Banking,130218.67,Successful
+1904,1904,Credit Card,116213.51,Successful
+1905,1905,COD,174014.91,Successful
+1906,1906,Net Banking,55528.65,Successful
+1907,1907,Net Banking,68678.48,Successful
+1908,1908,Wallet,23968.94,Successful
+1909,1909,Net Banking,27784.86,Failed
+1910,1910,Net Banking,58167.1,Successful
+1911,1911,Credit Card,55783.94,Successful
+1912,1912,Wallet,86556.6,Successful
+1913,1913,UPI,65135.38,Successful
+1914,1914,Wallet,6153.26,Successful
+1915,1915,Credit Card,71187.88,Successful
+1916,1916,COD,32247.93,Successful
+1917,1917,UPI,41053.45,Successful
+1918,1918,Net Banking,53592.18,Successful
+1919,1919,Wallet,35795.87,Successful
+1920,1920,Credit Card,52570.36,Successful
+1921,1921,Wallet,9250.53,Successful
+1922,1922,COD,101770.82,Successful
+1923,1923,COD,51849.61,Successful
+1924,1924,Wallet,90476.21,Successful
+1925,1925,Net Banking,26378.92,Successful
+1926,1926,Net Banking,60802.2,Successful
+1927,1927,Wallet,5580.02,Successful
+1928,1928,Credit Card,85629.26,Successful
+1929,1929,Net Banking,26855.55,Successful
+1930,1930,Wallet,14800.85,Successful
+1931,1931,Credit Card,1022.47,Successful
+1932,1932,Net Banking,88893.71,Successful
+1933,1933,COD,32187.96,Successful
+1934,1934,UPI,33629.09,Successful
+1935,1935,Net Banking,43967.76,Failed
+1936,1936,Net Banking,117439.27,Successful
+1937,1937,UPI,68374.67,Failed
+1938,1938,COD,99060.42,Successful
+1939,1939,Debit Card,80725.43,Successful
+1940,1940,Credit Card,65053.2,Successful
+1941,1941,COD,190195.11,Successful
+1942,1942,Credit Card,58824.57,Successful
+1943,1943,Debit Card,3235.75,Successful
+1944,1944,COD,32440.13,Failed
+1945,1945,UPI,31215.73,Successful
+1946,1946,Credit Card,91129.16,Successful
+1947,1947,UPI,179102.12,Successful
+1948,1948,Net Banking,30681.71,Successful
+1949,1949,Debit Card,46927.83,Successful
+1950,1950,Debit Card,74275.34,Successful
+1951,1951,UPI,15744.75,Successful
+1952,1952,UPI,15580.12,Failed
+1953,1953,Debit Card,13288.32,Successful
+1954,1954,Credit Card,165954.5,Successful
+1955,1955,Credit Card,26559.69,Failed
+1956,1956,COD,16783.93,Successful
+1957,1957,UPI,67523.51,Failed
+1958,1958,Debit Card,32247.93,Successful
+1959,1959,UPI,14198.06,Successful
+1960,1960,UPI,65091.59,Successful
+1961,1961,Net Banking,112639.03,Failed
+1962,1962,Net Banking,153103.26,Successful
+1963,1963,Wallet,121393.93,Successful
+1964,1964,Wallet,265576.95,Successful
+1965,1965,UPI,19682.6,Successful
+1966,1966,Net Banking,75592.67,Successful
+1967,1967,Debit Card,1008.25,Failed
+1968,1968,COD,44258.27,Successful
+1969,1969,Net Banking,161177.25,Successful
+1970,1970,Debit Card,68153.15,Failed
+1971,1971,Debit Card,44952.49,Successful
+1972,1972,Credit Card,28507.38,Failed
+1973,1973,Credit Card,25321.85,Failed
+1974,1974,Credit Card,55399.7,Failed
+1975,1975,Wallet,37225.38,Successful
+1976,1976,Credit Card,41322.36,Successful
+1977,1977,UPI,118596.15,Successful
+1978,1978,Credit Card,88811.79,Successful
+1979,1979,Debit Card,7289.85,Successful
+1980,1980,Net Banking,4913.34,Successful
+1981,1981,COD,36803.86,Successful
+1982,1982,COD,106129.32,Successful
+1983,1983,COD,15230.26,Successful
+1984,1984,COD,68542.71,Successful
+1985,1985,Net Banking,123329.25,Successful
+1986,1986,Credit Card,120959.12,Successful
+1987,1987,Net Banking,120373.98,Successful
+1988,1988,Net Banking,60736.14,Successful
+1989,1989,Wallet,45226.7,Successful
+1990,1990,COD,10714.5,Successful
+1991,1991,UPI,25518.02,Successful
+1992,1992,Debit Card,175553.04,Successful
+1993,1993,Credit Card,61584.56,Successful
+1994,1994,Debit Card,5026.96,Failed
+1995,1995,Net Banking,51071.18,Successful
+1996,1996,Credit Card,24621.69,Successful
+1997,1997,Net Banking,89708.22,Successful
+1998,1998,COD,122489.79,Successful
+1999,1999,Credit Card,104845.21,Successful
+2000,2000,Net Banking,162028.75,Successful
+2001,2001,Wallet,55061.43,Successful
+2002,2002,Debit Card,184695.93,Successful
+2003,2003,Debit Card,18136.06,Failed
+2004,2004,COD,36960.46,Successful
+2005,2005,UPI,73866.26,Successful
+2006,2006,UPI,26704.67,Failed
+2007,2007,Credit Card,127570.2,Successful
+2008,2008,Net Banking,61555.22,Successful
+2009,2009,Credit Card,17135.99,Successful
+2010,2010,Wallet,74056.81,Successful
+2011,2011,Wallet,54714.58,Successful
+2012,2012,Debit Card,15379.26,Successful
+2013,2013,COD,92516.56,Successful
+2014,2014,Debit Card,83938.88,Failed
+2015,2015,COD,51364.16,Successful
+2016,2016,UPI,145858.03,Successful
+2017,2017,UPI,154731.56,Failed
+2018,2018,Credit Card,23093.79,Successful
+2019,2019,Debit Card,69618.0,Failed
+2020,2020,Credit Card,66333.84,Successful
+2021,2021,Wallet,73563.54,Successful
+2022,2022,Debit Card,110418.1,Failed
+2023,2023,COD,106781.81,Successful
+2024,2024,COD,131697.84,Successful
+2025,2025,UPI,41380.55,Successful
+2026,2026,Wallet,75643.34,Successful
+2027,2027,Net Banking,51018.53,Successful
+2028,2028,UPI,60840.55,Successful
+2029,2029,UPI,121016.08,Successful
+2030,2030,Credit Card,170337.94,Successful
+2031,2031,COD,99101.88,Successful
+2032,2032,COD,115676.38,Successful
+2033,2033,COD,77047.81,Successful
+2034,2034,UPI,91866.24,Failed
+2035,2035,UPI,153466.75,Successful
+2036,2036,Wallet,92283.7,Successful
+2037,2037,COD,67569.95,Failed
+2038,2038,Debit Card,36916.0,Successful
+2039,2039,Net Banking,153224.28,Successful
+2040,2040,UPI,115004.77,Failed
+2041,2041,UPI,148844.49,Successful
+2042,2042,Net Banking,14525.77,Successful
+2043,2043,COD,92844.18,Failed
+2044,2044,Credit Card,11760.9,Successful
+2045,2045,Wallet,56450.68,Successful
+2046,2046,UPI,41807.94,Failed
+2047,2047,Debit Card,38379.58,Successful
+2048,2048,Wallet,54323.87,Successful
+2049,2049,Net Banking,37697.92,Successful
+2050,2050,UPI,132215.14,Successful
+2051,2051,Credit Card,92081.63,Successful
+2052,2052,Debit Card,65542.38,Successful
+2053,2053,Credit Card,34155.74,Successful
+2054,2054,Debit Card,64046.0,Successful
+2055,2055,Credit Card,30664.56,Successful
+2056,2056,Wallet,45578.81,Successful
+2057,2057,UPI,93030.53,Successful
+2058,2058,Debit Card,102495.05,Successful
+2059,2059,Debit Card,31946.13,Successful
+2060,2060,Wallet,213185.94,Successful
+2061,2061,COD,110664.7,Successful
+2062,2062,UPI,138980.09,Successful
+2063,2063,Wallet,5506.56,Failed
+2064,2064,Wallet,126749.76,Successful
+2065,2065,COD,22987.83,Failed
+2066,2066,COD,112421.63,Successful
+2067,2067,UPI,80432.67,Successful
+2068,2068,UPI,60771.74,Successful
+2069,2069,Credit Card,1076.28,Failed
+2070,2070,UPI,125644.87,Successful
+2071,2071,Net Banking,6145.54,Successful
+2072,2072,Wallet,59166.18,Successful
+2073,2073,UPI,95743.05,Successful
+2074,2074,Debit Card,87124.62,Successful
+2075,2075,Debit Card,16619.7,Failed
+2076,2076,Credit Card,38703.65,Successful
+2077,2077,UPI,20373.6,Successful
+2078,2078,UPI,93744.15,Successful
+2079,2079,UPI,125310.1,Successful
+2080,2080,COD,32968.1,Successful
+2081,2081,UPI,31914.35,Successful
+2082,2082,Wallet,5994.46,Successful
+2083,2083,Wallet,108886.36,Successful
+2084,2084,COD,82400.73,Successful
+2085,2085,Credit Card,105246.25,Successful
+2086,2086,Debit Card,81233.64,Successful
+2087,2087,Credit Card,9416.75,Successful
+2088,2088,COD,49995.32,Successful
+2089,2089,Credit Card,179545.17,Successful
+2090,2090,COD,106806.83,Successful
+2091,2091,UPI,53589.95,Successful
+2092,2092,Debit Card,65445.1,Failed
+2093,2093,Credit Card,60359.85,Failed
+2094,2094,Wallet,46754.5,Successful
+2095,2095,UPI,97671.94,Failed
+2096,2096,Credit Card,52321.09,Successful
+2097,2097,Debit Card,21049.32,Successful
+2098,2098,Wallet,41620.97,Failed
+2099,2099,Debit Card,97973.06,Successful
+2100,2100,COD,28902.82,Successful
+2101,2101,COD,241768.72,Successful
+2102,2102,Wallet,27795.82,Successful
+2103,2103,COD,32372.54,Failed
+2104,2104,Debit Card,65859.65,Successful
+2105,2105,Net Banking,62397.48,Failed
+2106,2106,Net Banking,76969.93,Successful
+2107,2107,Wallet,93823.25,Successful
+2108,2108,Debit Card,48411.54,Successful
+2109,2109,UPI,66215.76,Failed
+2110,2110,COD,148050.49,Successful
+2111,2111,Credit Card,122089.92,Successful
+2112,2112,UPI,7390.38,Successful
+2113,2113,Wallet,75142.76,Successful
+2114,2114,Wallet,67066.5,Successful
+2115,2115,Debit Card,130575.5,Successful
+2116,2116,Wallet,46754.5,Successful
+2117,2117,Debit Card,90598.74,Successful
+2118,2118,UPI,15898.24,Successful
+2119,2119,Wallet,196631.07,Failed
+2120,2120,COD,39677.33,Successful
+2121,2121,COD,100409.87,Successful
+2122,2122,Net Banking,181868.5,Successful
+2123,2123,Net Banking,16380.15,Failed
+2124,2124,Wallet,81539.44,Successful
+2125,2125,Wallet,80769.83,Successful
+2126,2126,Credit Card,217677.02,Failed
+2127,2127,COD,83828.26,Successful
+2128,2128,Debit Card,77378.5,Successful
+2129,2129,Net Banking,44947.84,Successful
+2130,2130,Wallet,132716.27,Successful
+2131,2131,Wallet,22210.47,Successful
+2132,2132,COD,204380.79,Failed
+2133,2133,COD,11760.9,Successful
+2134,2134,COD,157637.56,Successful
+2135,2135,COD,123893.48,Successful
+2136,2136,Credit Card,13723.79,Successful
+2137,2137,COD,73217.31,Successful
+2138,2138,Debit Card,124970.21,Successful
+2139,2139,Credit Card,22332.05,Successful
+2140,2140,COD,21569.98,Successful
+2141,2141,Net Banking,71568.43,Successful
+2142,2142,Net Banking,64167.45,Successful
+2143,2143,UPI,152994.87,Successful
+2144,2144,Debit Card,105178.46,Successful
+2145,2145,COD,116426.28,Failed
+2146,2146,Wallet,9250.53,Successful
+2147,2147,COD,126032.04,Successful
+2148,2148,Wallet,32999.71,Successful
+2149,2149,Debit Card,124504.34,Successful
+2150,2150,COD,90058.81,Successful
+2151,2151,Credit Card,51506.65,Successful
+2152,2152,UPI,52333.0,Successful
+2153,2153,Debit Card,140904.34,Successful
+2154,2154,UPI,30681.46,Successful
+2155,2155,UPI,41242.95,Successful
+2156,2156,Wallet,24685.31,Successful
+2157,2157,UPI,27071.71,Successful
+2158,2158,Wallet,110163.9,Successful
+2159,2159,Net Banking,134299.3,Failed
+2160,2160,UPI,31941.06,Successful
+2161,2161,Debit Card,17843.66,Successful
+2162,2162,Debit Card,32247.93,Successful
+2163,2163,Wallet,150574.44,Successful
+2164,2164,Wallet,244273.01,Successful
+2165,2165,Credit Card,1725.06,Successful
+2166,2166,COD,95254.94,Successful
+2167,2167,UPI,60790.21,Successful
+2168,2168,COD,8674.59,Successful
+2169,2169,Debit Card,201563.43,Successful
+2170,2170,Debit Card,166366.2,Successful
+2171,2171,Wallet,23072.5,Successful
+2172,2172,Credit Card,5446.26,Successful
+2173,2173,Debit Card,5969.51,Successful
+2174,2174,Debit Card,79218.09,Successful
+2175,2175,Credit Card,137197.24,Successful
+2176,2176,Wallet,145066.44,Successful
+2177,2177,Wallet,29244.91,Successful
+2178,2178,COD,84548.27,Failed
+2179,2179,UPI,111764.5,Successful
+2180,2180,UPI,64917.45,Successful
+2181,2181,Wallet,122199.25,Successful
+2182,2182,Credit Card,22611.47,Failed
+2183,2183,Credit Card,35026.34,Successful
+2184,2184,UPI,69617.4,Successful
+2185,2185,Net Banking,15913.88,Successful
+2186,2186,UPI,53061.17,Successful
+2187,2187,Debit Card,15416.11,Successful
+2188,2188,Credit Card,16925.54,Successful
+2189,2189,Wallet,174826.8,Successful
+2190,2190,Net Banking,110892.12,Successful
+2191,2191,Wallet,42744.07,Failed
+2192,2192,Credit Card,46830.54,Successful
+2193,2193,Net Banking,42785.65,Successful
+2194,2194,UPI,2048.51,Failed
+2195,2195,Net Banking,46986.47,Successful
+2196,2196,Net Banking,61831.69,Successful
+2197,2197,COD,188293.83,Failed
+2198,2198,UPI,22973.58,Successful
+2199,2199,Wallet,33807.21,Failed
+2200,2200,UPI,15207.74,Successful
+2201,2201,UPI,46134.05,Successful
+2202,2202,Credit Card,51849.61,Successful
+2203,2203,Credit Card,22987.83,Failed
+2204,2204,UPI,34699.83,Failed
+2205,2205,Net Banking,91519.5,Successful
+2206,2206,Net Banking,86582.28,Successful
+2207,2207,Debit Card,74895.23,Failed
+2208,2208,Wallet,73721.14,Failed
+2209,2209,Wallet,8164.32,Failed
+2210,2210,Credit Card,49872.25,Successful
+2211,2211,Credit Card,49060.21,Failed
+2212,2212,Wallet,67872.05,Successful
+2213,2213,Credit Card,32505.14,Successful
+2214,2214,Debit Card,87944.27,Successful
+2215,2215,Credit Card,47517.55,Successful
+2216,2216,Net Banking,92794.38,Successful
+2217,2217,Credit Card,5839.99,Successful
+2218,2218,UPI,28860.76,Successful
+2219,2219,Debit Card,118968.39,Successful
+2220,2220,Wallet,81053.62,Failed
+2221,2221,UPI,33352.07,Successful
+2222,2222,Credit Card,47197.18,Successful
+2223,2223,Wallet,74318.15,Successful
+2224,2224,Wallet,16839.46,Successful
+2225,2225,Wallet,99348.83,Successful
+2226,2226,UPI,144849.21,Successful
+2227,2227,Wallet,4872.97,Successful
+2228,2228,Credit Card,61377.38,Failed
+2229,2229,UPI,67348.68,Successful
+2230,2230,Credit Card,64745.07,Successful
+2231,2231,Debit Card,72515.83,Successful
+2232,2232,Net Banking,22973.58,Successful
+2233,2233,UPI,104409.02,Successful
+2234,2234,Net Banking,14579.7,Successful
+2235,2235,Debit Card,64938.17,Successful
+2236,2236,UPI,37988.85,Successful
+2237,2237,Debit Card,136781.01,Successful
+2238,2238,Debit Card,14542.69,Successful
+2239,2239,COD,26247.56,Successful
+2240,2240,Wallet,40420.65,Successful
+2241,2241,Debit Card,94306.79,Successful
+2242,2242,UPI,74275.34,Successful
+2243,2243,COD,34385.17,Successful
+2244,2244,Debit Card,55005.19,Successful
+2245,2245,Net Banking,197328.04,Successful
+2246,2246,Wallet,58846.04,Successful
+2247,2247,Credit Card,18086.54,Successful
+2248,2248,Credit Card,76648.64,Successful
+2249,2249,Credit Card,134179.64,Failed
+2250,2250,Credit Card,2347.18,Successful
+2251,2251,COD,17777.23,Successful
+2252,2252,Wallet,90952.8,Successful
+2253,2253,COD,130949.62,Successful
+2254,2254,Wallet,12725.39,Successful
+2255,2255,Credit Card,72848.18,Successful
+2256,2256,COD,22422.08,Failed
+2257,2257,Net Banking,12098.86,Successful
+2258,2258,Net Banking,21587.14,Failed
+2259,2259,UPI,102785.96,Successful
+2260,2260,Credit Card,4945.79,Successful
+2261,2261,Credit Card,54923.91,Successful
+2262,2262,Wallet,19310.46,Successful
+2263,2263,Net Banking,179440.35,Successful
+2264,2264,UPI,49396.11,Successful
+2265,2265,Credit Card,65053.2,Failed
+2266,2266,Debit Card,14542.69,Successful
+2267,2267,Net Banking,82248.01,Successful
+2268,2268,Debit Card,10005.3,Successful
+2269,2269,Credit Card,165778.35,Successful
+2270,2270,Credit Card,1976.58,Successful
+2271,2271,UPI,99299.0,Successful
+2272,2272,UPI,24378.16,Successful
+2273,2273,Credit Card,78689.81,Successful
+2274,2274,Net Banking,77538.03,Successful
+2275,2275,Debit Card,57717.9,Failed
+2276,2276,Credit Card,138247.7,Successful
+2277,2277,Credit Card,52546.8,Successful
+2278,2278,Net Banking,26305.85,Failed
+2279,2279,COD,116698.64,Successful
+2280,2280,Wallet,98552.55,Successful
+2281,2281,Debit Card,16619.7,Successful
+2282,2282,COD,26144.74,Successful
+2283,2283,Credit Card,42729.04,Successful
+2284,2284,Net Banking,36419.1,Successful
+2285,2285,Wallet,18687.22,Successful
+2286,2286,UPI,61568.24,Successful
+2287,2287,COD,106276.62,Successful
+2288,2288,COD,75526.78,Successful
+2289,2289,Wallet,86556.6,Failed
+2290,2290,COD,93753.62,Successful
+2291,2291,COD,93936.35,Successful
+2292,2292,Wallet,57009.23,Successful
+2293,2293,Net Banking,24545.37,Successful
+2294,2294,Net Banking,100825.25,Successful
+2295,2295,Debit Card,80508.69,Successful
+2296,2296,Credit Card,70603.32,Successful
+2297,2297,Net Banking,22770.49,Successful
+2298,2298,Debit Card,44473.31,Successful
+2299,2299,Net Banking,80225.07,Successful
+2300,2300,Wallet,115004.77,Successful
+2301,2301,Net Banking,20836.92,Successful
+2302,2302,COD,41454.92,Successful
+2303,2303,UPI,39060.18,Successful
+2304,2304,UPI,41454.92,Failed
+2305,2305,UPI,61212.38,Successful
+2306,2306,Debit Card,82840.62,Successful
+2307,2307,UPI,29311.84,Successful
+2308,2308,Debit Card,82840.62,Successful
+2309,2309,Credit Card,27190.67,Successful
+2310,2310,UPI,67232.99,Successful
+2311,2311,Net Banking,81007.57,Successful
+2312,2312,UPI,90092.5,Successful
+2313,2313,Credit Card,117363.24,Successful
+2314,2314,Wallet,52757.84,Successful
+2315,2315,COD,968.65,Successful
+2316,2316,Credit Card,86168.74,Successful
+2317,2317,Credit Card,78327.65,Successful
+2318,2318,COD,102816.46,Successful
+2319,2319,Debit Card,7041.07,Successful
+2320,2320,UPI,143117.31,Successful
+2321,2321,UPI,74822.64,Successful
+2322,2322,Net Banking,69641.64,Successful
+2323,2323,COD,105079.01,Successful
+2324,2324,Net Banking,105172.46,Successful
+2325,2325,Debit Card,97405.06,Successful
+2326,2326,Net Banking,43948.0,Successful
+2327,2327,UPI,43636.57,Successful
+2328,2328,UPI,8855.9,Successful
+2329,2329,COD,120659.38,Successful
+2330,2330,COD,118978.55,Successful
+2331,2331,UPI,118949.34,Successful
+2332,2332,UPI,43943.09,Successful
+2333,2333,COD,97503.78,Successful
+2334,2334,Credit Card,37435.83,Successful
+2335,2335,UPI,158456.32,Successful
+2336,2336,Net Banking,15835.1,Successful
+2337,2337,Wallet,83816.79,Successful
+2338,2338,COD,67850.77,Successful
+2339,2339,Credit Card,105418.8,Successful
+2340,2340,Credit Card,88811.79,Successful
+2341,2341,Credit Card,35486.22,Successful
+2342,2342,Debit Card,116695.12,Successful
+2343,2343,COD,78820.2,Successful
+2344,2344,Debit Card,49555.29,Successful
+2345,2345,Wallet,159033.43,Successful
+2346,2346,Credit Card,29751.07,Successful
+2347,2347,Debit Card,54784.18,Successful
+2348,2348,COD,87242.28,Successful
+2349,2349,UPI,136943.4,Successful
+2350,2350,UPI,15074.32,Successful
+2351,2351,Wallet,60819.55,Successful
+2352,2352,Net Banking,87515.37,Failed
+2353,2353,UPI,81348.12,Successful
+2354,2354,Net Banking,16984.11,Successful
+2355,2355,COD,74618.86,Failed
+2356,2356,Debit Card,39773.19,Successful
+2357,2357,UPI,157854.73,Successful
+2358,2358,Net Banking,141063.34,Successful
+2359,2359,COD,124261.53,Successful
+2360,2360,Credit Card,149332.38,Successful
+2361,2361,Credit Card,150890.14,Successful
+2362,2362,Credit Card,83573.86,Successful
+2363,2363,Net Banking,62255.14,Successful
+2364,2364,Debit Card,7111.09,Successful
+2365,2365,Net Banking,121155.72,Successful
+2366,2366,Wallet,30221.29,Successful
+2367,2367,UPI,145284.29,Successful
+2368,2368,UPI,85196.2,Successful
+2369,2369,COD,71348.78,Successful
+2370,2370,Net Banking,233387.02,Successful
+2371,2371,Wallet,15756.43,Successful
+2372,2372,Net Banking,82479.17,Successful
+2373,2373,COD,7390.38,Successful
+2374,2374,COD,58600.38,Successful
+2375,2375,Debit Card,129441.53,Successful
+2376,2376,Net Banking,54236.76,Successful
+2377,2377,Wallet,1076.28,Successful
+2378,2378,Wallet,148691.93,Failed
+2379,2379,UPI,115004.77,Successful
+2380,2380,COD,24034.2,Successful
+2381,2381,Net Banking,1910.97,Successful
+2382,2382,Debit Card,70537.47,Successful
+2383,2383,Credit Card,221593.06,Successful
+2384,2384,Debit Card,70077.09,Successful
+2385,2385,Wallet,89638.25,Successful
+2386,2386,Wallet,20010.6,Successful
+2387,2387,Net Banking,85188.72,Successful
+2388,2388,UPI,84862.74,Successful
+2389,2389,COD,86088.19,Successful
+2390,2390,Wallet,171994.36,Failed
+2391,2391,UPI,20493.42,Failed
+2392,2392,Net Banking,50521.8,Successful
+2393,2393,Debit Card,76904.17,Successful
+2394,2394,Debit Card,89162.88,Successful
+2395,2395,Credit Card,34729.3,Successful
+2396,2396,UPI,8855.69,Successful
+2397,2397,Credit Card,160625.7,Successful
+2398,2398,UPI,114476.36,Failed
+2399,2399,Debit Card,28487.08,Successful
+2400,2400,Net Banking,10418.46,Successful
+2401,2401,Credit Card,94576.28,Failed
+2402,2402,COD,25509.27,Failed
+2403,2403,Wallet,18595.77,Successful
+2404,2404,Wallet,93855.66,Successful
+2405,2405,Net Banking,190509.48,Successful
+2406,2406,Credit Card,127858.71,Successful
+2407,2407,Debit Card,6300.34,Successful
+2408,2408,Wallet,72251.15,Successful
+2409,2409,Credit Card,4661.0,Successful
+2410,2410,Debit Card,22201.27,Failed
+2411,2411,UPI,52893.66,Successful
+2412,2412,Debit Card,143217.89,Successful
+2413,2413,Debit Card,60511.61,Successful
+2414,2414,Credit Card,15607.86,Successful
+2415,2415,Net Banking,20894.63,Successful
+2416,2416,Credit Card,6090.82,Successful
+2417,2417,Wallet,89416.87,Successful
+2418,2418,Net Banking,40802.62,Successful
+2419,2419,COD,127565.71,Successful
+2420,2420,Credit Card,136292.29,Successful
+2421,2421,Credit Card,59552.14,Successful
+2422,2422,UPI,15015.0,Successful
+2423,2423,Debit Card,20975.24,Successful
+2424,2424,Net Banking,124622.47,Successful
+2425,2425,Credit Card,17342.07,Successful
+2426,2426,Credit Card,7790.06,Successful
+2427,2427,Wallet,54164.02,Failed
+2428,2428,Wallet,13399.39,Successful
+2429,2429,Debit Card,19239.63,Successful
+2430,2430,Net Banking,95507.37,Successful
+2431,2431,Net Banking,85963.9,Successful
+2432,2432,Credit Card,22270.64,Successful
+2433,2433,Debit Card,95729.35,Successful
+2434,2434,COD,22805.9,Successful
+2435,2435,Credit Card,11385.25,Successful
+2436,2436,Wallet,96620.07,Failed
+2437,2437,Net Banking,38671.75,Successful
+2438,2438,COD,38132.55,Successful
+2439,2439,Credit Card,315705.52,Successful
+2440,2440,Wallet,28858.95,Successful
+2441,2441,Wallet,19922.25,Successful
+2442,2442,Net Banking,76983.66,Successful
+2443,2443,Net Banking,56206.25,Successful
+2444,2444,UPI,165560.99,Successful
+2445,2445,Debit Card,31215.73,Successful
+2446,2446,COD,2994.14,Successful
+2447,2447,Wallet,116243.68,Successful
+2448,2448,Credit Card,150235.8,Successful
+2449,2449,COD,23152.87,Successful
+2450,2450,Debit Card,159480.17,Failed
+2451,2451,Wallet,43140.93,Successful
+2452,2452,UPI,37290.05,Successful
+2453,2453,Wallet,70984.1,Successful
+2454,2454,COD,58600.38,Successful
+2455,2455,Net Banking,6153.26,Successful
+2456,2456,UPI,79322.15,Successful
+2457,2457,Net Banking,106831.92,Successful
+2458,2458,Credit Card,164252.34,Successful
+2459,2459,Debit Card,8359.61,Successful
+2460,2460,Net Banking,123218.72,Successful
+2461,2461,COD,89162.88,Successful
+2462,2462,COD,68063.78,Successful
+2463,2463,COD,30681.71,Successful
+2464,2464,Debit Card,36201.16,Successful
+2465,2465,Debit Card,29238.73,Successful
+2466,2466,Debit Card,30832.22,Successful
+2467,2467,Credit Card,25372.47,Successful
+2468,2468,Credit Card,89380.58,Successful
+2469,2469,Net Banking,8982.43,Successful
+2470,2470,Debit Card,21534.11,Successful
+2471,2471,Wallet,39677.33,Successful
+2472,2472,Net Banking,40020.62,Successful
+2473,2473,Credit Card,147996.01,Successful
+2474,2474,Net Banking,77857.25,Successful
+2475,2475,Debit Card,20682.49,Failed
+2476,2476,COD,44581.44,Successful
+2477,2477,COD,52321.94,Successful
+2478,2478,Wallet,13353.63,Successful
+2479,2479,Debit Card,38661.81,Successful
+2480,2480,Wallet,58575.42,Successful
+2481,2481,UPI,20886.05,Successful
+2482,2482,Net Banking,13882.32,Successful
+2483,2483,Wallet,180863.33,Failed
+2484,2484,Wallet,36191.45,Successful
+2485,2485,Net Banking,81033.86,Successful
+2486,2486,COD,114946.76,Successful
+2487,2487,COD,43967.76,Successful
+2488,2488,UPI,163899.97,Failed
+2489,2489,UPI,262199.12,Failed
+2490,2490,Credit Card,112700.96,Successful
+2491,2491,Debit Card,129487.2,Successful
+2492,2492,COD,40514.5,Successful
+2493,2493,Credit Card,23415.27,Successful
+2494,2494,Debit Card,170233.01,Successful
+2495,2495,Credit Card,166496.74,Successful
+2496,2496,Net Banking,68526.85,Successful
+2497,2497,UPI,3961.85,Successful
+2498,2498,COD,81449.01,Successful
+2499,2499,Net Banking,95742.93,Successful
+2500,2500,Wallet,106309.73,Successful
+2501,2501,Debit Card,29363.52,Successful
+2502,2502,COD,122333.54,Successful
+2503,2503,Debit Card,111535.66,Successful
+2504,2504,Debit Card,97240.63,Successful
+2505,2505,Wallet,54621.17,Successful
+2506,2506,UPI,134843.51,Successful
+2507,2507,Wallet,95179.58,Successful
+2508,2508,Wallet,288793.42,Successful
+2509,2509,Net Banking,35391.16,Successful
+2510,2510,Credit Card,12783.86,Successful
+2511,2511,COD,77263.29,Successful
+2512,2512,Credit Card,61556.81,Successful
+2513,2513,Debit Card,56133.88,Successful
+2514,2514,UPI,21123.2,Successful
+2515,2515,COD,22270.64,Successful
+2516,2516,UPI,16840.6,Successful
+2517,2517,Debit Card,62656.2,Failed
+2518,2518,Net Banking,122710.13,Successful
+2519,2519,Credit Card,1613.2,Successful
+2520,2520,Net Banking,85917.04,Failed
+2521,2521,Wallet,48102.91,Successful
+2522,2522,Debit Card,27751.59,Successful
+2523,2523,UPI,68878.78,Successful
+2524,2524,UPI,189450.39,Successful
+2525,2525,Debit Card,77629.98,Successful
+2526,2526,Net Banking,176462.37,Successful
+2527,2527,Credit Card,119196.51,Successful
+2528,2528,Net Banking,42229.05,Successful
+2529,2529,UPI,65436.11,Successful
+2530,2530,Credit Card,24166.67,Successful
+2531,2531,Credit Card,66160.39,Successful
+2532,2532,Net Banking,17727.26,Successful
+2533,2533,Debit Card,11988.93,Successful
+2534,2534,Debit Card,47740.43,Successful
+2535,2535,Net Banking,90445.5,Successful
+2536,2536,COD,30832.97,Successful
+2537,2537,Debit Card,119536.26,Failed
+2538,2538,UPI,48627.78,Successful
+2539,2539,UPI,10593.85,Successful
+2540,2540,Debit Card,167868.89,Successful
+2541,2541,Wallet,32468.35,Successful
+2542,2542,Credit Card,76828.89,Failed
+2543,2543,Credit Card,67824.54,Successful
+2544,2544,Net Banking,29508.14,Successful
+2545,2545,UPI,61480.26,Successful
+2546,2546,Net Banking,209412.96,Successful
+2547,2547,UPI,152443.12,Successful
+2548,2548,COD,121105.3,Successful
+2549,2549,Wallet,40707.8,Successful
+2550,2550,COD,191717.64,Successful
+2551,2551,COD,54408.18,Successful
+2552,2552,Credit Card,114507.33,Successful
+2553,2553,Credit Card,32949.93,Failed
+2554,2554,COD,108325.15,Successful
+2555,2555,Debit Card,191585.97,Successful
+2556,2556,Debit Card,95048.96,Successful
+2557,2557,Net Banking,35014.84,Successful
+2558,2558,Net Banking,14428.67,Successful
+2559,2559,Net Banking,53653.2,Failed
+2560,2560,Net Banking,66309.87,Successful
+2561,2561,Net Banking,82118.26,Successful
+2562,2562,Wallet,28507.38,Successful
+2563,2563,Debit Card,116416.42,Failed
+2564,2564,Debit Card,161542.24,Successful
+2565,2565,COD,54164.02,Successful
+2566,2566,Credit Card,114424.85,Failed
+2567,2567,UPI,77896.47,Successful
+2568,2568,COD,115445.04,Successful
+2569,2569,Wallet,36857.73,Successful
+2570,2570,COD,10784.99,Successful
+2571,2571,Credit Card,161241.15,Successful
+2572,2572,Credit Card,6537.84,Successful
+2573,2573,Wallet,77245.79,Successful
+2574,2574,Wallet,74892.52,Successful
+2575,2575,COD,101900.93,Failed
+2576,2576,Net Banking,63949.27,Successful
+2577,2577,Net Banking,53234.87,Successful
+2578,2578,COD,60802.2,Successful
+2579,2579,UPI,92716.25,Successful
+2580,2580,Debit Card,47366.29,Successful
+2581,2581,Credit Card,29776.4,Successful
+2582,2582,UPI,2179.28,Failed
+2583,2583,Credit Card,188130.87,Successful
+2584,2584,Net Banking,88009.86,Successful
+2585,2585,UPI,151134.96,Failed
+2586,2586,Wallet,53409.34,Successful
+2587,2587,UPI,150755.67,Successful
+2588,2588,Debit Card,240310.75,Failed
+2589,2589,Net Banking,27589.46,Failed
+2590,2590,COD,61329.11,Successful
+2591,2591,UPI,45654.43,Successful
+2592,2592,Credit Card,85193.04,Successful
+2593,2593,UPI,87358.93,Successful
+2594,2594,Wallet,53541.87,Successful
+2595,2595,Net Banking,75144.54,Successful
+2596,2596,Credit Card,192469.7,Successful
+2597,2597,COD,68249.8,Successful
+2598,2598,Credit Card,9897.54,Successful
+2599,2599,Wallet,4694.37,Successful
+2600,2600,Wallet,214309.02,Successful
+2601,2601,COD,21572.02,Successful
+2602,2602,COD,43577.3,Successful
+2603,2603,Credit Card,19725.1,Successful
+2604,2604,Net Banking,46644.26,Successful
+2605,2605,Wallet,140059.42,Failed
+2606,2606,COD,160026.68,Successful
+2607,2607,Wallet,19829.05,Successful
+2608,2608,Net Banking,54387.96,Successful
+2609,2609,COD,38097.65,Successful
+2610,2610,Debit Card,71888.66,Successful
+2611,2611,Net Banking,20776.07,Successful
+2612,2612,COD,18523.24,Successful
+2613,2613,COD,14823.3,Successful
+2614,2614,COD,34385.56,Successful
+2615,2615,Wallet,22234.95,Successful
+2616,2616,Wallet,66547.09,Failed
+2617,2617,UPI,71688.88,Successful
+2618,2618,Wallet,176611.46,Failed
+2619,2619,COD,73253.95,Successful
+2620,2620,UPI,43986.62,Successful
+2621,2621,COD,6347.08,Failed
+2622,2622,Wallet,205502.96,Successful
+2623,2623,UPI,101787.38,Successful
+2624,2624,Credit Card,86394.03,Successful
+2625,2625,Credit Card,118949.34,Successful
+2626,2626,Debit Card,17711.38,Successful
+2627,2627,Debit Card,46410.56,Successful
+2628,2628,Credit Card,37456.21,Failed
+2629,2629,Debit Card,17392.57,Successful
+2630,2630,Credit Card,49101.9,Successful
+2631,2631,Net Banking,29322.96,Failed
+2632,2632,Credit Card,82253.45,Successful
+2633,2633,Wallet,38840.79,Successful
+2634,2634,Credit Card,13848.99,Successful
+2635,2635,Credit Card,57006.53,Successful
+2636,2636,UPI,112368.63,Failed
+2637,2637,Debit Card,35374.11,Successful
+2638,2638,Credit Card,73652.86,Failed
+2639,2639,UPI,200843.64,Successful
+2640,2640,Net Banking,124504.34,Successful
+2641,2641,COD,174287.01,Successful
+2642,2642,Credit Card,20010.6,Successful
+2643,2643,Net Banking,74918.54,Successful
+2644,2644,UPI,120384.6,Successful
+2645,2645,Wallet,73681.03,Successful
+2646,2646,Wallet,228844.59,Successful
+2647,2647,UPI,10827.2,Failed
+2648,2648,COD,108385.59,Successful
+2649,2649,Debit Card,45421.4,Successful
+2650,2650,Debit Card,82118.26,Successful
+2651,2651,Credit Card,26305.85,Successful
+2652,2652,Net Banking,143507.58,Successful
+2653,2653,Wallet,97515.43,Successful
+2654,2654,Wallet,23521.79,Successful
+2655,2655,Net Banking,76104.72,Successful
+2656,2656,Credit Card,137344.1,Successful
+2657,2657,Net Banking,48483.81,Successful
+2658,2658,Debit Card,117450.34,Successful
+2659,2659,Net Banking,93106.75,Successful
+2660,2660,Wallet,22138.16,Successful
+2661,2661,UPI,27041.46,Successful
+2662,2662,Credit Card,42578.23,Successful
+2663,2663,Net Banking,90132.4,Successful
+2664,2664,Wallet,103396.59,Successful
+2665,2665,COD,58192.98,Successful
+2666,2666,COD,201758.47,Successful
+2667,2667,Net Banking,49934.05,Successful
+2668,2668,Debit Card,26591.52,Successful
+2669,2669,Net Banking,32973.74,Successful
+2670,2670,Net Banking,9643.05,Successful
+2671,2671,Wallet,4447.3,Successful
+2672,2672,Debit Card,117194.46,Successful
+2673,2673,UPI,217003.23,Failed
+2674,2674,Net Banking,79375.3,Failed
+2675,2675,Wallet,100051.54,Successful
+2676,2676,Wallet,86088.19,Successful
+2677,2677,Debit Card,124811.22,Successful
+2678,2678,COD,166343.11,Successful
+2679,2679,COD,101662.7,Successful
+2680,2680,Net Banking,238398.2,Successful
+2681,2681,Net Banking,71455.5,Successful
+2682,2682,Credit Card,89576.55,Successful
+2683,2683,Net Banking,102873.14,Successful
+2684,2684,Debit Card,103317.54,Successful
+2685,2685,COD,23215.16,Failed
+2686,2686,Debit Card,45648.16,Successful
+2687,2687,Wallet,62445.44,Failed
+2688,2688,Debit Card,99315.25,Successful
+2689,2689,Wallet,114617.22,Successful
+2690,2690,Debit Card,21412.39,Successful
+2691,2691,Wallet,19167.68,Successful
+2692,2692,Credit Card,62704.81,Successful
+2693,2693,UPI,70817.76,Successful
+2694,2694,Credit Card,133132.24,Successful
+2695,2695,UPI,139888.58,Successful
+2696,2696,Net Banking,107224.27,Successful
+2697,2697,Wallet,113777.18,Successful
+2698,2698,Credit Card,199867.5,Successful
+2699,2699,UPI,110113.2,Successful
+2700,2700,Credit Card,61452.58,Failed
+2701,2701,Credit Card,108846.94,Successful
+2702,2702,UPI,79930.61,Failed
+2703,2703,COD,38915.79,Successful
+2704,2704,Credit Card,13836.35,Successful
+2705,2705,UPI,39695.44,Failed
+2706,2706,Wallet,128772.15,Successful
+2707,2707,Credit Card,144132.08,Successful
+2708,2708,Credit Card,35724.67,Successful
+2709,2709,Debit Card,98485.79,Successful
+2710,2710,Wallet,56218.1,Successful
+2711,2711,Credit Card,78145.14,Failed
+2712,2712,Debit Card,86603.68,Successful
+2713,2713,Wallet,98806.7,Successful
+2714,2714,UPI,128154.9,Successful
+2715,2715,COD,61034.57,Failed
+2716,2716,Wallet,106781.81,Failed
+2717,2717,Credit Card,47642.24,Successful
+2718,2718,UPI,100563.09,Successful
+2719,2719,Credit Card,79026.54,Successful
+2720,2720,Debit Card,30415.48,Successful
+2721,2721,Credit Card,7357.28,Successful
+2722,2722,Net Banking,249455.62,Successful
+2723,2723,Wallet,22124.97,Successful
+2724,2724,Credit Card,44046.4,Successful
+2725,2725,UPI,45648.16,Failed
+2726,2726,UPI,66282.57,Successful
+2727,2727,Wallet,72564.62,Successful
+2728,2728,Net Banking,144731.09,Failed
+2729,2729,Credit Card,64106.18,Successful
+2730,2730,Debit Card,201706.02,Failed
+2731,2731,Wallet,99179.06,Successful
+2732,2732,UPI,68163.64,Failed
+2733,2733,Debit Card,37215.48,Successful
+2734,2734,Credit Card,32354.97,Successful
+2735,2735,Wallet,40777.85,Successful
+2736,2736,Credit Card,914.84,Successful
+2737,2737,UPI,55411.42,Successful
+2738,2738,Net Banking,104935.27,Successful
+2739,2739,Credit Card,11663.76,Successful
+2740,2740,Credit Card,73735.18,Successful
+2741,2741,UPI,66833.64,Failed
+2742,2742,COD,192748.96,Successful
+2743,2743,Wallet,139222.75,Successful
+2744,2744,Wallet,96999.72,Successful
+2745,2745,COD,34484.52,Successful
+2746,2746,Credit Card,58976.25,Successful
+2747,2747,Debit Card,32765.18,Successful
+2748,2748,UPI,73590.32,Successful
+2749,2749,Net Banking,83086.1,Successful
+2750,2750,Wallet,139656.48,Successful
+2751,2751,COD,140377.89,Failed
+2752,2752,COD,63704.09,Successful
+2753,2753,Net Banking,132943.38,Failed
+2754,2754,Debit Card,178590.21,Successful
+2755,2755,Debit Card,21003.38,Failed
+2756,2756,Credit Card,126934.66,Successful
+2757,2757,Debit Card,136262.91,Successful
+2758,2758,Wallet,20715.72,Successful
+2759,2759,UPI,118034.71,Successful
+2760,2760,COD,194028.8,Successful
+2761,2761,Net Banking,46148.78,Failed
+2762,2762,Credit Card,21060.78,Successful
+2763,2763,Wallet,103275.45,Successful
+2764,2764,Net Banking,115129.42,Successful
+2765,2765,UPI,56657.24,Successful
+2766,2766,UPI,55694.4,Successful
+2767,2767,Credit Card,36768.86,Successful
+2768,2768,Wallet,95009.7,Successful
+2769,2769,Wallet,75504.91,Successful
+2770,2770,Credit Card,108773.74,Successful
+2771,2771,UPI,14236.85,Successful
+2772,2772,Wallet,2347.18,Successful
+2773,2773,UPI,136505.87,Successful
+2774,2774,Debit Card,23461.89,Successful
+2775,2775,Credit Card,21014.51,Failed
+2776,2776,Credit Card,81347.96,Successful
+2777,2777,UPI,196627.17,Failed
+2778,2778,COD,71970.81,Successful
+2779,2779,COD,108376.73,Successful
+2780,2780,UPI,45870.84,Successful
+2781,2781,Net Banking,64936.71,Successful
+2782,2782,Net Banking,40624.48,Successful
+2783,2783,COD,132573.21,Successful
+2784,2784,Credit Card,38132.02,Successful
+2785,2785,Debit Card,77514.86,Successful
+2786,2786,Net Banking,274874.51,Successful
+2787,2787,Credit Card,16134.9,Failed
+2788,2788,UPI,52258.42,Successful
+2789,2789,UPI,26935.69,Successful
+2790,2790,Net Banking,117820.18,Successful
+2791,2791,Wallet,21429.0,Successful
+2792,2792,Wallet,150196.12,Successful
+2793,2793,COD,158824.11,Successful
+2794,2794,Debit Card,27699.85,Successful
+2795,2795,Debit Card,214257.37,Successful
+2796,2796,UPI,47859.76,Successful
+2797,2797,Credit Card,81393.28,Successful
+2798,2798,Wallet,82407.32,Failed
+2799,2799,Credit Card,46554.1,Successful
+2800,2800,UPI,3953.15,Failed
+2801,2801,Debit Card,73675.53,Successful
+2802,2802,UPI,39800.31,Successful
+2803,2803,UPI,122205.93,Successful
+2804,2804,Debit Card,52413.51,Successful
+2805,2805,COD,53409.34,Successful
+2806,2806,Debit Card,11576.43,Successful
+2807,2807,COD,44157.02,Successful
+2808,2808,Credit Card,31813.48,Successful
+2809,2809,Net Banking,30069.69,Successful
+2810,2810,Debit Card,27017.87,Successful
+2811,2811,COD,49942.04,Successful
+2812,2812,COD,65453.17,Successful
+2813,2813,Debit Card,19812.82,Successful
+2814,2814,Wallet,47482.06,Successful
+2815,2815,COD,41410.18,Successful
+2816,2816,Credit Card,15074.32,Successful
+2817,2817,Wallet,36095.84,Successful
+2818,2818,COD,103891.93,Successful
+2819,2819,Debit Card,130403.81,Successful
+2820,2820,COD,42727.47,Successful
+2821,2821,UPI,16619.7,Successful
+2822,2822,Credit Card,195053.3,Successful
+2823,2823,Net Banking,44339.42,Successful
+2824,2824,Credit Card,119860.9,Successful
+2825,2825,Debit Card,71931.41,Successful
+2826,2826,Debit Card,66256.86,Successful
+2827,2827,Wallet,79354.66,Successful
+2828,2828,COD,76571.75,Successful
+2829,2829,COD,92897.58,Successful
+2830,2830,Net Banking,94981.5,Successful
+2831,2831,COD,14610.3,Successful
+2832,2832,Net Banking,14082.13,Successful
+2833,2833,Wallet,16134.9,Successful
+2834,2834,Credit Card,29928.47,Successful
+2835,2835,Wallet,93849.08,Successful
+2836,2836,Debit Card,125332.25,Successful
+2837,2837,Credit Card,161460.49,Failed
+2838,2838,Net Banking,27613.54,Successful
+2839,2839,Net Banking,91141.73,Successful
+2840,2840,Credit Card,124858.36,Failed
+2841,2841,UPI,57753.34,Successful
+2842,2842,UPI,29120.35,Successful
+2843,2843,Net Banking,20267.4,Failed
+2844,2844,Credit Card,20925.06,Successful
+2845,2845,Debit Card,286965.22,Failed
+2846,2846,Debit Card,51900.8,Successful
+2847,2847,Credit Card,174953.06,Successful
+2848,2848,Debit Card,100409.87,Successful
+2849,2849,Net Banking,92962.3,Successful
+2850,2850,COD,47066.48,Successful
+2851,2851,COD,67016.05,Successful
+2852,2852,Wallet,247672.25,Failed
+2853,2853,Debit Card,21114.53,Successful
+2854,2854,Credit Card,207271.66,Successful
+2855,2855,UPI,38609.26,Successful
+2856,2856,Wallet,126215.94,Successful
+2857,2857,Credit Card,75098.24,Successful
+2858,2858,Debit Card,120675.48,Successful
+2859,2859,Debit Card,72514.72,Successful
+2860,2860,COD,57704.4,Successful
+2861,2861,COD,4272.3,Successful
+2862,2862,Credit Card,56770.97,Successful
+2863,2863,COD,162096.45,Successful
+2864,2864,Debit Card,37117.74,Successful
+2865,2865,UPI,133545.68,Successful
+2866,2866,Debit Card,143704.67,Successful
+2867,2867,UPI,80931.34,Successful
+2868,2868,Net Banking,45083.26,Successful
+2869,2869,Credit Card,10141.5,Successful
+2870,2870,Credit Card,19228.31,Successful
+2871,2871,Debit Card,71713.23,Successful
+2872,2872,UPI,84901.47,Successful
+2873,2873,Debit Card,80992.31,Successful
+2874,2874,Wallet,44420.78,Successful
+2875,2875,Wallet,14955.37,Successful
+2876,2876,Wallet,73836.99,Failed
+2877,2877,UPI,64917.45,Successful
+2878,2878,Debit Card,20600.18,Successful
+2879,2879,Net Banking,1297.33,Successful
+2880,2880,Credit Card,120337.61,Successful
+2881,2881,UPI,26129.21,Failed
+2882,2882,Wallet,22124.97,Failed
+2883,2883,COD,40385.24,Successful
+2884,2884,Net Banking,112107.49,Successful
+2885,2885,Wallet,19658.75,Successful
+2886,2886,COD,103052.76,Successful
+2887,2887,Wallet,27639.1,Successful
+2888,2888,UPI,11283.7,Successful
+2889,2889,Debit Card,113236.46,Successful
+2890,2890,Credit Card,219982.32,Successful
+2891,2891,Credit Card,148033.55,Successful
+2892,2892,Net Banking,28265.78,Successful
+2893,2893,Wallet,40762.07,Successful
+2894,2894,UPI,32666.92,Successful
+2895,2895,UPI,69738.36,Successful
+2896,2896,COD,145499.58,Successful
+2897,2897,Credit Card,41630.29,Successful
+2898,2898,COD,18792.5,Successful
+2899,2899,Debit Card,4913.34,Successful
+2900,2900,Wallet,41807.94,Successful
+2901,2901,UPI,56322.82,Successful
+2902,2902,COD,207712.38,Successful
+2903,2903,UPI,191464.54,Successful
+2904,2904,Wallet,18136.06,Successful
+2905,2905,Net Banking,72564.62,Successful
+2906,2906,Wallet,20995.46,Successful
+2907,2907,Net Banking,27289.27,Successful
+2908,2908,COD,86382.77,Successful
+2909,2909,Debit Card,118202.72,Successful
+2910,2910,Debit Card,12825.48,Failed
+2911,2911,Net Banking,145499.58,Successful
+2912,2912,Wallet,21355.28,Successful
+2913,2913,Debit Card,44420.93,Successful
+2914,2914,COD,31573.98,Failed
+2915,2915,Net Banking,117820.29,Failed
+2916,2916,Debit Card,33621.6,Failed
+2917,2917,Debit Card,80459.34,Successful
+2918,2918,COD,35722.92,Successful
+2919,2919,Credit Card,69856.88,Successful
+2920,2920,Credit Card,126074.7,Successful
+2921,2921,Credit Card,157500.92,Successful
+2922,2922,Wallet,42765.14,Successful
+2923,2923,Debit Card,64716.06,Successful
+2924,2924,Net Banking,129087.37,Successful
+2925,2925,COD,35236.68,Successful
+2926,2926,Credit Card,26144.74,Successful
+2927,2927,Wallet,99589.99,Failed
+2928,2928,Credit Card,24055.48,Successful
+2929,2929,COD,103367.25,Successful
+2930,2930,UPI,36274.08,Successful
+2931,2931,UPI,10105.24,Successful
+2932,2932,UPI,147254.8,Successful
+2933,2933,Debit Card,135163.79,Successful
+2934,2934,Wallet,65494.54,Successful
+2935,2935,COD,27289.27,Successful
+2936,2936,Debit Card,66527.88,Successful
+2937,2937,COD,61363.42,Successful
+2938,2938,Debit Card,149738.09,Successful
+2939,2939,UPI,79211.17,Successful
+2940,2940,Wallet,25646.78,Failed
+2941,2941,Wallet,112875.78,Successful
+2942,2942,Credit Card,8291.27,Failed
+2943,2943,Wallet,41854.67,Successful
+2944,2944,Wallet,37325.26,Successful
+2945,2945,Wallet,13111.08,Successful
+2946,2946,Net Banking,34322.1,Successful
+2947,2947,Wallet,61481.47,Successful
+2948,2948,UPI,44049.14,Successful
+2949,2949,COD,21918.88,Successful
+2950,2950,Net Banking,11608.8,Successful
+2951,2951,Net Banking,21918.88,Successful
+2952,2952,Wallet,88713.57,Failed
+2953,2953,Credit Card,305027.32,Successful
+2954,2954,UPI,23158.9,Failed
+2955,2955,Net Banking,57717.9,Successful
+2956,2956,Wallet,32683.46,Successful
+2957,2957,UPI,64229.73,Successful
+2958,2958,Wallet,83187.55,Successful
+2959,2959,UPI,167733.18,Successful
+2960,2960,UPI,107478.57,Successful
+2961,2961,Credit Card,195960.41,Successful
+2962,2962,COD,134617.47,Successful
+2963,2963,Net Banking,101232.94,Successful
+2964,2964,Wallet,163056.31,Failed
+2965,2965,UPI,49254.59,Successful
+2966,2966,Credit Card,14874.16,Successful
+2967,2967,Wallet,94929.31,Successful
+2968,2968,Debit Card,146145.88,Failed
+2969,2969,Debit Card,331161.13,Successful
+2970,2970,Debit Card,35645.05,Successful
+2971,2971,Debit Card,31114.33,Successful
+2972,2972,UPI,59269.63,Successful
+2973,2973,Wallet,49138.86,Successful
+2974,2974,Debit Card,166177.31,Successful
+2975,2975,Net Banking,20585.69,Successful
+2976,2976,COD,139664.95,Successful
+2977,2977,COD,97543.03,Successful
+2978,2978,Wallet,10729.32,Failed
+2979,2979,Debit Card,89013.93,Successful
+2980,2980,Wallet,27738.12,Successful
+2981,2981,COD,46339.77,Successful
+2982,2982,Wallet,88046.4,Failed
+2983,2983,Debit Card,15972.82,Failed
+2984,2984,Credit Card,84531.12,Failed
+2985,2985,UPI,64936.71,Failed
+2986,2986,Net Banking,22827.22,Successful
+2987,2987,COD,80041.23,Successful
+2988,2988,Debit Card,25966.86,Successful
+2989,2989,UPI,1378.41,Successful
+2990,2990,UPI,133725.54,Successful
+2991,2991,Wallet,123144.59,Failed
+2992,2992,Wallet,22236.66,Successful
+2993,2993,Net Banking,22480.82,Successful
+2994,2994,Net Banking,91608.48,Successful
+2995,2995,COD,63704.09,Successful
+2996,2996,Debit Card,182903.03,Failed
+2997,2997,Wallet,75330.71,Successful
+2998,2998,UPI,8882.08,Failed
+2999,2999,Wallet,22882.85,Successful
+3000,3000,Credit Card,74218.48,Successful
+3001,3001,COD,43745.94,Successful
+3002,3002,Net Banking,18404.35,Successful
+3003,3003,Debit Card,8571.6,Failed
+3004,3004,Debit Card,16684.48,Successful
+3005,3005,UPI,30908.44,Successful
+3006,3006,Wallet,68000.37,Successful
+3007,3007,Net Banking,39217.11,Successful
+3008,3008,COD,70694.72,Successful
+3009,3009,COD,186393.93,Failed
+3010,3010,Credit Card,37540.08,Successful
+3011,3011,COD,18770.04,Failed
+3012,3012,Debit Card,65871.89,Successful
+3013,3013,Wallet,57445.83,Successful
+3014,3014,UPI,136981.08,Successful
+3015,3015,UPI,113586.24,Successful
+3016,3016,Wallet,16239.22,Failed
+3017,3017,Wallet,150052.05,Successful
+3018,3018,Wallet,65498.16,Successful
+3019,3019,Debit Card,233025.34,Successful
+3020,3020,Debit Card,140405.46,Successful
+3021,3021,Debit Card,107364.73,Successful
+3022,3022,Credit Card,27564.6,Successful
+3023,3023,Debit Card,29019.26,Successful
+3024,3024,UPI,26085.39,Successful
+3025,3025,Wallet,63846.11,Successful
+3026,3026,COD,14955.37,Failed
+3027,3027,Net Banking,25043.31,Successful
+3028,3028,Credit Card,9917.74,Successful
+3029,3029,Wallet,75964.68,Failed
+3030,3030,UPI,138458.19,Successful
+3031,3031,Net Banking,119770.93,Successful
+3032,3032,COD,160337.25,Successful
+3033,3033,Credit Card,83187.55,Successful
+3034,3034,Debit Card,100281.34,Successful
+3035,3035,Wallet,26837.88,Successful
+3036,3036,COD,115820.27,Successful
+3037,3037,UPI,241223.83,Successful
+3038,3038,Credit Card,74500.53,Successful
+3039,3039,Wallet,104206.88,Successful
+3040,3040,Wallet,122514.64,Successful
+3041,3041,Wallet,114762.09,Successful
+3042,3042,COD,4847.56,Successful
+3043,3043,UPI,46246.95,Failed
+3044,3044,Credit Card,4864.98,Successful
+3045,3045,COD,189080.03,Successful
+3046,3046,COD,90253.21,Successful
+3047,3047,Net Banking,3368.41,Successful
+3048,3048,Debit Card,40338.69,Successful
+3049,3049,UPI,45491.49,Successful
+3050,3050,Credit Card,21237.72,Successful
+3051,3051,Wallet,16749.24,Successful
+3052,3052,COD,29259.09,Successful
+3053,3053,Wallet,5498.64,Successful
+3054,3054,Credit Card,74296.85,Successful
+3055,3055,Credit Card,44453.23,Successful
+3056,3056,UPI,229850.26,Successful
+3057,3057,Net Banking,20119.95,Successful
+3058,3058,COD,116333.91,Successful
+3059,3059,Credit Card,39344.9,Successful
+3060,3060,Credit Card,33119.47,Successful
+3061,3061,Net Banking,83295.82,Failed
+3062,3062,Credit Card,176284.24,Successful
+3063,3063,Credit Card,8855.9,Successful
+3064,3064,Debit Card,21918.88,Successful
+3065,3065,Wallet,24140.97,Successful
+3066,3066,Credit Card,4082.16,Successful
+3067,3067,Debit Card,116556.74,Successful
+3068,3068,Debit Card,111477.23,Failed
+3069,3069,UPI,55225.13,Successful
+3070,3070,Credit Card,48339.99,Successful
+3071,3071,Wallet,69089.45,Successful
+3072,3072,COD,65016.8,Successful
+3073,3073,Wallet,36362.87,Successful
+3074,3074,Debit Card,110021.39,Successful
+3075,3075,Debit Card,21091.38,Successful
+3076,3076,Credit Card,92682.39,Successful
+3077,3077,Net Banking,11858.64,Successful
+3078,3078,Net Banking,261926.06,Successful
+3079,3079,Wallet,23926.7,Successful
+3080,3080,Credit Card,53987.68,Failed
+3081,3081,Net Banking,111566.52,Successful
+3082,3082,COD,118412.88,Successful
+3083,3083,Net Banking,87565.84,Successful
+3084,3084,Net Banking,136384.85,Successful
+3085,3085,COD,106452.76,Successful
+3086,3086,Debit Card,37224.93,Failed
+3087,3087,Debit Card,19286.1,Successful
+3088,3088,Net Banking,48369.98,Successful
+3089,3089,Debit Card,8945.96,Successful
+3090,3090,Net Banking,96687.77,Successful
+3091,3091,UPI,100474.67,Successful
+3092,3092,COD,172612.38,Successful
+3093,3093,COD,38426.91,Successful
+3094,3094,Net Banking,161891.2,Failed
+3095,3095,Debit Card,112760.63,Failed
+3096,3096,UPI,264636.74,Successful
+3097,3097,COD,58538.18,Successful
+3098,3098,Debit Card,25554.43,Successful
+3099,3099,COD,67667.64,Failed
+3100,3100,Debit Card,13754.43,Successful
+3101,3101,Net Banking,76571.75,Successful
+3102,3102,UPI,213347.4,Failed
+3103,3103,Debit Card,76328.18,Failed
+3104,3104,Net Banking,49431.52,Successful
+3105,3105,COD,81840.98,Successful
+3106,3106,Debit Card,75964.68,Successful
+3107,3107,Wallet,83609.37,Successful
+3108,3108,Debit Card,51687.77,Successful
+3109,3109,Net Banking,122452.8,Successful
+3110,3110,Wallet,173677.26,Successful
+3111,3111,Net Banking,35554.46,Successful
+3112,3112,Wallet,125861.8,Successful
+3113,3113,Credit Card,90247.46,Failed
+3114,3114,UPI,17242.26,Successful
+3115,3115,UPI,83416.91,Successful
+3116,3116,Net Banking,3806.76,Successful
+3117,3117,Wallet,71591.74,Successful
+3118,3118,UPI,98779.96,Successful
+3119,3119,Credit Card,17436.12,Successful
+3120,3120,Credit Card,89131.97,Successful
+3121,3121,Credit Card,74636.18,Successful
+3122,3122,Credit Card,114424.85,Successful
+3123,3123,Wallet,23375.93,Successful
+3124,3124,Debit Card,2812.25,Successful
+3125,3125,Net Banking,45902.94,Successful
+3126,3126,Credit Card,114510.81,Failed
+3127,3127,Net Banking,200119.97,Successful
+3128,3128,Wallet,76982.17,Successful
+3129,3129,Debit Card,58801.31,Successful
+3130,3130,Debit Card,114816.72,Successful
+3131,3131,Net Banking,36095.84,Successful
+3132,3132,Debit Card,132442.47,Successful
+3133,3133,Wallet,29492.96,Failed
+3134,3134,Wallet,50643.12,Successful
+3135,3135,Debit Card,50796.75,Successful
+3136,3136,COD,87576.83,Successful
+3137,3137,Wallet,22608.18,Successful
+3138,3138,Debit Card,58523.28,Failed
+3139,3139,Wallet,5641.85,Successful
+3140,3140,Credit Card,39123.4,Failed
+3141,3141,Wallet,158872.62,Successful
+3142,3142,COD,33239.4,Successful
+3143,3143,COD,94956.93,Successful
+3144,3144,UPI,19549.61,Successful
+3145,3145,Debit Card,76411.48,Successful
+3146,3146,Debit Card,125714.24,Successful
+3147,3147,Wallet,189704.78,Failed
+3148,3148,Wallet,11157.46,Successful
+3149,3149,Debit Card,207098.48,Failed
+3150,3150,COD,33368.96,Successful
+3151,3151,Wallet,94163.92,Successful
+3152,3152,Wallet,24530.11,Failed
+3153,3153,Credit Card,56383.26,Successful
+3154,3154,UPI,81555.7,Failed
+3155,3155,UPI,11869.9,Successful
+3156,3156,UPI,21297.42,Successful
+3157,3157,Debit Card,27192.12,Successful
+3158,3158,Net Banking,93677.32,Successful
+3159,3159,UPI,38433.91,Successful
+3160,3160,Debit Card,19175.15,Successful
+3161,3161,Net Banking,95153.69,Successful
+3162,3162,Net Banking,3070.84,Successful
+3163,3163,COD,40212.77,Successful
+3164,3164,Wallet,88095.69,Successful
+3165,3165,UPI,9383.76,Successful
+3166,3166,UPI,97193.58,Successful
+3167,3167,Debit Card,121650.61,Successful
+3168,3168,Net Banking,86170.49,Successful
+3169,3169,UPI,199763.65,Successful
+3170,3170,Net Banking,55239.64,Successful
+3171,3171,Debit Card,4985.12,Successful
+3172,3172,Wallet,228808.69,Successful
+3173,3173,Net Banking,124555.88,Successful
+3174,3174,COD,43716.56,Successful
+3175,3175,Wallet,107431.42,Successful
+3176,3176,Debit Card,78940.83,Failed
+3177,3177,Wallet,12599.8,Successful
+3178,3178,Debit Card,17594.55,Failed
+3179,3179,UPI,58137.86,Successful
+3180,3180,Credit Card,8568.65,Successful
+3181,3181,COD,114245.05,Successful
+3182,3182,UPI,34024.03,Successful
+3183,3183,Credit Card,1372.26,Successful
+3184,3184,Net Banking,164248.86,Successful
+3185,3185,COD,1940.7,Successful
+3186,3186,Net Banking,110514.16,Successful
+3187,3187,Credit Card,19167.68,Successful
+3188,3188,Debit Card,160355.88,Failed
+3189,3189,Wallet,86432.86,Successful
+3190,3190,Debit Card,149499.91,Failed
+3191,3191,Debit Card,104458.17,Successful
+3192,3192,UPI,38896.7,Failed
+3193,3193,COD,31255.38,Successful
+3194,3194,Debit Card,20585.69,Successful
+3195,3195,Net Banking,24231.27,Successful
+3196,3196,Net Banking,51772.85,Failed
+3197,3197,COD,34076.58,Successful
+3198,3198,Wallet,112626.79,Failed
+3199,3199,Wallet,26950.07,Successful
+3200,3200,Wallet,34261.99,Successful
+3201,3201,Net Banking,161734.96,Failed
+3202,3202,UPI,195312.35,Successful
+3203,3203,Debit Card,28971.15,Successful
+3204,3204,Credit Card,31255.38,Successful
+3205,3205,Debit Card,175064.7,Successful
+3206,3206,COD,95262.73,Successful
+3207,3207,Credit Card,115097.54,Failed
+3208,3208,COD,111010.41,Successful
+3209,3209,Debit Card,33458.11,Successful
+3210,3210,Debit Card,70245.82,Successful
+3211,3211,Credit Card,53600.81,Successful
+3212,3212,Wallet,43472.78,Successful
+3213,3213,UPI,66374.9,Failed
+3214,3214,COD,42727.47,Successful
+3215,3215,COD,93777.2,Failed
+3216,3216,Credit Card,36174.17,Successful
+3217,3217,Wallet,81904.55,Successful
+3218,3218,Debit Card,31852.04,Successful
+3219,3219,Wallet,20257.25,Successful
+3220,3220,Debit Card,50736.08,Successful
+3221,3221,Net Banking,87893.67,Successful
+3222,3222,COD,36281.09,Successful
+3223,3223,Net Banking,64917.45,Successful
+3224,3224,UPI,25973.06,Successful
+3225,3225,Wallet,40514.5,Successful
+3226,3226,UPI,18214.65,Successful
+3227,3227,UPI,86446.37,Successful
+3228,3228,Debit Card,232466.82,Successful
+3229,3229,COD,47903.03,Successful
+3230,3230,Net Banking,9107.32,Successful
+3231,3231,Debit Card,84309.11,Successful
+3232,3232,Net Banking,48510.83,Successful
+3233,3233,Debit Card,160878.93,Successful
+3234,3234,Credit Card,91129.16,Successful
+3235,3235,Wallet,12873.64,Successful
+3236,3236,Credit Card,4871.33,Successful
+3237,3237,Debit Card,29694.19,Successful
+3238,3238,COD,68714.94,Successful
+3239,3239,Debit Card,73134.48,Successful
+3240,3240,UPI,82056.2,Successful
+3241,3241,COD,170689.7,Successful
+3242,3242,Wallet,116170.44,Successful
+3243,3243,UPI,54254.39,Successful
+3244,3244,COD,59688.38,Successful
+3245,3245,Wallet,176539.91,Successful
+3246,3246,Wallet,67020.43,Successful
+3247,3247,UPI,116051.26,Successful
+3248,3248,Credit Card,45760.82,Successful
+3249,3249,Net Banking,134843.51,Failed
+3250,3250,COD,41501.45,Failed
+3251,3251,Wallet,100524.07,Successful
+3252,3252,Credit Card,34973.25,Successful
+3253,3253,Debit Card,65494.25,Successful
+3254,3254,Debit Card,82016.07,Successful
+3255,3255,Net Banking,15906.74,Successful
+3256,3256,Net Banking,84674.22,Successful
+3257,3257,UPI,23210.43,Successful
+3258,3258,COD,35662.45,Successful
+3259,3259,COD,58489.83,Successful
+3260,3260,Credit Card,10141.5,Successful
+3261,3261,Net Banking,30368.07,Successful
+3262,3262,COD,32709.43,Successful
+3263,3263,Wallet,34458.51,Failed
+3264,3264,COD,135452.05,Successful
+3265,3265,Credit Card,28287.58,Successful
+3266,3266,Credit Card,196103.27,Successful
+3267,3267,UPI,39608.23,Successful
+3268,3268,Credit Card,170314.67,Successful
+3269,3269,UPI,19920.23,Successful
+3270,3270,Debit Card,66797.6,Failed
+3271,3271,Debit Card,64917.45,Successful
+3272,3272,Wallet,50119.95,Successful
+3273,3273,Credit Card,21534.11,Failed
+3274,3274,UPI,201134.17,Successful
+3275,3275,COD,40694.72,Successful
+3276,3276,COD,9107.32,Successful
+3277,3277,Debit Card,10178.77,Successful
+3278,3278,Net Banking,132385.01,Successful
+3279,3279,UPI,74521.86,Successful
+3280,3280,Credit Card,99062.3,Successful
+3281,3281,Debit Card,101213.41,Successful
+3282,3282,COD,155338.96,Failed
+3283,3283,Wallet,3616.42,Successful
+3284,3284,Wallet,14581.98,Successful
+3285,3285,Debit Card,22108.82,Successful
+3286,3286,Debit Card,117419.11,Successful
+3287,3287,Net Banking,77257.15,Successful
+3288,3288,UPI,148356.84,Successful
+3289,3289,Wallet,97561.88,Successful
+3290,3290,Credit Card,58992.31,Successful
+3291,3291,UPI,150918.65,Successful
+3292,3292,Net Banking,36419.1,Successful
+3293,3293,Credit Card,140395.77,Successful
+3294,3294,Credit Card,10556.73,Successful
+3295,3295,UPI,195480.64,Failed
+3296,3296,Wallet,21918.88,Successful
+3297,3297,COD,48758.64,Successful
+3298,3298,Wallet,11753.95,Successful
+3299,3299,UPI,241130.24,Successful
+3300,3300,Credit Card,1624.32,Successful
+3301,3301,Debit Card,41711.2,Successful
+3302,3302,Credit Card,53564.1,Successful
+3303,3303,Credit Card,6141.68,Successful
+3304,3304,UPI,89162.88,Successful
+3305,3305,Debit Card,9261.62,Successful
+3306,3306,COD,18269.12,Successful
+3307,3307,Wallet,88467.08,Successful
+3308,3308,Net Banking,85608.68,Successful
+3309,3309,COD,72509.99,Failed
+3310,3310,Debit Card,115900.09,Successful
+3311,3311,UPI,25267.59,Successful
+3312,3312,Net Banking,190399.81,Successful
+3313,3313,UPI,79218.09,Successful
+3314,3314,UPI,70473.36,Successful
+3315,3315,UPI,46248.34,Successful
+3316,3316,Debit Card,27001.23,Successful
+3317,3317,UPI,37741.91,Failed
+3318,3318,Wallet,67326.72,Successful
+3319,3319,Debit Card,36205.21,Successful
+3320,3320,Wallet,11576.43,Failed
+3321,3321,Wallet,119376.29,Failed
+3322,3322,Wallet,83273.58,Successful
+3323,3323,Net Banking,61952.99,Successful
+3324,3324,COD,76538.32,Successful
+3325,3325,Wallet,18214.65,Successful
+3326,3326,Wallet,41711.2,Successful
+3327,3327,Wallet,65888.95,Successful
+3328,3328,UPI,192939.01,Successful
+3329,3329,Debit Card,104070.62,Successful
+3330,3330,Net Banking,32249.86,Successful
+3331,3331,Wallet,68043.54,Successful
+3332,3332,COD,100185.63,Failed
+3333,3333,COD,2873.51,Successful
+3334,3334,COD,150422.01,Successful
+3335,3335,COD,183430.66,Successful
+3336,3336,COD,101447.48,Successful
+3337,3337,Debit Card,37215.48,Successful
+3338,3338,Wallet,92149.73,Successful
+3339,3339,COD,40290.84,Successful
+3340,3340,COD,18472.24,Successful
+3341,3341,Debit Card,131286.53,Successful
+3342,3342,Credit Card,96743.78,Successful
+3343,3343,UPI,102006.54,Successful
+3344,3344,Debit Card,103017.72,Successful
+3345,3345,Debit Card,95347.21,Successful
+3346,3346,Wallet,88869.94,Failed
+3347,3347,Debit Card,246584.82,Successful
+3348,3348,COD,149128.74,Successful
+3349,3349,UPI,244416.09,Successful
+3350,3350,Net Banking,101975.42,Successful
+3351,3351,Debit Card,46190.2,Successful
+3352,3352,Debit Card,7508.6,Successful
+3353,3353,Debit Card,118585.54,Successful
+3354,3354,COD,80048.72,Successful
+3355,3355,Debit Card,87716.19,Successful
+3356,3356,Credit Card,45623.22,Successful
+3357,3357,Wallet,50251.89,Successful
+3358,3358,COD,23206.0,Successful
+3359,3359,Net Banking,102966.31,Successful
+3360,3360,Debit Card,28852.2,Successful
+3361,3361,COD,62656.2,Successful
+3362,3362,COD,16951.48,Failed
+3363,3363,UPI,2347.18,Successful
+3364,3364,UPI,26079.45,Successful
+3365,3365,COD,131828.12,Successful
+3366,3366,UPI,24385.14,Successful
+3367,3367,COD,134224.69,Successful
+3368,3368,Net Banking,5988.29,Successful
+3369,3369,COD,87807.27,Successful
+3370,3370,Debit Card,73115.19,Successful
+3371,3371,Debit Card,40111.98,Failed
+3372,3372,COD,19284.07,Successful
+3373,3373,Net Banking,46823.59,Successful
+3374,3374,Credit Card,64127.93,Successful
+3375,3375,Net Banking,160274.37,Successful
+3376,3376,Debit Card,40312.32,Successful
+3377,3377,Credit Card,10277.66,Successful
+3378,3378,UPI,24621.69,Successful
+3379,3379,Debit Card,24621.69,Successful
+3380,3380,UPI,3243.32,Failed
+3381,3381,COD,121016.08,Successful
+3382,3382,Debit Card,93293.6,Successful
+3383,3383,Credit Card,28495.73,Successful
+3384,3384,Debit Card,11831.72,Failed
+3385,3385,Credit Card,27619.82,Successful
+3386,3386,Net Banking,34263.42,Successful
+3387,3387,UPI,299975.76,Successful
+3388,3388,UPI,12372.58,Successful
+3389,3389,Debit Card,59203.06,Successful
+3390,3390,Net Banking,6699.69,Successful
+3391,3391,UPI,23962.89,Failed
+3392,3392,UPI,32187.96,Successful
+3393,3393,Credit Card,39404.63,Successful
+3394,3394,COD,23072.5,Successful
+3395,3395,COD,87975.12,Successful
+3396,3396,Wallet,31796.48,Successful
+3397,3397,Net Banking,70879.34,Successful
+3398,3398,Credit Card,150765.04,Successful
+3399,3399,Debit Card,99696.35,Successful
+3400,3400,Credit Card,36396.24,Failed
+3401,3401,UPI,106680.94,Successful
+3402,3402,COD,13587.29,Successful
+3403,3403,Wallet,21386.69,Successful
+3404,3404,Debit Card,65418.86,Successful
+3405,3405,COD,47015.56,Successful
+3406,3406,Credit Card,31102.35,Successful
+3407,3407,Credit Card,33469.96,Failed
+3408,3408,UPI,60164.97,Successful
+3409,3409,Debit Card,66594.74,Successful
+3410,3410,Debit Card,250014.1,Successful
+3411,3411,Wallet,115729.82,Successful
+3412,3412,COD,105223.5,Successful
+3413,3413,COD,37317.44,Successful
+3414,3414,Wallet,17576.01,Successful
+3415,3415,Wallet,126003.27,Successful
+3416,3416,COD,1022.47,Successful
+3417,3417,UPI,109665.27,Successful
+3418,3418,COD,31348.53,Successful
+3419,3419,Credit Card,81302.0,Successful
+3420,3420,Net Banking,33787.02,Successful
+3421,3421,Wallet,146763.85,Successful
+3422,3422,Debit Card,20299.02,Successful
+3423,3423,Wallet,26342.18,Successful
+3424,3424,Debit Card,43986.62,Successful
+3425,3425,Wallet,14436.49,Successful
+3426,3426,Wallet,108476.64,Successful
+3427,3427,Debit Card,40385.24,Successful
+3428,3428,Debit Card,89895.67,Successful
+3429,3429,Debit Card,20347.36,Successful
+3430,3430,Net Banking,40963.99,Successful
+3431,3431,COD,40239.9,Successful
+3432,3432,Wallet,91793.01,Successful
+3433,3433,UPI,87331.15,Successful
+3434,3434,COD,24875.19,Successful
+3435,3435,Credit Card,23328.29,Successful
+3436,3436,Credit Card,93338.52,Failed
+3437,3437,Debit Card,122972.02,Successful
+3438,3438,Wallet,95455.66,Successful
+3439,3439,UPI,64745.07,Failed
+3440,3440,COD,53264.87,Successful
+3441,3441,Wallet,139184.31,Successful
+3442,3442,Net Banking,228189.31,Successful
+3443,3443,Net Banking,23867.67,Successful
+3444,3444,Credit Card,160007.42,Successful
+3445,3445,Debit Card,125554.47,Failed
+3446,3446,UPI,65454.85,Successful
+3447,3447,Wallet,49516.9,Successful
+3448,3448,Wallet,145321.33,Failed
+3449,3449,Credit Card,202743.1,Successful
+3450,3450,Net Banking,47015.56,Successful
+3451,3451,COD,5864.85,Successful
+3452,3452,Net Banking,102006.54,Successful
+3453,3453,Credit Card,22210.47,Successful
+3454,3454,Credit Card,44831.04,Successful
+3455,3455,COD,140263.51,Successful
+3456,3456,COD,21028.14,Successful
+3457,3457,Net Banking,27587.62,Failed
+3458,3458,UPI,59556.46,Successful
+3459,3459,Debit Card,26316.94,Successful
+3460,3460,COD,71229.09,Successful
+3461,3461,Wallet,37930.0,Failed
+3462,3462,Credit Card,106806.83,Successful
+3463,3463,Debit Card,1540.58,Failed
+3464,3464,Debit Card,110632.46,Successful
+3465,3465,UPI,64223.25,Successful
+3466,3466,COD,111833.57,Successful
+3467,3467,UPI,80863.35,Successful
+3468,3468,COD,93777.14,Successful
+3469,3469,UPI,86708.47,Successful
+3470,3470,COD,33002.39,Successful
+3471,3471,COD,42411.41,Successful
+3472,3472,COD,121155.72,Failed
+3473,3473,Net Banking,173855.6,Successful
+3474,3474,UPI,51559.67,Successful
+3475,3475,UPI,49032.19,Failed
+3476,3476,UPI,197510.64,Successful
+3477,3477,Debit Card,46685.32,Successful
+3478,3478,UPI,68719.97,Successful
+3479,3479,Net Banking,3630.84,Successful
+3480,3480,UPI,24349.14,Successful
+3481,3481,Credit Card,3439.75,Successful
+3482,3482,Net Banking,176213.45,Successful
+3483,3483,Net Banking,13123.78,Successful
+3484,3484,UPI,130418.34,Successful
+3485,3485,UPI,86630.02,Failed
+3486,3486,Credit Card,80713.39,Failed
+3487,3487,Net Banking,122092.89,Successful
+3488,3488,Debit Card,80718.52,Successful
+3489,3489,Debit Card,136140.89,Successful
+3490,3490,Net Banking,110773.7,Successful
+3491,3491,Credit Card,54334.61,Failed
+3492,3492,Net Banking,109183.05,Successful
+3493,3493,UPI,18994.42,Failed
+3494,3494,COD,36400.44,Successful
+3495,3495,Debit Card,9706.49,Successful
+3496,3496,Net Banking,89440.02,Successful
+3497,3497,UPI,84360.12,Successful
+3498,3498,UPI,91587.73,Successful
+3499,3499,UPI,29481.52,Successful
+3500,3500,Credit Card,4872.97,Successful
+3501,3501,Net Banking,52308.1,Successful
+3502,3502,Debit Card,30395.11,Failed
+3503,3503,UPI,89006.52,Successful
+3504,3504,Wallet,112419.1,Successful
+3505,3505,UPI,31295.06,Successful
+3506,3506,Credit Card,73770.36,Successful
+3507,3507,Wallet,86595.62,Successful
+3508,3508,Credit Card,4941.44,Successful
+3509,3509,Credit Card,6095.02,Successful
+3510,3510,Debit Card,57684.93,Successful
+3511,3511,Net Banking,31338.53,Successful
+3512,3512,COD,14581.53,Successful
+3513,3513,Credit Card,110087.51,Successful
+3514,3514,Credit Card,69383.82,Successful
+3515,3515,Credit Card,22111.28,Successful
+3516,3516,Debit Card,68523.97,Successful
+3517,3517,Net Banking,76002.75,Successful
+3518,3518,Wallet,12783.86,Successful
+3519,3519,Net Banking,81975.27,Successful
+3520,3520,UPI,41728.28,Successful
+3521,3521,UPI,29764.9,Successful
+3522,3522,Debit Card,6670.94,Successful
+3523,3523,UPI,87565.84,Successful
+3524,3524,Debit Card,9107.32,Successful
+3525,3525,Wallet,30908.44,Successful
+3526,3526,Debit Card,20347.36,Successful
+3527,3527,Credit Card,149114.74,Successful
+3528,3528,Debit Card,32644.91,Successful
+3529,3529,Net Banking,103868.87,Successful
+3530,3530,Wallet,8419.73,Successful
+3531,3531,Credit Card,38277.04,Successful
+3532,3532,Wallet,77204.1,Successful
+3533,3533,UPI,47075.35,Successful
+3534,3534,Wallet,27613.54,Successful
+3535,3535,UPI,78970.27,Successful
+3536,3536,Debit Card,106704.01,Successful
+3537,3537,Debit Card,62965.15,Failed
+3538,3538,Credit Card,62594.66,Successful
+3539,3539,Credit Card,108183.65,Successful
+3540,3540,Wallet,23516.29,Failed
+3541,3541,COD,54953.46,Successful
+3542,3542,Debit Card,161733.03,Successful
+3543,3543,Credit Card,39697.08,Failed
+3544,3544,COD,73408.8,Successful
+3545,3545,UPI,145876.04,Successful
+3546,3546,Credit Card,78124.88,Successful
+3547,3547,COD,43794.04,Successful
+3548,3548,Wallet,114634.32,Successful
+3549,3549,UPI,14876.62,Successful
+3550,3550,Credit Card,101254.62,Successful
+3551,3551,COD,15333.37,Successful
+3552,3552,Credit Card,79354.66,Successful
+3553,3553,Net Banking,105806.21,Successful
+3554,3554,Debit Card,34441.88,Successful
+3555,3555,Net Banking,139392.92,Failed
+3556,3556,Credit Card,69261.48,Successful
+3557,3557,COD,103318.17,Successful
+3558,3558,Credit Card,14236.85,Successful
+3559,3559,UPI,162967.43,Successful
+3560,3560,Wallet,223786.13,Successful
+3561,3561,Wallet,114602.79,Successful
+3562,3562,Debit Card,24823.46,Failed
+3563,3563,Credit Card,11665.58,Successful
+3564,3564,UPI,2571.04,Successful
+3565,3565,Wallet,11493.92,Successful
+3566,3566,Wallet,153475.69,Failed
+3567,3567,Wallet,104185.49,Successful
+3568,3568,UPI,82379.57,Successful
+3569,3569,Net Banking,225805.27,Successful
+3570,3570,UPI,191137.39,Successful
+3571,3571,COD,35436.58,Successful
+3572,3572,COD,66326.46,Successful
+3573,3573,Debit Card,15290.28,Successful
+3574,3574,COD,101841.26,Successful
+3575,3575,Credit Card,149674.83,Successful
+3576,3576,Debit Card,32468.35,Successful
+3577,3577,COD,135680.1,Successful
+3578,3578,COD,23331.17,Successful
+3579,3579,Net Banking,176111.57,Failed
+3580,3580,COD,6283.7,Failed
+3581,3581,Wallet,21818.28,Successful
+3582,3582,Credit Card,40385.24,Successful
+3583,3583,Debit Card,123243.14,Successful
+3584,3584,Credit Card,7955.89,Failed
+3585,3585,Wallet,78001.2,Successful
+3586,3586,Wallet,101317.02,Failed
+3587,3587,Debit Card,110628.79,Successful
+3588,3588,COD,215049.65,Successful
+3589,3589,Net Banking,119319.57,Successful
+3590,3590,COD,32885.46,Successful
+3591,3591,Debit Card,3616.42,Failed
+3592,3592,Net Banking,124974.96,Successful
+3593,3593,Wallet,78855.54,Failed
+3594,3594,UPI,57140.79,Successful
+3595,3595,Net Banking,21523.33,Successful
+3596,3596,Wallet,106829.99,Successful
+3597,3597,Net Banking,99658.38,Successful
+3598,3598,Debit Card,33202.08,Successful
+3599,3599,COD,29701.65,Successful
+3600,3600,COD,194184.25,Successful
+3601,3601,Net Banking,79375.3,Successful
+3602,3602,COD,40376.59,Failed
+3603,3603,COD,37325.26,Successful
+3604,3604,UPI,154273.14,Successful
+3605,3605,COD,30820.13,Successful
+3606,3606,Wallet,116690.09,Successful
+3607,3607,Credit Card,57721.52,Successful
+3608,3608,Net Banking,124364.76,Successful
+3609,3609,Wallet,33681.2,Successful
+3610,3610,Wallet,115841.61,Failed
+3611,3611,COD,108773.74,Successful
+3612,3612,Net Banking,99227.26,Successful
+3613,3613,Credit Card,29119.47,Successful
+3614,3614,UPI,46203.43,Successful
+3615,3615,UPI,35554.46,Successful
+3616,3616,Wallet,81170.03,Successful
+3617,3617,Debit Card,19850.71,Successful
+3618,3618,Wallet,250438.97,Successful
+3619,3619,Debit Card,31773.68,Successful
+3620,3620,COD,154362.55,Successful
+3621,3621,Debit Card,24685.31,Successful
+3622,3622,Debit Card,17597.08,Successful
+3623,3623,Credit Card,102355.8,Successful
+3624,3624,Wallet,27795.82,Successful
+3625,3625,UPI,136651.22,Successful
+3626,3626,Wallet,5102.7,Successful
+3627,3627,Debit Card,42083.91,Successful
+3628,3628,Net Banking,159517.02,Successful
+3629,3629,UPI,9421.93,Successful
+3630,3630,Net Banking,100868.13,Successful
+3631,3631,COD,20047.01,Successful
+3632,3632,Wallet,21572.05,Successful
+3633,3633,Wallet,7137.46,Successful
+3634,3634,Net Banking,46174.32,Successful
+3635,3635,COD,46203.43,Successful
+3636,3636,Net Banking,182089.75,Successful
+3637,3637,Wallet,34385.17,Successful
+3638,3638,Wallet,30785.34,Successful
+3639,3639,Wallet,117965.72,Failed
+3640,3640,Wallet,66034.34,Successful
+3641,3641,COD,37696.53,Successful
+3642,3642,UPI,58834.88,Successful
+3643,3643,UPI,121999.04,Failed
+3644,3644,Credit Card,64827.67,Successful
+3645,3645,Credit Card,148790.09,Successful
+3646,3646,Net Banking,93004.38,Successful
+3647,3647,Net Banking,140677.99,Successful
+3648,3648,Debit Card,36863.48,Successful
+3649,3649,Net Banking,46927.83,Successful
+3650,3650,COD,75393.05,Successful
+3651,3651,Wallet,28751.52,Successful
+3652,3652,Credit Card,85837.98,Successful
+3653,3653,UPI,111345.3,Failed
+3654,3654,COD,147825.1,Failed
+3655,3655,Credit Card,75965.54,Failed
+3656,3656,Net Banking,80300.35,Failed
+3657,3657,Debit Card,129738.75,Failed
+3658,3658,COD,161343.98,Failed
+3659,3659,Debit Card,66448.25,Successful
+3660,3660,UPI,53975.57,Successful
+3661,3661,UPI,62406.51,Successful
+3662,3662,Wallet,15220.08,Failed
+3663,3663,Wallet,84938.78,Successful
+3664,3664,Net Banking,161453.57,Successful
+3665,3665,UPI,23152.87,Successful
+3666,3666,Net Banking,80619.82,Successful
+3667,3667,COD,57810.42,Successful
+3668,3668,Debit Card,81578.75,Successful
+3669,3669,Wallet,64949.76,Failed
+3670,3670,Net Banking,87682.36,Successful
+3671,3671,Net Banking,61577.47,Failed
+3672,3672,Wallet,63521.84,Failed
+3673,3673,COD,35602.28,Successful
+3674,3674,UPI,44473.31,Failed
+3675,3675,Net Banking,122498.56,Failed
+3676,3676,COD,81665.7,Successful
+3677,3677,Credit Card,24182.72,Successful
+3678,3678,UPI,49804.11,Successful
+3679,3679,UPI,134419.59,Successful
+3680,3680,UPI,16951.48,Successful
+3681,3681,Credit Card,46190.2,Successful
+3682,3682,Credit Card,30673.96,Successful
+3683,3683,Credit Card,87510.7,Successful
+3684,3684,COD,111545.66,Successful
+3685,3685,COD,186345.89,Successful
+3686,3686,UPI,46507.82,Successful
+3687,3687,UPI,78771.43,Successful
+3688,3688,UPI,121651.05,Successful
+3689,3689,COD,76340.54,Successful
+3690,3690,Wallet,4427.95,Successful
+3691,3691,Credit Card,51297.5,Successful
+3692,3692,Wallet,45648.16,Successful
+3693,3693,UPI,49781.18,Successful
+3694,3694,Net Banking,70402.35,Successful
+3695,3695,COD,40664.12,Successful
+3696,3696,UPI,160591.72,Successful
+3697,3697,UPI,81041.22,Successful
+3698,3698,Debit Card,75398.93,Successful
+3699,3699,Net Banking,211504.85,Successful
+3700,3700,Credit Card,95048.96,Successful
+3701,3701,Wallet,109672.79,Successful
+3702,3702,UPI,288890.75,Successful
+3703,3703,Debit Card,150258.96,Successful
+3704,3704,Credit Card,87635.7,Failed
+3705,3705,COD,15970.53,Successful
+3706,3706,COD,132135.54,Successful
+3707,3707,UPI,28310.38,Successful
+3708,3708,Credit Card,20099.08,Successful
+3709,3709,Net Banking,47033.93,Successful
+3710,3710,Credit Card,152320.64,Successful
+3711,3711,Debit Card,123674.64,Successful
+3712,3712,COD,46900.79,Successful
+3713,3713,Debit Card,24679.68,Successful
+3714,3714,Credit Card,116747.37,Successful
+3715,3715,Wallet,27942.75,Successful
+3716,3716,Wallet,124269.18,Successful
+3717,3717,UPI,223861.04,Failed
+3718,3718,COD,92893.66,Failed
+3719,3719,Credit Card,44803.5,Successful
+3720,3720,Debit Card,72234.24,Successful
+3721,3721,UPI,127352.2,Successful
+3722,3722,Net Banking,51726.78,Successful
+3723,3723,Debit Card,19854.07,Failed
+3724,3724,COD,117326.51,Failed
+3725,3725,Debit Card,4097.03,Successful
+3726,3726,Credit Card,189033.13,Successful
+3727,3727,Debit Card,2048.51,Successful
+3728,3728,Credit Card,112270.54,Successful
+3729,3729,Credit Card,8436.75,Successful
+3730,3730,Credit Card,35899.26,Failed
+3731,3731,Credit Card,2563.86,Failed
+3732,3732,Net Banking,125946.36,Successful
+3733,3733,Debit Card,107610.24,Successful
+3734,3734,Net Banking,99256.18,Successful
+3735,3735,Wallet,80191.73,Successful
+3736,3736,Credit Card,130391.59,Failed
+3737,3737,UPI,24353.0,Successful
+3738,3738,Wallet,129009.65,Successful
+3739,3739,Wallet,181702.11,Successful
+3740,3740,Credit Card,31946.13,Successful
+3741,3741,COD,250885.32,Successful
+3742,3742,Net Banking,87794.19,Successful
+3743,3743,Net Banking,93967.76,Successful
+3744,3744,COD,81971.68,Successful
+3745,3745,Credit Card,52994.13,Successful
+3746,3746,Net Banking,2470.72,Successful
+3747,3747,Net Banking,44091.4,Successful
+3748,3748,COD,44473.31,Successful
+3749,3749,Debit Card,11283.7,Successful
+3750,3750,Credit Card,7790.06,Successful
+3751,3751,COD,80166.07,Successful
+3752,3752,Net Banking,68644.21,Successful
+3753,3753,Net Banking,4194.9,Successful
+3754,3754,Net Banking,42521.9,Successful
+3755,3755,Net Banking,957.84,Successful
+3756,3756,Credit Card,197613.01,Successful
+3757,3757,Wallet,51946.11,Successful
+3758,3758,Net Banking,73681.03,Successful
+3759,3759,Debit Card,118596.15,Successful
+3760,3760,COD,71434.88,Successful
+3761,3761,Wallet,181737.65,Successful
+3762,3762,Wallet,81597.47,Successful
+3763,3763,Net Banking,61129.18,Successful
+3764,3764,COD,92886.77,Successful
+3765,3765,Debit Card,96427.5,Successful
+3766,3766,Debit Card,81246.03,Failed
+3767,3767,Debit Card,29937.35,Successful
+3768,3768,Net Banking,175676.52,Successful
+3769,3769,Net Banking,73174.77,Successful
+3770,3770,UPI,50906.06,Successful
+3771,3771,Wallet,76588.83,Successful
+3772,3772,Debit Card,6468.99,Successful
+3773,3773,Credit Card,35710.0,Successful
+3774,3774,Wallet,34592.14,Successful
+3775,3775,Wallet,33538.89,Successful
+3776,3776,COD,4586.33,Successful
+3777,3777,Net Banking,48725.1,Successful
+3778,3778,Credit Card,4082.96,Successful
+3779,3779,Credit Card,94562.97,Successful
+3780,3780,Net Banking,160527.25,Successful
+3781,3781,Debit Card,21534.11,Successful
+3782,3782,Wallet,85522.14,Successful
+3783,3783,Debit Card,18833.5,Successful
+3784,3784,Credit Card,27127.2,Failed
+3785,3785,Debit Card,7215.7,Successful
+3786,3786,Debit Card,119732.78,Successful
+3787,3787,Wallet,61631.55,Failed
+3788,3788,Wallet,105691.58,Successful
+3789,3789,UPI,216833.68,Successful
+3790,3790,Wallet,133409.36,Successful
+3791,3791,UPI,4200.22,Successful
+3792,3792,UPI,59617.49,Successful
+3793,3793,Credit Card,27174.58,Successful
+3794,3794,Debit Card,32759.24,Successful
+3795,3795,COD,133453.86,Failed
+3796,3796,Credit Card,24231.27,Successful
+3797,3797,COD,73985.97,Successful
+3798,3798,Credit Card,144535.08,Successful
+3799,3799,Credit Card,99144.96,Successful
+3800,3800,Debit Card,163453.46,Failed
+3801,3801,Debit Card,77844.68,Successful
+3802,3802,Credit Card,52514.29,Successful
+3803,3803,Net Banking,87433.12,Successful
+3804,3804,COD,29119.47,Failed
+3805,3805,Credit Card,86042.87,Successful
+3806,3806,COD,26079.45,Successful
+3807,3807,Wallet,121393.93,Successful
+3808,3808,Debit Card,14542.69,Successful
+3809,3809,Wallet,118848.71,Successful
+3810,3810,COD,75390.97,Successful
+3811,3811,Credit Card,175117.01,Successful
+3812,3812,Credit Card,101432.33,Successful
+3813,3813,COD,30794.35,Successful
+3814,3814,UPI,16984.11,Successful
+3815,3815,Credit Card,66629.49,Failed
+3816,3816,Wallet,277881.29,Successful
+3817,3817,Net Banking,64106.18,Successful
+3818,3818,COD,70972.45,Successful
+3819,3819,Debit Card,10449.51,Successful
+3820,3820,Net Banking,35279.33,Successful
+3821,3821,UPI,102816.46,Failed
+3822,3822,UPI,25006.37,Successful
+3823,3823,UPI,104031.45,Successful
+3824,3824,COD,56377.49,Successful
+3825,3825,UPI,51703.65,Failed
+3826,3826,Credit Card,43046.65,Successful
+3827,3827,Debit Card,145547.42,Successful
+3828,3828,Debit Card,85995.36,Successful
+3829,3829,Credit Card,107051.89,Failed
+3830,3830,UPI,9543.83,Successful
+3831,3831,Debit Card,64110.37,Failed
+3832,3832,Wallet,170423.27,Successful
+3833,3833,Net Banking,105043.95,Failed
+3834,3834,COD,13520.73,Successful
+3835,3835,Net Banking,121595.77,Successful
+3836,3836,COD,41034.85,Successful
+3837,3837,Wallet,140522.6,Successful
+3838,3838,Debit Card,215378.77,Successful
+3839,3839,Wallet,43624.07,Successful
+3840,3840,Credit Card,102006.54,Successful
+3841,3841,Debit Card,70658.8,Successful
+3842,3842,Wallet,89223.08,Successful
+3843,3843,COD,9976.16,Successful
+3844,3844,UPI,84901.47,Successful
+3845,3845,COD,163178.25,Successful
+3846,3846,Debit Card,43794.04,Successful
+3847,3847,UPI,74910.58,Successful
+3848,3848,Net Banking,32027.8,Successful
+3849,3849,UPI,32215.71,Successful
+3850,3850,Debit Card,174849.17,Successful
+3851,3851,Debit Card,198755.62,Successful
+3852,3852,Wallet,4082.16,Successful
+3853,3853,Credit Card,16445.68,Successful
+3854,3854,Wallet,8407.84,Successful
+3855,3855,Net Banking,112090.76,Successful
+3856,3856,Credit Card,23072.5,Successful
+3857,3857,Net Banking,44664.1,Successful
+3858,3858,Credit Card,125281.49,Successful
+3859,3859,UPI,24285.53,Successful
+3860,3860,Credit Card,162615.18,Successful
+3861,3861,UPI,22364.79,Successful
+3862,3862,Credit Card,26305.85,Successful
+3863,3863,COD,35812.3,Successful
+3864,3864,Net Banking,63343.58,Successful
+3865,3865,Debit Card,142448.82,Failed
+3866,3866,Credit Card,8655.62,Successful
+3867,3867,Debit Card,88629.17,Successful
+3868,3868,Credit Card,65384.49,Successful
+3869,3869,UPI,149871.89,Failed
+3870,3870,Wallet,72098.73,Successful
+3871,3871,Debit Card,39414.64,Failed
+3872,3872,UPI,26800.41,Successful
+3873,3873,Credit Card,50743.99,Successful
+3874,3874,Credit Card,14508.85,Successful
+3875,3875,Wallet,66872.1,Failed
+3876,3876,Wallet,121813.46,Successful
+3877,3877,Net Banking,85285.68,Successful
+3878,3878,Wallet,17665.98,Successful
+3879,3879,COD,125655.09,Successful
+3880,3880,Debit Card,37019.52,Successful
+3881,3881,Debit Card,49880.26,Failed
+3882,3882,Debit Card,13686.97,Successful
+3883,3883,Wallet,192833.13,Successful
+3884,3884,Credit Card,17753.61,Successful
+3885,3885,COD,84436.85,Successful
+3886,3886,Debit Card,118690.89,Successful
+3887,3887,Credit Card,69638.78,Failed
+3888,3888,COD,26422.74,Successful
+3889,3889,Credit Card,84010.46,Successful
+3890,3890,Debit Card,5994.46,Successful
+3891,3891,Net Banking,58972.38,Successful
+3892,3892,COD,143178.51,Successful
+3893,3893,COD,4451.21,Successful
+3894,3894,Debit Card,104517.09,Successful
+3895,3895,Debit Card,105611.73,Failed
+3896,3896,Debit Card,70407.89,Failed
+3897,3897,UPI,72590.91,Successful
+3898,3898,Debit Card,175016.77,Successful
+3899,3899,UPI,80825.73,Successful
+3900,3900,Debit Card,63513.58,Successful
+3901,3901,COD,96219.7,Successful
+3902,3902,Net Banking,34508.33,Failed
+3903,3903,Net Banking,61555.22,Successful
+3904,3904,Net Banking,113089.58,Failed
+3905,3905,Debit Card,154404.23,Successful
+3906,3906,COD,122373.81,Successful
+3907,3907,Wallet,92332.83,Successful
+3908,3908,Debit Card,113169.38,Successful
+3909,3909,COD,155451.71,Successful
+3910,3910,COD,56316.61,Failed
+3911,3911,Credit Card,35329.73,Successful
+3912,3912,Net Banking,68402.48,Failed
+3913,3913,Credit Card,162477.11,Successful
+3914,3914,Debit Card,72191.68,Successful
+3915,3915,Credit Card,115011.65,Failed
+3916,3916,Wallet,113906.31,Successful
+3917,3917,UPI,96352.27,Successful
+3918,3918,Wallet,34902.94,Successful
+3919,3919,Wallet,141034.66,Successful
+3920,3920,Debit Card,138220.54,Successful
+3921,3921,COD,41454.81,Successful
+3922,3922,Wallet,15382.65,Successful
+3923,3923,Wallet,40534.8,Successful
+3924,3924,Wallet,3842.78,Successful
+3925,3925,Net Banking,24332.38,Successful
+3926,3926,Credit Card,77615.4,Successful
+3927,3927,Debit Card,2051.09,Successful
+3928,3928,Debit Card,9706.49,Successful
+3929,3929,Net Banking,126232.78,Successful
+3930,3930,UPI,149740.7,Successful
+3931,3931,UPI,8544.61,Successful
+3932,3932,UPI,10186.8,Successful
+3933,3933,Debit Card,87250.65,Successful
+3934,3934,Credit Card,36288.39,Successful
+3935,3935,Debit Card,57682.51,Successful
+3936,3936,Net Banking,185203.44,Successful
+3937,3937,Debit Card,9578.08,Successful
+3938,3938,Wallet,88604.8,Successful
+3939,3939,Debit Card,5732.91,Successful
+3940,3940,Net Banking,52321.09,Successful
+3941,3941,Debit Card,127858.71,Successful
+3942,3942,Credit Card,196451.85,Failed
+3943,3943,COD,12246.48,Successful
+3944,3944,Net Banking,12050.18,Successful
+3945,3945,Credit Card,59907.74,Successful
+3946,3946,Wallet,30206.04,Successful
+3947,3947,Credit Card,26406.03,Successful
+3948,3948,Wallet,99144.04,Successful
+3949,3949,Wallet,30908.44,Successful
+3950,3950,UPI,93413.21,Successful
+3951,3951,Debit Card,170135.41,Successful
+3952,3952,Credit Card,88799.76,Successful
+3953,3953,Credit Card,39404.63,Successful
+3954,3954,Net Banking,45331.94,Successful
+3955,3955,Credit Card,76928.92,Failed
+3956,3956,COD,10882.22,Failed
+3957,3957,Debit Card,198728.44,Successful
+3958,3958,Credit Card,84280.33,Successful
+3959,3959,Net Banking,142741.6,Successful
+3960,3960,Credit Card,47313.32,Successful
+3961,3961,COD,108824.45,Successful
+3962,3962,COD,90585.22,Successful
+3963,3963,COD,75678.7,Successful
+3964,3964,Wallet,129898.74,Successful
+3965,3965,Debit Card,49426.36,Successful
+3966,3966,Wallet,56089.32,Successful
+3967,3967,Debit Card,66115.59,Successful
+3968,3968,Credit Card,69184.29,Successful
+3969,3969,Net Banking,96191.89,Successful
+3970,3970,Credit Card,279700.18,Failed
+3971,3971,COD,224362.64,Successful
+3972,3972,Wallet,97376.9,Successful
+3973,3973,UPI,101317.02,Successful
+3974,3974,Net Banking,31610.51,Successful
+3975,3975,UPI,89666.39,Successful
+3976,3976,Wallet,92331.33,Successful
+3977,3977,Wallet,9261.62,Successful
+3978,3978,Wallet,174019.66,Successful
+3979,3979,Net Banking,29915.46,Failed
+3980,3980,COD,88470.68,Successful
+3981,3981,Debit Card,80214.58,Successful
+3982,3982,Debit Card,58902.77,Successful
+3983,3983,Credit Card,178071.24,Successful
+3984,3984,Credit Card,166390.71,Failed
+3985,3985,UPI,4082.96,Failed
+3986,3986,UPI,136058.67,Successful
+3987,3987,UPI,104504.45,Failed
+3988,3988,Wallet,61377.38,Successful
+3989,3989,Debit Card,143436.73,Successful
+3990,3990,UPI,32891.95,Successful
+3991,3991,Wallet,110039.84,Successful
+3992,3992,UPI,15080.88,Successful
+3993,3993,Net Banking,68528.02,Successful
+3994,3994,Wallet,149208.04,Successful
+3995,3995,UPI,42594.36,Failed
+3996,3996,Net Banking,72532.19,Successful
+3997,3997,Credit Card,26351.24,Successful
+3998,3998,Wallet,68666.28,Successful
+3999,3999,Debit Card,94293.03,Successful
+4000,4000,Credit Card,70245.82,Successful
+4001,4001,UPI,87892.39,Successful
+4002,4002,Debit Card,11663.76,Successful
+4003,4003,Credit Card,158409.18,Successful
+4004,4004,UPI,96174.07,Successful
+4005,4005,Wallet,8788.0,Successful
+4006,4006,COD,12166.19,Successful
+4007,4007,Net Banking,210202.48,Successful
+4008,4008,Wallet,40514.5,Successful
+4009,4009,Debit Card,22077.34,Failed
+4010,4010,Wallet,167260.95,Successful
+4011,4011,Debit Card,215076.01,Successful
+4012,4012,Credit Card,38351.59,Successful
+4013,4013,Net Banking,45601.65,Successful
+4014,4014,Debit Card,45621.4,Successful
+4015,4015,Net Banking,23359.03,Successful
+4016,4016,Net Banking,147583.9,Successful
+4017,4017,UPI,36672.43,Successful
+4018,4018,Debit Card,18792.5,Successful
+4019,4019,Wallet,64761.41,Successful
+4020,4020,Debit Card,84582.92,Failed
+4021,4021,COD,75147.3,Successful
+4022,4022,Net Banking,112626.07,Successful
+4023,4023,Credit Card,5506.56,Successful
+4024,4024,Credit Card,15607.86,Successful
+4025,4025,Credit Card,80770.48,Failed
+4026,4026,Credit Card,81328.25,Successful
+4027,4027,Net Banking,20765.25,Successful
+4028,4028,Net Banking,185974.66,Successful
+4029,4029,Net Banking,13587.29,Successful
+4030,4030,UPI,93596.22,Successful
+4031,4031,UPI,49781.18,Successful
+4032,4032,Debit Card,74221.95,Successful
+4033,4033,Wallet,70434.28,Successful
+4034,4034,Net Banking,89665.37,Failed
+4035,4035,Net Banking,150703.58,Successful
+4036,4036,Wallet,27017.87,Successful
+4037,4037,COD,17255.98,Successful
+4038,4038,Wallet,156666.35,Successful
+4039,4039,UPI,21060.78,Successful
+4040,4040,Net Banking,6699.69,Successful
+4041,4041,Net Banking,116690.09,Successful
+4042,4042,Wallet,27942.75,Successful
+4043,4043,Net Banking,41559.55,Successful
+4044,4044,Debit Card,23331.17,Successful
+4045,4045,UPI,317745.87,Successful
+4046,4046,Wallet,152656.53,Failed
+4047,4047,UPI,31169.66,Successful
+4048,4048,Credit Card,73985.97,Failed
+4049,4049,UPI,84847.76,Successful
+4050,4050,Debit Card,144862.39,Successful
+4051,4051,Net Banking,29252.04,Successful
+4052,4052,COD,151612.47,Successful
+4053,4053,Debit Card,806.6,Successful
+4054,4054,Net Banking,32111.62,Successful
+4055,4055,UPI,103776.43,Successful
+4056,4056,COD,129420.24,Successful
+4057,4057,Credit Card,41604.34,Successful
+4058,4058,COD,36362.87,Successful
+4059,4059,Net Banking,109435.92,Successful
+4060,4060,COD,117420.88,Successful
+4061,4061,UPI,129177.25,Successful
+4062,4062,Wallet,119857.98,Successful
+4063,4063,Wallet,161097.33,Successful
+4064,4064,Net Banking,118983.22,Successful
+4065,4065,UPI,46939.76,Successful
+4066,4066,COD,83002.89,Successful
+4067,4067,COD,23370.17,Successful
+4068,4068,UPI,79371.6,Successful
+4069,4069,COD,24621.69,Successful
+4070,4070,COD,66708.71,Successful
+4071,4071,Credit Card,65342.44,Failed
+4072,4072,Debit Card,217409.45,Successful
+4073,4073,COD,46174.32,Successful
+4074,4074,Net Banking,123144.99,Successful
+4075,4075,Net Banking,108287.52,Successful
+4076,4076,UPI,22210.47,Successful
+4077,4077,UPI,162268.08,Successful
+4078,4078,Net Banking,13853.18,Failed
+4079,4079,Wallet,37215.48,Failed
+4080,4080,Debit Card,61369.58,Successful
+4081,4081,Credit Card,145089.29,Successful
+4082,4082,Net Banking,85276.59,Failed
+4083,4083,COD,14818.59,Successful
+4084,4084,UPI,109088.61,Failed
+4085,4085,Wallet,28312.93,Successful
+4086,4086,Credit Card,81381.59,Successful
+4087,4087,UPI,70473.36,Successful
+4088,4088,Net Banking,100409.87,Successful
+4089,4089,Debit Card,91185.32,Successful
+4090,4090,UPI,69184.29,Successful
+4091,4091,Net Banking,5324.27,Failed
+4092,4092,Credit Card,268767.42,Successful
+4093,4093,UPI,27764.64,Successful
+4094,4094,Net Banking,10593.85,Successful
+4095,4095,COD,69638.78,Successful
+4096,4096,Credit Card,32686.46,Successful
+4097,4097,Wallet,26402.96,Successful
+4098,4098,Wallet,60359.85,Failed
+4099,4099,Net Banking,111050.01,Successful
+4100,4100,Debit Card,23206.0,Successful
+4101,4101,Debit Card,18589.12,Failed
+4102,4102,Net Banking,123465.91,Successful
+4103,4103,Debit Card,48068.41,Successful
+4104,4104,COD,63631.91,Successful
+4105,4105,Credit Card,145690.3,Failed
+4106,4106,Net Banking,100911.3,Successful
+4107,4107,Debit Card,108264.24,Successful
+4108,4108,Credit Card,80770.48,Successful
+4109,4109,Net Banking,91805.89,Successful
+4110,4110,UPI,92066.07,Successful
+4111,4111,Debit Card,18344.94,Successful
+4112,4112,Credit Card,58489.83,Successful
+4113,4113,COD,56770.97,Successful
+4114,4114,Wallet,99240.51,Successful
+4115,4115,Credit Card,80114.01,Failed
+4116,4116,Credit Card,69201.07,Successful
+4117,4117,UPI,52552.85,Successful
+4118,4118,Debit Card,142072.46,Successful
+4119,4119,Wallet,30044.01,Successful
+4120,4120,COD,36318.89,Successful
+4121,4121,Wallet,15017.2,Successful
+4122,4122,Net Banking,112123.55,Failed
+4123,4123,Debit Card,89746.68,Successful
+4124,4124,Wallet,19286.1,Failed
+4125,4125,Net Banking,140373.98,Successful
+4126,4126,Debit Card,20568.06,Successful
+4127,4127,COD,11198.01,Successful
+4128,4128,COD,142515.8,Successful
+4129,4129,Net Banking,29694.19,Successful
+4130,4130,COD,135768.23,Successful
+4131,4131,UPI,63828.7,Successful
+4132,4132,Debit Card,124904.49,Successful
+4133,4133,COD,71304.64,Successful
+4134,4134,Net Banking,117180.55,Successful
+4135,4135,Debit Card,112676.52,Successful
+4136,4136,Debit Card,14198.06,Successful
+4137,4137,UPI,163309.3,Successful
+4138,4138,Credit Card,46986.47,Successful
+4139,4139,Wallet,3045.41,Successful
+4140,4140,UPI,189520.14,Successful
+4141,4141,Wallet,44684.81,Successful
+4142,4142,Wallet,12397.18,Successful
+4143,4143,COD,43144.04,Successful
+4144,4144,Net Banking,18974.41,Failed
+4145,4145,Credit Card,15074.32,Successful
+4146,4146,Debit Card,32055.19,Successful
+4147,4147,Net Banking,24271.66,Successful
+4148,4148,Debit Card,115894.94,Successful
+4149,4149,Debit Card,63069.38,Successful
+4150,4150,Wallet,5159.62,Successful
+4151,4151,Wallet,61039.12,Successful
+4152,4152,Wallet,64106.18,Successful
+4153,4153,UPI,69252.3,Successful
+4154,4154,UPI,22364.79,Failed
+4155,4155,Net Banking,34155.74,Successful
+4156,4156,Credit Card,91123.07,Successful
+4157,4157,Wallet,24231.27,Successful
+4158,4158,COD,48728.88,Failed
+4159,4159,Net Banking,43624.07,Successful
+4160,4160,Debit Card,27747.31,Successful
+4161,4161,Credit Card,125278.7,Successful
+4162,4162,UPI,261296.76,Successful
+4163,4163,Net Banking,46646.8,Failed
+4164,4164,Wallet,2756.82,Successful
+4165,4165,Credit Card,41925.38,Successful
+4166,4166,Credit Card,89329.2,Successful
+4167,4167,Net Banking,143292.94,Successful
+4168,4168,Wallet,55312.42,Successful
+4169,4169,Debit Card,70011.92,Successful
+4170,4170,UPI,21363.74,Successful
+4171,4171,Wallet,117478.72,Successful
+4172,4172,Wallet,32062.41,Successful
+4173,4173,Credit Card,59889.48,Successful
+4174,4174,UPI,29090.3,Successful
+4175,4175,Wallet,118816.76,Failed
+4176,4176,UPI,6955.66,Successful
+4177,4177,Wallet,52868.66,Successful
+4178,4178,UPI,76393.54,Successful
+4179,4179,Credit Card,67544.68,Failed
+4180,4180,Debit Card,144302.54,Successful
+4181,4181,Wallet,58045.28,Successful
+4182,4182,Wallet,56578.64,Successful
+4183,4183,Credit Card,84690.72,Successful
+4184,4184,Wallet,208577.44,Successful
+4185,4185,Net Banking,16984.11,Successful
+4186,4186,Wallet,40963.99,Successful
+4187,4187,UPI,102226.46,Successful
+4188,4188,Wallet,33807.21,Successful
+4189,4189,Net Banking,52026.21,Successful
+4190,4190,Net Banking,83964.24,Successful
+4191,4191,UPI,92725.32,Successful
+4192,4192,COD,11665.58,Successful
+4193,4193,Net Banking,16344.06,Successful
+4194,4194,COD,54252.48,Successful
+4195,4195,Wallet,103106.86,Successful
+4196,4196,COD,2456.67,Failed
+4197,4197,COD,78851.34,Successful
+4198,4198,Debit Card,119031.98,Successful
+4199,4199,COD,52030.52,Successful
+4200,4200,Wallet,68095.98,Successful
+4201,4201,Wallet,13295.76,Successful
+4202,4202,Net Banking,21971.54,Successful
+4203,4203,Net Banking,59356.27,Successful
+4204,4204,Debit Card,191170.88,Successful
+4205,4205,UPI,49645.5,Successful
+4206,4206,COD,128720.65,Successful
+4207,4207,Net Banking,30777.61,Successful
+4208,4208,COD,139605.71,Successful
+4209,4209,Net Banking,55587.96,Successful
+4210,4210,Credit Card,250287.66,Successful
+4211,4211,Credit Card,34455.75,Failed
+4212,4212,COD,167753.88,Successful
+4213,4213,UPI,45352.89,Successful
+4214,4214,Wallet,95454.64,Successful
+4215,4215,Wallet,18848.96,Failed
+4216,4216,Credit Card,61870.37,Successful
+4217,4217,Net Banking,31127.57,Successful
+4218,4218,Net Banking,25722.82,Successful
+4219,4219,Net Banking,94352.92,Successful
+4220,4220,Wallet,111090.23,Successful
+4221,4221,COD,16450.66,Failed
+4222,4222,Credit Card,61568.24,Successful
+4223,4223,UPI,119034.73,Failed
+4224,4224,Credit Card,75936.28,Successful
+4225,4225,Debit Card,86748.41,Successful
+4226,4226,UPI,101123.32,Failed
+4227,4227,UPI,22209.83,Successful
+4228,4228,Credit Card,42137.52,Successful
+4229,4229,UPI,154797.22,Successful
+4230,4230,Credit Card,4539.32,Successful
+4231,4231,Net Banking,51337.14,Successful
+4232,4232,Debit Card,5571.61,Failed
+4233,4233,Credit Card,53808.93,Successful
+4234,4234,Credit Card,14800.85,Successful
+4235,4235,Debit Card,24231.27,Successful
+4236,4236,Net Banking,10005.3,Successful
+4237,4237,Credit Card,102015.7,Successful
+4238,4238,Wallet,48374.78,Successful
+4239,4239,Net Banking,33166.03,Successful
+4240,4240,UPI,36272.12,Successful
+4241,4241,COD,19414.82,Failed
+4242,4242,Wallet,98313.58,Successful
+4243,4243,Credit Card,12392.75,Successful
+4244,4244,COD,78820.2,Successful
+4245,4245,Debit Card,45601.65,Successful
+4246,4246,Credit Card,103776.43,Successful
+4247,4247,Net Banking,28857.33,Successful
+4248,4248,Net Banking,48680.82,Successful
+4249,4249,Wallet,128772.15,Successful
+4250,4250,Net Banking,101377.51,Successful
+4251,4251,Net Banking,22827.22,Successful
+4252,4252,Wallet,37542.26,Successful
+4253,4253,Credit Card,100629.04,Successful
+4254,4254,Wallet,95988.72,Successful
+4255,4255,UPI,39058.57,Successful
+4256,4256,Wallet,130758.65,Failed
+4257,4257,UPI,234383.83,Successful
+4258,4258,Credit Card,48020.34,Successful
+4259,4259,COD,138698.6,Successful
+4260,4260,Wallet,75280.65,Successful
+4261,4261,COD,56739.18,Successful
+4262,4262,Wallet,35035.23,Successful
+4263,4263,COD,50906.06,Successful
+4264,4264,Debit Card,38549.96,Successful
+4265,4265,UPI,89662.08,Successful
+4266,4266,UPI,33172.25,Successful
+4267,4267,UPI,21572.05,Failed
+4268,4268,Debit Card,3961.85,Successful
+4269,4269,UPI,231729.14,Successful
+4270,4270,UPI,234986.38,Successful
+4271,4271,Debit Card,181188.11,Successful
+4272,4272,Wallet,96165.56,Successful
+4273,4273,Net Banking,247279.83,Failed
+4274,4274,Net Banking,19707.32,Successful
+4275,4275,Wallet,176977.66,Failed
+4276,4276,Credit Card,34455.75,Successful
+4277,4277,Wallet,65963.28,Successful
+4278,4278,UPI,62638.77,Successful
+4279,4279,Wallet,37325.26,Successful
+4280,4280,UPI,116604.04,Successful
+4281,4281,Wallet,11135.32,Successful
+4282,4282,COD,38413.89,Successful
+4283,4283,Net Banking,170070.63,Successful
+4284,4284,Net Banking,806.6,Successful
+4285,4285,UPI,110352.26,Successful
+4286,4286,Net Banking,97650.46,Successful
+4287,4287,Wallet,72726.88,Successful
+4288,4288,Wallet,37317.44,Failed
+4289,4289,Debit Card,99291.16,Successful
+4290,4290,Wallet,43662.83,Successful
+4291,4291,UPI,18266.89,Successful
+4292,4292,UPI,15518.03,Failed
+4293,4293,Net Banking,40338.69,Successful
+4294,4294,Debit Card,13283.85,Successful
+4295,4295,Credit Card,97650.46,Successful
+4296,4296,Debit Card,9322.0,Successful
+4297,4297,Net Banking,116136.98,Successful
+4298,4298,UPI,75569.06,Successful
+4299,4299,Net Banking,168059.98,Successful
+4300,4300,Net Banking,10714.5,Successful
+4301,4301,Credit Card,18809.12,Successful
+4302,4302,Wallet,101421.63,Successful
+4303,4303,Wallet,80396.28,Successful
+4304,4304,COD,40607.57,Successful
+4305,4305,Net Banking,161971.33,Failed
+4306,4306,COD,63339.19,Successful
+4307,4307,Net Banking,78412.16,Failed
+4308,4308,Wallet,140783.49,Successful
+4309,4309,COD,22045.7,Successful
+4310,4310,Credit Card,84219.87,Successful
+4311,4311,Debit Card,11768.03,Successful
+4312,4312,UPI,20815.15,Successful
+4313,4313,Debit Card,176256.94,Failed
+4314,4314,COD,125408.75,Successful
+4315,4315,Net Banking,24656.1,Successful
+4316,4316,Net Banking,118034.71,Successful
+4317,4317,Credit Card,152711.33,Successful
+4318,4318,Debit Card,113089.58,Successful
+4319,4319,Net Banking,83517.8,Successful
+4320,4320,Net Banking,49090.74,Failed
+4321,4321,Net Banking,6468.99,Successful
+4322,4322,UPI,8751.89,Successful
+4323,4323,COD,11665.58,Successful
+4324,4324,Credit Card,85461.24,Failed
+4325,4325,Wallet,86708.47,Successful
+4326,4326,UPI,69295.37,Successful
+4327,4327,Wallet,155799.82,Successful
+4328,4328,UPI,57291.08,Successful
+4329,4329,Net Banking,6198.59,Successful
+4330,4330,UPI,18753.23,Successful
+4331,4331,Wallet,59880.36,Successful
+4332,4332,Net Banking,130769.31,Successful
+4333,4333,Credit Card,142649.47,Failed
+4334,4334,Debit Card,70245.82,Successful
+4335,4335,Debit Card,26603.09,Failed
+4336,4336,Credit Card,47779.71,Failed
+4337,4337,Debit Card,26247.56,Successful
+4338,4338,Credit Card,20943.29,Failed
+4339,4339,UPI,8165.92,Successful
+4340,4340,COD,34395.82,Successful
+4341,4341,Wallet,10418.46,Successful
+4342,4342,Net Banking,28291.94,Successful
+4343,4343,Debit Card,25668.57,Failed
+4344,4344,Debit Card,50091.68,Successful
+4345,4345,Debit Card,60014.31,Successful
+4346,4346,UPI,71795.98,Successful
+4347,4347,COD,162746.57,Successful
+4348,4348,Wallet,9472.19,Successful
+4349,4349,Debit Card,106767.79,Successful
+4350,4350,COD,10105.24,Successful
+4351,4351,Net Banking,176744.48,Failed
+4352,4352,COD,102916.53,Successful
+4353,4353,Wallet,37347.55,Successful
+4354,4354,Credit Card,118677.12,Failed
+4355,4355,Wallet,43794.04,Successful
+4356,4356,Credit Card,212793.72,Successful
+4357,4357,Net Banking,64223.25,Failed
+4358,4358,Net Banking,76043.89,Successful
+4359,4359,UPI,172893.51,Successful
+4360,4360,Credit Card,80254.04,Successful
+4361,4361,Debit Card,145417.16,Successful
+4362,4362,Wallet,79186.33,Failed
+4363,4363,COD,19175.15,Successful
+4364,4364,Debit Card,97968.92,Successful
+4365,4365,Wallet,114309.12,Successful
+4366,4366,Net Banking,15039.84,Successful
+4367,4367,Credit Card,151183.64,Successful
+4368,4368,Credit Card,38285.87,Successful
+4369,4369,Net Banking,141030.09,Successful
+4370,4370,UPI,46147.94,Successful
+4371,4371,UPI,84901.47,Successful
+4372,4372,Credit Card,83497.0,Successful
+4373,4373,Net Banking,75964.68,Successful
+4374,4374,Debit Card,29922.63,Successful
+4375,4375,Credit Card,7862.95,Successful
+4376,4376,Debit Card,62656.2,Successful
+4377,4377,Wallet,24169.99,Successful
+4378,4378,Wallet,26848.19,Successful
+4379,4379,COD,81443.83,Successful
+4380,4380,Debit Card,28265.78,Successful
+4381,4381,Wallet,64637.21,Successful
+4382,4382,Net Banking,27082.01,Successful
+4383,4383,Credit Card,1832.88,Failed
+4384,4384,COD,69638.78,Successful
+4385,4385,Net Banking,140636.97,Successful
+4386,4386,Credit Card,14646.38,Successful
+4387,4387,Debit Card,30688.69,Successful
+4388,4388,Net Banking,200500.64,Successful
+4389,4389,COD,72790.74,Successful
+4390,4390,Wallet,140447.49,Successful
+4391,4391,UPI,67069.67,Failed
+4392,4392,UPI,111657.37,Successful
+4393,4393,Credit Card,36205.21,Successful
+4394,4394,COD,109151.07,Successful
+4395,4395,Wallet,120335.95,Failed
+4396,4396,Net Banking,139488.41,Successful
+4397,4397,Wallet,70829.63,Successful
+4398,4398,COD,102096.0,Successful
+4399,4399,COD,42912.51,Successful
+4400,4400,COD,49646.92,Successful
+4401,4401,Credit Card,9643.05,Successful
+4402,4402,Wallet,119072.75,Successful
+4403,4403,COD,279207.94,Successful
+4404,4404,Credit Card,37184.05,Successful
+4405,4405,Wallet,161375.14,Successful
+4406,4406,Net Banking,62424.45,Successful
+4407,4407,COD,17843.66,Successful
+4408,4408,COD,21869.55,Successful
+4409,4409,Net Banking,132569.22,Successful
+4410,4410,COD,7370.02,Successful
+4411,4411,COD,113462.28,Successful
+4412,4412,UPI,111111.03,Failed
+4413,4413,Credit Card,31073.59,Successful
+4414,4414,Wallet,86168.74,Successful
+4415,4415,COD,188035.01,Successful
+4416,4416,Net Banking,199352.3,Successful
+4417,4417,Wallet,148009.92,Successful
+4418,4418,Debit Card,67610.17,Successful
+4419,4419,Wallet,87270.89,Successful
+4420,4420,Wallet,30489.57,Successful
+4421,4421,Credit Card,29292.75,Successful
+4422,4422,Net Banking,72856.58,Successful
+4423,4423,Wallet,34455.75,Successful
+4424,4424,UPI,74942.17,Successful
+4425,4425,COD,113853.05,Successful
+4426,4426,COD,187780.68,Successful
+4427,4427,COD,26261.48,Successful
+4428,4428,Wallet,22799.81,Successful
+4429,4429,Credit Card,135731.41,Successful
+4430,4430,Credit Card,127783.08,Successful
+4431,4431,COD,29244.91,Failed
+4432,4432,COD,85017.47,Successful
+4433,4433,UPI,48571.06,Successful
+4434,4434,Net Banking,10666.64,Successful
+4435,4435,Wallet,109911.19,Successful
+4436,4436,Wallet,7940.47,Successful
+4437,4437,Credit Card,156877.7,Successful
+4438,4438,UPI,10245.74,Successful
+4439,4439,Net Banking,51687.77,Successful
+4440,4440,Net Banking,122989.19,Successful
+4441,4441,COD,105122.76,Successful
+4442,4442,Net Banking,20903.97,Successful
+4443,4443,Credit Card,85446.42,Successful
+4444,4444,Net Banking,49635.56,Successful
+4445,4445,UPI,244114.91,Failed
+4446,4446,UPI,168930.83,Successful
+4447,4447,UPI,155821.13,Failed
+4448,4448,COD,37335.82,Successful
+4449,4449,Net Banking,87807.27,Successful
+4450,4450,COD,152526.14,Failed
+4451,4451,COD,13841.33,Successful
+4452,4452,Credit Card,51981.07,Successful
+4453,4453,Debit Card,121757.05,Successful
+4454,4454,Net Banking,66873.09,Successful
+4455,4455,Wallet,11157.46,Successful
+4456,4456,Debit Card,78970.27,Successful
+4457,4457,UPI,10443.02,Successful
+4458,4458,Credit Card,130058.34,Successful
+4459,4459,Debit Card,113423.93,Successful
+4460,4460,Wallet,29075.88,Failed
+4461,4461,Credit Card,43589.66,Successful
+4462,4462,UPI,46276.69,Successful
+4463,4463,Debit Card,144328.13,Successful
+4464,4464,UPI,254262.17,Successful
+4465,4465,Net Banking,24560.34,Successful
+4466,4466,UPI,92352.36,Successful
+4467,4467,COD,23850.85,Successful
+4468,4468,Debit Card,44419.66,Failed
+4469,4469,Credit Card,199991.35,Successful
+4470,4470,Net Banking,106905.45,Successful
+4471,4471,Net Banking,15167.11,Successful
+4472,4472,Credit Card,105651.27,Successful
+4473,4473,Debit Card,85963.9,Successful
+4474,4474,Credit Card,36278.92,Successful
+4475,4475,Wallet,48959.84,Successful
+4476,4476,Wallet,21906.62,Failed
+4477,4477,UPI,13848.99,Successful
+4478,4478,Credit Card,29571.19,Successful
+4479,4479,Wallet,162622.27,Successful
+4480,4480,Wallet,101226.9,Failed
+4481,4481,Credit Card,136611.49,Successful
+4482,4482,COD,70512.13,Failed
+4483,4483,Wallet,79456.16,Successful
+4484,4484,UPI,27071.71,Successful
+4485,4485,UPI,41392.0,Failed
+4486,4486,COD,82909.84,Successful
+4487,4487,Net Banking,25883.98,Successful
+4488,4488,Wallet,78238.36,Successful
+4489,4489,COD,17257.62,Successful
+4490,4490,Wallet,14823.3,Successful
+4491,4491,Wallet,37374.34,Failed
+4492,4492,Debit Card,33742.3,Successful
+4493,4493,Debit Card,48532.36,Successful
+4494,4494,Debit Card,3891.98,Successful
+4495,4495,Debit Card,7537.16,Successful
+4496,4496,Net Banking,36867.59,Successful
+4497,4497,Debit Card,156978.28,Successful
+4498,4498,Net Banking,64106.18,Successful
+4499,4499,Credit Card,66249.62,Successful
+4500,4500,Debit Card,113711.74,Successful
+4501,4501,Net Banking,84787.09,Successful
+4502,4502,COD,29719.7,Successful
+4503,4503,UPI,75353.23,Successful
+4504,4504,Net Banking,9167.24,Successful
+4505,4505,COD,27082.01,Successful
+4506,4506,Net Banking,134680.92,Successful
+4507,4507,Credit Card,29254.68,Successful
+4508,4508,Wallet,80931.34,Successful
+4509,4509,Net Banking,58083.08,Successful
+4510,4510,UPI,106448.81,Successful
+4511,4511,Debit Card,49750.38,Successful
+4512,4512,Credit Card,11341.34,Failed
+4513,4513,UPI,58469.49,Successful
+4514,4514,UPI,28061.93,Failed
+4515,4515,UPI,79211.17,Successful
+4516,4516,Debit Card,102229.73,Successful
+4517,4517,Net Banking,13399.39,Successful
+4518,4518,COD,71754.43,Successful
+4519,4519,Wallet,65635.29,Successful
+4520,4520,Net Banking,137938.85,Failed
+4521,4521,Credit Card,132619.66,Successful
+4522,4522,COD,273640.45,Failed
+4523,4523,Debit Card,20534.86,Successful
+4524,4524,Debit Card,20010.6,Successful
+4525,4525,COD,49888.52,Successful
+4526,4526,COD,22334.78,Successful
+4527,4527,UPI,135565.93,Successful
+4528,4528,COD,78716.58,Successful
+4529,4529,UPI,2873.51,Successful
+4530,4530,UPI,9472.19,Successful
+4531,4531,UPI,5498.64,Successful
+4532,4532,Net Banking,23822.58,Successful
+4533,4533,COD,15074.32,Successful
+4534,4534,Debit Card,14719.01,Successful
+4535,4535,Debit Card,96314.49,Successful
+4536,4536,Credit Card,105942.0,Successful
+4537,4537,Wallet,154406.89,Successful
+4538,4538,Credit Card,43286.0,Successful
+4539,4539,Debit Card,25078.82,Successful
+4540,4540,Net Banking,27853.25,Successful
+4541,4541,Credit Card,13353.63,Successful
+4542,4542,UPI,55475.67,Successful
+4543,4543,COD,219033.27,Successful
+4544,4544,Debit Card,67066.5,Failed
+4545,4545,UPI,91115.96,Successful
+4546,4546,COD,19358.18,Successful
+4547,4547,Wallet,84885.84,Successful
+4548,4548,Net Banking,207192.79,Successful
+4549,4549,Net Banking,28243.27,Failed
+4550,4550,Credit Card,112995.16,Successful
+4551,4551,UPI,24550.95,Successful
+4552,4552,UPI,77323.62,Successful
+4553,4553,COD,4945.79,Successful
+4554,4554,UPI,106821.8,Successful
+4555,4555,Debit Card,26129.21,Successful
+4556,4556,Wallet,11988.93,Successful
+4557,4557,COD,66709.97,Successful
+4558,4558,Debit Card,49681.24,Failed
+4559,4559,Wallet,160545.83,Failed
+4560,4560,Net Banking,61896.12,Successful
+4561,4561,Credit Card,61326.77,Successful
+4562,4562,UPI,113287.35,Successful
+4563,4563,Wallet,3616.42,Failed
+4564,4564,Credit Card,50612.93,Successful
+4565,4565,Net Banking,79351.34,Successful
+4566,4566,Wallet,117436.82,Successful
+4567,4567,Wallet,150755.67,Successful
+4568,4568,Net Banking,17891.92,Successful
+4569,4569,UPI,41711.2,Successful
+4570,4570,COD,36485.44,Successful
+4571,4571,COD,18851.1,Failed
+4572,4572,COD,69217.5,Successful
+4573,4573,Debit Card,23101.97,Successful
+4574,4574,COD,53564.1,Successful
+4575,4575,COD,49431.52,Successful
+4576,4576,COD,132958.79,Failed
+4577,4577,COD,120061.85,Successful
+4578,4578,Net Banking,30831.3,Successful
+4579,4579,COD,49826.88,Successful
+4580,4580,Credit Card,95169.21,Failed
+4581,4581,Wallet,44382.16,Successful
+4582,4582,Debit Card,39195.53,Successful
+4583,4583,Credit Card,80573.14,Successful
+4584,4584,Debit Card,85763.79,Successful
+4585,4585,Net Banking,58801.31,Successful
+4586,4586,COD,90598.97,Successful
+4587,4587,Wallet,127739.19,Successful
+4588,4588,UPI,21091.38,Successful
+4589,4589,Net Banking,105418.8,Successful
+4590,4590,Wallet,23962.89,Successful
+4591,4591,Debit Card,34439.39,Successful
+4592,4592,COD,91693.78,Successful
+4593,4593,Debit Card,253706.97,Successful
+4594,4594,COD,38097.65,Successful
+4595,4595,Debit Card,16413.89,Successful
+4596,4596,UPI,97671.94,Successful
+4597,4597,Credit Card,59821.63,Successful
+4598,4598,Net Banking,213790.61,Successful
+4599,4599,Debit Card,3450.13,Successful
+4600,4600,COD,97823.66,Successful
+4601,4601,Net Banking,67243.2,Successful
+4602,4602,UPI,16235.33,Successful
+4603,4603,Debit Card,34871.73,Successful
+4604,4604,Net Banking,9563.35,Successful
+4605,4605,Net Banking,118949.34,Successful
+4606,4606,Net Banking,221243.42,Successful
+4607,4607,Credit Card,109757.71,Successful
+4608,4608,Wallet,75956.89,Successful
+4609,4609,Debit Card,78481.63,Successful
+4610,4610,Net Banking,82334.61,Failed
+4611,4611,COD,82917.3,Failed
+4612,4612,Debit Card,92725.32,Successful
+4613,4613,Net Banking,73865.06,Successful
+4614,4614,Debit Card,215086.49,Successful
+4615,4615,UPI,82261.68,Successful
+4616,4616,Wallet,126788.12,Successful
+4617,4617,Credit Card,97953.36,Successful
+4618,4618,Debit Card,49243.38,Failed
+4619,4619,Net Banking,127631.73,Successful
+4620,4620,Net Banking,251462.72,Successful
+4621,4621,UPI,49090.74,Successful
+4622,4622,Debit Card,14837.37,Successful
+4623,4623,Debit Card,29481.52,Successful
+4624,4624,COD,32358.07,Successful
+4625,4625,Wallet,87565.21,Successful
+4626,4626,Net Banking,86552.57,Successful
+4627,4627,Net Banking,92127.75,Successful
+4628,4628,COD,55398.8,Successful
+4629,4629,Net Banking,73177.97,Successful
+4630,4630,Credit Card,61816.88,Successful
+4631,4631,COD,105806.21,Successful
+4632,4632,Debit Card,15788.72,Successful
+4633,4633,Credit Card,180457.19,Successful
+4634,4634,COD,67243.2,Successful
+4635,4635,Credit Card,89829.56,Successful
+4636,4636,Credit Card,38176.18,Successful
+4637,4637,COD,35607.27,Successful
+4638,4638,Net Banking,118440.12,Successful
+4639,4639,UPI,72151.9,Successful
+4640,4640,UPI,62020.35,Successful
+4641,4641,Credit Card,110113.2,Failed
+4642,4642,Debit Card,81488.48,Successful
+4643,4643,Debit Card,78386.42,Successful
+4644,4644,Wallet,104274.39,Successful
+4645,4645,Credit Card,50744.93,Successful
+4646,4646,UPI,122691.93,Successful
+4647,4647,COD,203246.13,Successful
+4648,4648,Net Banking,92242.44,Successful
+4649,4649,Wallet,117911.22,Successful
+4650,4650,Net Banking,144004.35,Successful
+4651,4651,Net Banking,64453.32,Failed
+4652,4652,Wallet,82768.39,Successful
+4653,4653,UPI,7041.07,Successful
+4654,4654,Credit Card,1714.02,Successful
+4655,4655,COD,62931.43,Successful
+4656,4656,Debit Card,55499.01,Successful
+4657,4657,Credit Card,10178.77,Successful
+4658,4658,COD,39230.69,Successful
+4659,4659,UPI,52274.77,Successful
+4660,4660,Net Banking,58547.88,Successful
+4661,4661,Credit Card,116833.3,Successful
+4662,4662,Credit Card,27699.4,Successful
+4663,4663,Debit Card,4378.48,Successful
+4664,4664,Wallet,34272.15,Failed
+4665,4665,Debit Card,59121.95,Successful
+4666,4666,Net Banking,44157.02,Successful
+4667,4667,COD,86708.47,Failed
+4668,4668,COD,87714.76,Successful
+4669,4669,UPI,7719.63,Failed
+4670,4670,Debit Card,120825.56,Successful
+4671,4671,COD,35790.53,Failed
+4672,4672,UPI,35933.69,Successful
+4673,4673,COD,21123.2,Successful
+4674,4674,Debit Card,173643.19,Successful
+4675,4675,Wallet,192108.13,Successful
+4676,4676,COD,125461.15,Successful
+4677,4677,Net Banking,72202.61,Successful
+4678,4678,UPI,104090.72,Successful
+4679,4679,Debit Card,72290.76,Successful
+4680,4680,Debit Card,77831.58,Failed
+4681,4681,Credit Card,150344.44,Failed
+4682,4682,Wallet,38014.22,Successful
+4683,4683,Debit Card,94831.54,Successful
+4684,4684,UPI,144278.84,Successful
+4685,4685,UPI,79553.03,Successful
+4686,4686,Net Banking,127029.16,Failed
+4687,4687,Wallet,123705.08,Successful
+4688,4688,COD,67066.5,Successful
+4689,4689,UPI,41410.18,Successful
+4690,4690,Debit Card,35139.6,Failed
+4691,4691,COD,75569.06,Successful
+4692,4692,UPI,24088.94,Successful
+4693,4693,Debit Card,91753.94,Failed
+4694,4694,Wallet,42804.34,Successful
+4695,4695,UPI,52177.71,Failed
+4696,4696,Debit Card,17747.58,Successful
+4697,4697,UPI,17255.98,Successful
+4698,4698,Wallet,76283.23,Successful
+4699,4699,Debit Card,76411.48,Successful
+4700,4700,UPI,46656.58,Failed
+4701,4701,UPI,35135.44,Successful
+4702,4702,Net Banking,134493.12,Successful
+4703,4703,Net Banking,16445.68,Successful
+4704,4704,Net Banking,42962.98,Successful
+4705,4705,COD,120335.95,Successful
+4706,4706,Debit Card,87227.64,Successful
+4707,4707,Debit Card,35724.67,Successful
+4708,4708,Credit Card,153417.65,Successful
+4709,4709,Wallet,117248.44,Successful
+4710,4710,Credit Card,7215.7,Successful
+4711,4711,Net Banking,13353.63,Failed
+4712,4712,Net Banking,64433.31,Successful
+4713,4713,Debit Card,33163.94,Successful
+4714,4714,Debit Card,100281.34,Successful
+4715,4715,UPI,23158.9,Successful
+4716,4716,Credit Card,79907.26,Successful
+4717,4717,Credit Card,88058.29,Successful
+4718,4718,COD,42714.11,Successful
+4719,4719,Net Banking,99424.11,Successful
+4720,4720,Net Banking,88359.23,Successful
+4721,4721,Debit Card,86583.31,Successful
+4722,4722,Debit Card,76571.75,Successful
+4723,4723,UPI,74724.35,Successful
+4724,4724,Net Banking,80619.82,Successful
+4725,4725,Net Banking,112374.51,Successful
+4726,4726,COD,52026.21,Successful
+4727,4727,Net Banking,76283.23,Successful
+4728,4728,Debit Card,226916.2,Successful
+4729,4729,UPI,107621.06,Successful
+4730,4730,Credit Card,74671.77,Successful
+4731,4731,Wallet,17257.62,Successful
+4732,4732,Wallet,5028.48,Successful
+4733,4733,Wallet,3806.76,Successful
+4734,4734,Credit Card,71591.74,Failed
+4735,4735,UPI,37547.68,Successful
+4736,4736,Net Banking,1372.26,Successful
+4737,4737,Credit Card,30737.22,Successful
+4738,4738,Debit Card,151746.72,Successful
+4739,4739,Debit Card,84585.0,Successful
+4740,4740,COD,21484.44,Successful
+4741,4741,Net Banking,79136.76,Successful
+4742,4742,Credit Card,105615.91,Failed
+4743,4743,Credit Card,8646.26,Successful
+4744,4744,Wallet,157491.59,Successful
+4745,4745,Net Banking,72623.43,Successful
+4746,4746,Wallet,65213.21,Successful
+4747,4747,Net Banking,104019.8,Failed
+4748,4748,Credit Card,41364.97,Successful
+4749,4749,COD,66067.92,Successful
+4750,4750,COD,42129.54,Successful
+4751,4751,Debit Card,22980.54,Failed
+4752,4752,UPI,10105.24,Successful
+4753,4753,Wallet,20153.8,Successful
+4754,4754,Debit Card,43281.01,Failed
+4755,4755,Wallet,110970.85,Successful
+4756,4756,UPI,16619.7,Successful
+4757,4757,Debit Card,14082.13,Successful
+4758,4758,UPI,65114.62,Successful
+4759,4759,Credit Card,13587.29,Successful
+4760,4760,Credit Card,55295.22,Successful
+4761,4761,COD,76411.48,Failed
+4762,4762,UPI,24868.92,Successful
+4763,4763,Debit Card,80851.63,Successful
+4764,4764,Net Banking,69699.7,Successful
+4765,4765,COD,91293.62,Successful
+4766,4766,UPI,36863.48,Successful
+4767,4767,COD,102730.75,Successful
+4768,4768,Wallet,60945.77,Successful
+4769,4769,Credit Card,95131.03,Successful
+4770,4770,Debit Card,45611.81,Failed
+4771,4771,COD,24875.19,Successful
+4772,4772,Debit Card,186875.93,Successful
+4773,4773,Debit Card,3181.28,Successful
+4774,4774,Wallet,144818.74,Successful
+4775,4775,UPI,21385.71,Successful
+4776,4776,Credit Card,35312.82,Successful
+4777,4777,Net Banking,14236.85,Successful
+4778,4778,COD,128047.06,Successful
+4779,4779,UPI,150906.07,Successful
+4780,4780,UPI,100281.34,Failed
+4781,4781,UPI,145194.49,Successful
+4782,4782,Wallet,76544.48,Successful
+4783,4783,Debit Card,46888.6,Successful
+4784,4784,UPI,7412.16,Successful
+4785,4785,Debit Card,91818.57,Successful
+4786,4786,Credit Card,13278.78,Successful
+4787,4787,Debit Card,68035.75,Successful
+4788,4788,Credit Card,43174.27,Failed
+4789,4789,Debit Card,15220.08,Successful
+4790,4790,UPI,102017.94,Successful
+4791,4791,Wallet,160175.94,Successful
+4792,4792,Wallet,96999.72,Successful
+4793,4793,UPI,47680.99,Successful
+4794,4794,Debit Card,115393.0,Failed
+4795,4795,Credit Card,87751.01,Successful
+4796,4796,Net Banking,137725.68,Successful
+4797,4797,COD,19339.1,Failed
+4798,4798,Wallet,91129.16,Successful
+4799,4799,COD,94027.96,Failed
+4800,4800,Debit Card,5831.88,Successful
+4801,4801,Net Banking,198146.79,Successful
+4802,4802,UPI,160314.31,Successful
+4803,4803,Net Banking,83179.49,Successful
+4804,4804,Debit Card,166487.86,Successful
+4805,4805,UPI,108719.07,Successful
+4806,4806,Debit Card,133579.99,Successful
+4807,4807,UPI,221258.43,Successful
+4808,4808,Debit Card,5216.74,Successful
+4809,4809,COD,41862.82,Successful
+4810,4810,Wallet,40309.91,Successful
+4811,4811,COD,54254.39,Successful
+4812,4812,COD,59880.71,Successful
+4813,4813,Net Banking,45985.5,Failed
+4814,4814,Net Banking,119372.34,Successful
+4815,4815,Net Banking,98311.29,Successful
+4816,4816,Net Banking,21477.77,Successful
+4817,4817,UPI,30536.32,Successful
+4818,4818,COD,135680.1,Successful
+4819,4819,Debit Card,61152.68,Successful
+4820,4820,COD,25896.5,Successful
+4821,4821,UPI,58244.45,Successful
+4822,4822,Net Banking,80540.15,Failed
+4823,4823,Debit Card,86906.12,Successful
+4824,4824,Net Banking,19682.6,Successful
+4825,4825,Credit Card,22541.63,Successful
+4826,4826,UPI,112007.47,Successful
+4827,4827,COD,25372.47,Successful
+4828,4828,UPI,139741.99,Successful
+4829,4829,Wallet,457.42,Successful
+4830,4830,Debit Card,47720.22,Successful
+4831,4831,Debit Card,187919.44,Failed
+4832,4832,Credit Card,228685.15,Successful
+4833,4833,UPI,5888.66,Successful
+4834,4834,UPI,84240.07,Successful
+4835,4835,Debit Card,155028.17,Failed
+4836,4836,Wallet,41630.29,Successful
+4837,4837,COD,84807.28,Successful
+4838,4838,COD,19041.24,Successful
+4839,4839,COD,200880.6,Successful
+4840,4840,Credit Card,25876.35,Successful
+4841,4841,Credit Card,25321.85,Successful
+4842,4842,Net Banking,55552.08,Failed
+4843,4843,Wallet,50561.72,Failed
+4844,4844,Credit Card,83828.26,Successful
+4845,4845,Credit Card,20528.98,Successful
+4846,4846,Net Banking,2646.82,Successful
+4847,4847,Credit Card,87849.0,Successful
+4848,4848,Credit Card,28956.1,Successful
+4849,4849,COD,40465.67,Successful
+4850,4850,UPI,39773.19,Successful
+4851,4851,Credit Card,61418.5,Successful
+4852,4852,Wallet,147201.2,Successful
+4853,4853,UPI,24621.69,Successful
+4854,4854,Debit Card,52026.21,Failed
+4855,4855,Debit Card,68641.98,Successful
+4856,4856,Debit Card,81393.28,Successful
+4857,4857,Credit Card,24385.14,Failed
+4858,4858,Credit Card,76534.77,Successful
+4859,4859,Wallet,110271.89,Successful
+4860,4860,Debit Card,6198.59,Successful
+4861,4861,UPI,73389.76,Successful
+4862,4862,Debit Card,9261.62,Failed
+4863,4863,COD,147096.56,Successful
+4864,4864,Credit Card,17908.54,Successful
+4865,4865,Debit Card,4102.18,Successful
+4866,4866,UPI,95898.35,Failed
+4867,4867,Wallet,82893.4,Successful
+4868,4868,COD,84371.2,Successful
+4869,4869,Debit Card,12694.16,Successful
+4870,4870,UPI,74861.78,Successful
+4871,4871,UPI,27392.09,Successful
+4872,4872,COD,36158.88,Successful
+4873,4873,Wallet,20125.08,Successful
+4874,4874,Net Banking,144337.05,Successful
+4875,4875,UPI,40385.24,Successful
+4876,4876,Wallet,41501.45,Failed
+4877,4877,Debit Card,806.6,Successful
+4878,4878,Credit Card,120186.19,Successful
+4879,4879,Net Banking,5324.27,Successful
+4880,4880,UPI,2873.51,Successful
+4881,4881,UPI,92332.83,Successful
+4882,4882,Net Banking,21297.42,Successful
+4883,4883,Debit Card,29694.19,Successful
+4884,4884,Wallet,151812.1,Successful
+4885,4885,Credit Card,34118.6,Failed
+4886,4886,Debit Card,42475.45,Successful
+4887,4887,Credit Card,173004.38,Successful
+4888,4888,UPI,72078.82,Successful
+4889,4889,COD,118146.52,Successful
+4890,4890,COD,8374.62,Successful
+4891,4891,Credit Card,36863.48,Successful
+4892,4892,Credit Card,120872.71,Failed
+4893,4893,Credit Card,9679.09,Successful
+4894,4894,Net Banking,12725.39,Successful
+4895,4895,COD,34577.12,Failed
+4896,4896,Credit Card,98008.02,Successful
+4897,4897,COD,11753.95,Successful
+4898,4898,COD,32521.31,Successful
+4899,4899,COD,3045.41,Successful
+4900,4900,Credit Card,27639.1,Successful
+4901,4901,Debit Card,38456.62,Failed
+4902,4902,Net Banking,39450.2,Successful
+4903,4903,Debit Card,79930.61,Failed
+4904,4904,Debit Card,31348.53,Successful
+4905,4905,Debit Card,34455.75,Successful
+4906,4906,Net Banking,127414.54,Successful
+4907,4907,Debit Card,212703.48,Successful
+4908,4908,Credit Card,38799.89,Successful
+4909,4909,COD,28833.78,Successful
+4910,4910,COD,29751.07,Successful
+4911,4911,Wallet,3235.75,Failed
+4912,4912,Net Banking,103446.96,Successful
+4913,4913,Credit Card,94908.24,Successful
+4914,4914,Net Banking,135115.21,Failed
+4915,4915,Net Banking,106753.46,Failed
+4916,4916,Debit Card,209905.87,Successful
+4917,4917,UPI,88377.72,Successful
+4918,4918,Wallet,213982.71,Successful
+4919,4919,Credit Card,75934.49,Successful
+4920,4920,UPI,49120.69,Successful
+4921,4921,Wallet,55411.42,Successful
+4922,4922,Wallet,99228.19,Successful
+4923,4923,Net Banking,62273.29,Failed
+4924,4924,Credit Card,41530.5,Successful
+4925,4925,Wallet,90209.08,Successful
+4926,4926,Credit Card,179616.43,Successful
+4927,4927,UPI,18140.54,Failed
+4928,4928,Wallet,70963.71,Successful
+4929,4929,Debit Card,10105.24,Successful
+4930,4930,Debit Card,10005.3,Successful
+4931,4931,Net Banking,10443.02,Successful
+4932,4932,COD,26782.05,Successful
+4933,4933,Wallet,55476.23,Successful
+4934,4934,Net Banking,46465.78,Successful
+4935,4935,Credit Card,54292.68,Successful
+4936,4936,Credit Card,104790.11,Successful
+4937,4937,Debit Card,94956.93,Successful
+4938,4938,Credit Card,27706.37,Successful
+4939,4939,Credit Card,16783.93,Successful
+4940,4940,Wallet,223603.45,Successful
+4941,4941,Debit Card,19878.81,Successful
+4942,4942,Credit Card,177726.13,Failed
+4943,4943,Debit Card,42737.45,Failed
+4944,4944,Credit Card,43624.07,Successful
+4945,4945,Debit Card,44873.19,Successful
+4946,4946,Net Banking,18502.35,Successful
+4947,4947,UPI,19812.47,Failed
+4948,4948,Net Banking,168531.32,Successful
+4949,4949,Wallet,100524.07,Successful
+4950,4950,COD,151744.36,Successful
+4951,4951,Wallet,45045.17,Successful
+4952,4952,Wallet,8655.62,Failed
+4953,4953,Debit Card,64453.32,Failed
+4954,4954,Debit Card,35429.54,Successful
+4955,4955,Debit Card,132696.36,Successful
+4956,4956,UPI,73968.42,Successful
+4957,4957,UPI,100524.07,Successful
+4958,4958,UPI,8419.73,Successful
+4959,4959,UPI,183940.04,Failed
+4960,4960,UPI,42835.2,Successful
+4961,4961,UPI,153062.71,Successful
+4962,4962,Wallet,35662.45,Failed
+4963,4963,COD,144555.57,Successful
+4964,4964,Debit Card,26935.69,Successful
+4965,4965,UPI,107662.49,Successful
+4966,4966,Net Banking,98179.75,Successful
+4967,4967,Credit Card,57619.51,Successful
+4968,4968,Credit Card,135703.75,Successful
+4969,4969,Debit Card,76417.74,Successful
+4970,4970,Credit Card,62147.18,Successful
+4971,4971,Credit Card,97868.23,Failed
+4972,4972,Credit Card,8334.77,Successful
+4973,4973,Net Banking,129885.57,Successful
+4974,4974,Wallet,59437.41,Successful
+4975,4975,Debit Card,63951.06,Successful
+4976,4976,Credit Card,18809.12,Successful
+4977,4977,UPI,52517.69,Successful
+4978,4978,UPI,74671.77,Successful
+4979,4979,UPI,24890.59,Successful
+4980,4980,Net Banking,78642.43,Successful
+4981,4981,Net Banking,49872.25,Successful
+4982,4982,COD,156577.16,Successful
+4983,4983,UPI,105559.4,Successful
+4984,4984,Wallet,150397.11,Successful
+4985,4985,COD,70589.91,Successful
+4986,4986,Credit Card,28049.36,Successful
+4987,4987,Debit Card,11663.76,Successful
+4988,4988,Credit Card,92135.05,Successful
+4989,4989,Net Banking,40607.57,Successful
+4990,4990,Credit Card,95741.62,Failed
+4991,4991,Debit Card,29565.52,Successful
+4992,4992,Wallet,81247.95,Successful
+4993,4993,Credit Card,12372.58,Successful
+4994,4994,Wallet,49646.92,Successful
+4995,4995,Credit Card,92127.23,Successful
+4996,4996,Debit Card,114883.24,Successful
+4997,4997,COD,104607.54,Successful
+4998,4998,Credit Card,92045.13,Successful
+4999,4999,COD,2918.99,Successful
+5000,5000,UPI,115477.51,Failed
